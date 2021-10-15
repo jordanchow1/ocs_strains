@@ -13,7 +13,8 @@
 
 import pandas as pd
 from selenium import webdriver
-from selenium.common.exceptions import StaleElementReferenceException
+from selenium.common.exceptions import ElementNotInteractableException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException
 import time
 
 chromedriver = '/Users/jordan5560/Desktop/Projects/Canada/chromedriver'
@@ -36,7 +37,7 @@ driver.find_element_by_xpath(age_year).send_keys("1998")
 
 driver.find_element_by_xpath('//*[@id="shopify-section-overlay"]/div/section/div/div[2]/form/p[3]/button').click()
 
-strains = driver.find_elements_by_css_selector('#product_6536042547020--')
+strains = driver.find_elements_by_class_name('product-tile')
 strain_list = []
 price_list = []
 gram_list = []
@@ -52,21 +53,57 @@ index = 0
 while index < len(strains):
         
         try:
-            driver.implicitly_wait(3)
+            driver.implicitly_wait(5)
             strains[index].click()
             # driver.find_element_by_xpath('//*[@id="product-description--4357898995532"]/div/div[2]/button[1]').click()
             # driver.find_element_by_css_selector('#product-description--5795347990348 > div > div.properties__toggles.js-properties-toggles > button.properties__show-more.js-properties-show-more.btn.btn--outline.enabled').click()
 
             name = driver.find_element_by_css_selector('#main > section > div.container--product > header > h1').text
-            price = float(driver.find_element_by_class_name('swatch__price').text[1:])
+            
+            price = ""
+            prices = driver.find_elements_by_class_name('swatch__price')
+
+            for i in prices:
+                if i == 0:
+                    price += i.text[1:]
+                else:
+                    price += ", " + i.text[1:]
+
+            price = price[1:]
+
+            price_per_gram = ""
+            prices_per_gram = driver.find_elements_by_class_name('swatch__price-per-unit')
+
+            for i in prices_per_gram:
+                if i == 0:
+                    price_per_gram += ", " + i.text[1:5]
+
+            price_per_gram = price_per_gram[1:]
+
             gram = float(driver.find_element_by_class_name('swatch__title').text[:-1])
             type = driver.find_element_by_css_selector('#main > section > div.container--product > div.row > div.product__gallery > div > ul > li:nth-child(3) > p').text
+            
+            try:
+                driver.find_element_by_css_selector('#product-description--1314094778188 > div > div.properties__toggles.js-properties-toggles > button.properties__show-more.js-properties-show-more.btn.btn--outline.enabled').click()
+            except:
+                pass
+           
             producer = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(1) > td:nth-child(2)').text
             brand = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(2) > td:nth-child(2)').text
             potency = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(3) > td:nth-child(2)').text
             thc = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(4) > td:nth-child(2)').text
             cbd = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(5) > td:nth-child(2)').text
-            province = driver.find_element_by_xpath('/html/body/div[1]/div[6]/section/section[1]/div/table/tbody/tr[8]/td[2]').text
+            
+            try:
+                driver.find_element_by_class_name('properties__show-more').click()
+            except NoSuchElementException:
+                print("NoSuchElementException")
+                pass
+            except ElementNotInteractableException:
+                print("ElementNotInteractableException")
+                pass
+
+            province = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(8) > td:nth-child(2)').text
 
             strain_list.append(name)
             price_list.append(price)
@@ -85,7 +122,8 @@ while index < len(strains):
             driver.back()
        
         except StaleElementReferenceException as Exception:
-            strains = driver.find_elements_by_css_selector('#product_2109146269516-- > div > a > div > div.product-tile__info > div')
+            driver.implicitly_wait(5)
+            strains = driver.find_elements_by_class_name('product-tile')
     
 driver.close()
     
