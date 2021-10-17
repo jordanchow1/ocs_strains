@@ -13,9 +13,10 @@
 
 import pandas as pd
 from selenium import webdriver
-from selenium.common.exceptions import ElementNotInteractableException, StaleElementReferenceException
+from selenium.common.exceptions import ElementClickInterceptedException, ElementNotInteractableException, StaleElementReferenceException
 from selenium.common.exceptions import NoSuchElementException
 import time
+import re
 
 chromedriver = '/Users/jordan5560/Desktop/Projects/Canada/chromedriver'
 
@@ -40,6 +41,7 @@ driver.find_element_by_xpath('//*[@id="shopify-section-overlay"]/div/section/div
 strains = driver.find_elements_by_class_name('product-tile')
 strain_list = []
 price_list = []
+price_per_gram_list = []
 gram_list = []
 type_list = []
 producer_list = []
@@ -49,11 +51,24 @@ thc_list = []
 cbd_list = []
 province_list = []
 
+
+# num_pages = int(driver.find_element_by_css_selector('#main > section > div.collection-container > div.collection__utilities > div > div > div > nav > ul > li:nth-child(5) > a').text)
+# page = 0
+
+# def scrape():
+
 index = 0
 while index < len(strains):
         
+        # Look for pop-up window and close it if found
         try:
-            driver.implicitly_wait(5)
+            driver.find_element_by_css_selector('#ip-no').click()
+        except NoSuchElementException:
+            pass         
+        
+        try:
+            # time.sleep(1)
+            driver.execute_script("window.scrollTo(0, 1)") # Make the browser scroll down so it won't sometimes idle
             strains[index].click()
             # driver.find_element_by_xpath('//*[@id="product-description--4357898995532"]/div/div[2]/button[1]').click()
             # driver.find_element_by_css_selector('#product-description--5795347990348 > div > div.properties__toggles.js-properties-toggles > button.properties__show-more.js-properties-show-more.btn.btn--outline.enabled').click()
@@ -76,7 +91,9 @@ while index < len(strains):
 
             for i in prices_per_gram:
                 if i == 0:
-                    price_per_gram += ", " + i.text[1:5]
+                    price_per_gram += i.text[1:-3]
+                else:
+                    price_per_gram += ", " + i.text[1:-3]
 
             price_per_gram = price_per_gram[1:]
 
@@ -91,22 +108,23 @@ while index < len(strains):
             producer = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(1) > td:nth-child(2)').text
             brand = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(2) > td:nth-child(2)').text
             potency = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(3) > td:nth-child(2)').text
-            thc = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(4) > td:nth-child(2)').text
-            cbd = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(5) > td:nth-child(2)').text
+            thc = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(4) > td:nth-child(2)').text.rpartition('|')[0]
+            cbd = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(5) > td:nth-child(2)').text.rpartition('|')[0]
             
             try:
                 driver.find_element_by_class_name('properties__show-more').click()
-            except NoSuchElementException:
-                print("NoSuchElementException")
-                pass
+            # except NoSuchElementException:
+            #     print("NoSuchElementException")
+            #     pass
             except ElementNotInteractableException:
-                print("ElementNotInteractableException")
+                # print("No 'Show More' Button")
                 pass
 
-            province = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(8) > td:nth-child(2)').text
+            province = driver.find_element_by_xpath('/html/body/div[1]/div[6]/section/section[1]/div/table/tbody/tr[8]/td[2]').text
 
             strain_list.append(name)
             price_list.append(price)
+            price_per_gram_list.append(price_per_gram)
             gram_list.append(gram)
             type_list.append(type)
             producer_list.append(producer)
@@ -122,14 +140,23 @@ while index < len(strains):
             driver.back()
        
         except StaleElementReferenceException as Exception:
-            driver.implicitly_wait(5)
+            time.sleep(1)
             strains = driver.find_elements_by_class_name('product-tile')
+        except ElementClickInterceptedException as Exception:
+            time.sleep(1)
+            strains = driver.find_elements_by_class_name('product-tile')
+        except NoSuchElementException as Exception:
+            time.sleep(1)
+            strains = driver.find_elements_by_class_name('product-tile')
+
+
     
 driver.close()
     
 df = pd.DataFrame()
 df['name'] = strain_list
 df['price'] = price_list
+df['price_per_gram'] = price_per_gram_list
 df['grams'] = gram_list
 df['type'] = type_list
 df['producer'] = producer_list
