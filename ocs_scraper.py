@@ -23,10 +23,9 @@ chromedriver = '/Users/jordan5560/Desktop/Projects/Canada/chromedriver'
 driver = webdriver.Chrome(chromedriver)
 driver.get("https://ocs.ca/collections/dried-flower")
 
+# Age verification
 age_month = '//*[@id="dob__month"]'
-
 age_day = '//*[@id="dob__day"]'
-
 age_year = '//*[@id="dob__year"]'
 
 # driver.find_element_by_xpath(age_month).send_keys(input("Enter the month of your birth date (MM):\n"))
@@ -35,7 +34,6 @@ driver.find_element_by_xpath(age_month).send_keys("12")
 driver.find_element_by_xpath(age_day).send_keys("12")
 # driver.find_element_by_xpath(age_year).send_keys(input("Enter the year of your birth date (YYYY): \n"))
 driver.find_element_by_xpath(age_year).send_keys("1998")
-
 driver.find_element_by_xpath('//*[@id="shopify-section-overlay"]/div/section/div/div[2]/form/p[3]/button').click()
 
 strain_list = []
@@ -50,6 +48,7 @@ thc_list = []
 cbd_list = []
 province_list = []
 
+# function for scraping a single page
 def scrape():
     strains = driver.find_elements_by_class_name('product-tile')
 
@@ -99,11 +98,9 @@ def scrape():
                 thc = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(4) > td:nth-child(2)').text.rpartition('|')[0]
                 cbd = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(5) > td:nth-child(2)').text.rpartition('|')[0]
                 
+                # Click on "Show More" button
                 try:
                     driver.find_element_by_class_name('properties__show-more').click()
-                # except NoSuchElementException:
-                #     print("NoSuchElementException")
-                #     pass
                 except ElementNotInteractableException:
                     # print("No 'Show More' Button")
                     pass
@@ -133,22 +130,29 @@ def scrape():
                 strains = driver.find_elements_by_class_name('product-tile')
             except NoSuchElementException as Exception:
                 strains = driver.find_elements_by_class_name('product-tile')
+            except ElementNotInteractableException as Exception:
+                strains = driver.find_elements_by_class_name('product-tile')
 
+# Number of pages
 num_pages = int(driver.find_element_by_css_selector('#main > section > div.collection-container > div.collection__utilities > div > div > div > nav > ul > li:nth-child(5) > a').text)
-page = 1
+page = 1 # Initialize page to page one
 
+# Click on next page after scraping current page
 while page <= num_pages:
     scrape()
-    page += 1
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(0.5)
     try:
         driver.find_element_by_css_selector('#main > div.collection__utilities > div > nav > ul > li.pagination_next').click()
+        page += 1
     except ElementClickInterceptedException as Exception:
-        pass
+        time.sleep(1)
+        driver.find_element_by_css_selector('#main > div.collection__utilities > div > nav > ul > li.pagination_next').click()
+        page += 1
 
 driver.close()
-    
+
+# Create dataframe for export as csv file
 df = pd.DataFrame()
 df['name'] = strain_list
 df['price'] = price_list
