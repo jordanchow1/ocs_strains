@@ -38,7 +38,6 @@ driver.find_element_by_xpath(age_year).send_keys("1998")
 
 driver.find_element_by_xpath('//*[@id="shopify-section-overlay"]/div/section/div/div[2]/form/p[3]/button').click()
 
-strains = driver.find_elements_by_class_name('product-tile')
 strain_list = []
 price_list = []
 price_per_gram_list = []
@@ -51,106 +50,103 @@ thc_list = []
 cbd_list = []
 province_list = []
 
+def scrape():
+    strains = driver.find_elements_by_class_name('product-tile')
 
-# num_pages = int(driver.find_element_by_css_selector('#main > section > div.collection-container > div.collection__utilities > div > div > div > nav > ul > li:nth-child(5) > a').text)
-# page = 0
-
-# def scrape():
-
-index = 0
-while index < len(strains):
-        
-        # Look for pop-up window and close it if found
-        try:
-            driver.find_element_by_css_selector('#ip-no').click()
-        except NoSuchElementException:
-            pass         
-        
-        try:
-            # time.sleep(1)
-            driver.execute_script("window.scrollTo(0, 1)") # Make the browser scroll down so it won't sometimes idle
-            strains[index].click()
-            # driver.find_element_by_xpath('//*[@id="product-description--4357898995532"]/div/div[2]/button[1]').click()
-            # driver.find_element_by_css_selector('#product-description--5795347990348 > div > div.properties__toggles.js-properties-toggles > button.properties__show-more.js-properties-show-more.btn.btn--outline.enabled').click()
-
-            name = driver.find_element_by_css_selector('#main > section > div.container--product > header > h1').text
+    index = 0
+    while index < len(strains):
             
-            price = ""
-            prices = driver.find_elements_by_class_name('swatch__price')
-
-            for i in prices:
-                if i == 0:
-                    price += i.text[1:]
-                else:
-                    price += ", " + i.text[1:]
-
-            price = price[1:]
-
-            price_per_gram = ""
-            prices_per_gram = driver.find_elements_by_class_name('swatch__price-per-unit')
-
-            for i in prices_per_gram:
-                if i == 0:
-                    price_per_gram += i.text[1:-3]
-                else:
-                    price_per_gram += ", " + i.text[1:-3]
-
-            price_per_gram = price_per_gram[1:]
-
-            gram = float(driver.find_element_by_class_name('swatch__title').text[:-1])
-            type = driver.find_element_by_css_selector('#main > section > div.container--product > div.row > div.product__gallery > div > ul > li:nth-child(3) > p').text
+            # Look for pop-up window and close it if found
+            try:
+                driver.find_element_by_css_selector('#ip-no').click()
+            except NoSuchElementException:
+                pass         
             
             try:
-                driver.find_element_by_css_selector('#product-description--1314094778188 > div > div.properties__toggles.js-properties-toggles > button.properties__show-more.js-properties-show-more.btn.btn--outline.enabled').click()
-            except:
-                pass
-           
-            producer = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(1) > td:nth-child(2)').text
-            brand = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(2) > td:nth-child(2)').text
-            potency = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(3) > td:nth-child(2)').text
-            thc = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(4) > td:nth-child(2)').text.rpartition('|')[0]
-            cbd = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(5) > td:nth-child(2)').text.rpartition('|')[0]
+                driver.execute_script("window.scrollTo(0, 99)")
+                strains[index].click()
+
+                name = driver.find_element_by_css_selector('#main > section > div.container--product > header > h1').text
+                price = ""
+                prices = driver.find_elements_by_class_name('swatch__price')
+                for i in prices:
+                    if i == 0:
+                        price += i.text[1:]
+                    else:
+                        price += ", " + i.text[1:]
+                price = price[1:]
+
+                price_per_gram = ""
+                prices_per_gram = driver.find_elements_by_class_name('swatch__price-per-unit')
+                for i in prices_per_gram:
+                    if i == 0:
+                        price_per_gram += i.text[1:-3]
+                    else:
+                        price_per_gram += ", " + i.text[1:-3]
+                price_per_gram = price_per_gram[1:]
+
+                gram = float(driver.find_element_by_class_name('swatch__title').text[:-1])
+                type = driver.find_element_by_css_selector('#main > section > div.container--product > div.row > div.product__gallery > div > ul > li:nth-child(3) > p').text
+                
+                try:
+                    driver.find_element_by_css_selector('#product-description--1314094778188 > div > div.properties__toggles.js-properties-toggles > button.properties__show-more.js-properties-show-more.btn.btn--outline.enabled').click()
+                except:
+                    pass
             
-            try:
-                driver.find_element_by_class_name('properties__show-more').click()
-            # except NoSuchElementException:
-            #     print("NoSuchElementException")
-            #     pass
-            except ElementNotInteractableException:
-                # print("No 'Show More' Button")
-                pass
+                producer = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(1) > td:nth-child(2)').text
+                brand = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(2) > td:nth-child(2)').text
+                potency = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(3) > td:nth-child(2)').text
+                thc = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(4) > td:nth-child(2)').text.rpartition('|')[0]
+                cbd = driver.find_element_by_css_selector('#product__properties-table > tbody > tr:nth-child(5) > td:nth-child(2)').text.rpartition('|')[0]
+                
+                try:
+                    driver.find_element_by_class_name('properties__show-more').click()
+                # except NoSuchElementException:
+                #     print("NoSuchElementException")
+                #     pass
+                except ElementNotInteractableException:
+                    # print("No 'Show More' Button")
+                    pass
 
-            province = driver.find_element_by_xpath('/html/body/div[1]/div[6]/section/section[1]/div/table/tbody/tr[8]/td[2]').text
+                province = driver.find_element_by_xpath('/html/body/div[1]/div[6]/section/section[1]/div/table/tbody/tr[8]/td[2]').text
 
-            strain_list.append(name)
-            price_list.append(price)
-            price_per_gram_list.append(price_per_gram)
-            gram_list.append(gram)
-            type_list.append(type)
-            producer_list.append(producer)
-            brand_list.append(brand)
-            potency_list.append(potency)
-            thc_list.append(thc)
-            cbd_list.append(cbd)
-            province_list.append(province)
+                strain_list.append(name)
+                price_list.append(price)
+                price_per_gram_list.append(price_per_gram)
+                gram_list.append(gram)
+                type_list.append(type)
+                producer_list.append(producer)
+                brand_list.append(brand)
+                potency_list.append(potency)
+                thc_list.append(thc)
+                cbd_list.append(cbd)
+                province_list.append(province)
 
-            print(str(index) + ': ' + name)
+                print(str(index) + ': ' + name)
 
-            index += 1
-            driver.back()
-       
-        except StaleElementReferenceException as Exception:
-            time.sleep(1)
-            strains = driver.find_elements_by_class_name('product-tile')
-        except ElementClickInterceptedException as Exception:
-            time.sleep(1)
-            strains = driver.find_elements_by_class_name('product-tile')
-        except NoSuchElementException as Exception:
-            time.sleep(1)
-            strains = driver.find_elements_by_class_name('product-tile')
+                index += 1
+                driver.back()
+        
+            except StaleElementReferenceException as Exception:
+                strains = driver.find_elements_by_class_name('product-tile')
+            except ElementClickInterceptedException as Exception:
+                strains = driver.find_elements_by_class_name('product-tile')
+            except NoSuchElementException as Exception:
+                strains = driver.find_elements_by_class_name('product-tile')
 
+num_pages = int(driver.find_element_by_css_selector('#main > section > div.collection-container > div.collection__utilities > div > div > div > nav > ul > li:nth-child(5) > a').text)
+page = 1
 
-    
+while page <= num_pages:
+    scrape()
+    page += 1
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(0.5)
+    try:
+        driver.find_element_by_css_selector('#main > div.collection__utilities > div > nav > ul > li.pagination_next').click()
+    except ElementClickInterceptedException as Exception:
+        pass
+
 driver.close()
     
 df = pd.DataFrame()
