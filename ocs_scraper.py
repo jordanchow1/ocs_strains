@@ -1,9 +1,5 @@
-# import pandas as pd
 # import numpy as np
-# from selenium import webdriver
 # from selenium.webdriver.common.keys import Keys
-# from selenium.common.exceptions import NoSuchElementException
-# import time
 # import plotly
 # from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 # import plotly.figure_factory as ff
@@ -46,7 +42,6 @@ brand_list = []
 potency_list = []
 thc_list = []
 cbd_list = []
-province_list = []
 
 # function for scraping a single page
 def scrape():
@@ -62,29 +57,38 @@ def scrape():
                 pass         
             
             try:
-                driver.execute_script("window.scrollTo(0, 99)")
+                try:
+                    driver.execute_script("window.scrollTo(0, 99)")
+                except:
+                    pass
                 strains[index].click()
 
                 name = driver.find_element_by_css_selector('#main > section > div.container--product > header > h1').text
                 price = ""
                 prices = driver.find_elements_by_class_name('swatch__price')
                 for i in prices:
-                    if i == 0:
+                    if price == "":
                         price += i.text[1:]
                     else:
                         price += ", " + i.text[1:]
-                price = price[1:]
 
                 price_per_gram = ""
                 prices_per_gram = driver.find_elements_by_class_name('swatch__price-per-unit')
                 for i in prices_per_gram:
-                    if i == 0:
-                        price_per_gram += i.text[1:-3]
+                    if price_per_gram == "":
+                        price_per_gram += i.text[:-3]
                     else:
-                        price_per_gram += ", " + i.text[1:-3]
+                        price_per_gram += ", " + i.text[:-3]
                 price_per_gram = price_per_gram[1:]
+                
+                gram = ""
+                grams = driver.find_elements_by_class_name('swatch__title')
+                for i in grams:
+                    if gram == "":
+                        gram += i.text[:-1]
+                    else:
+                        gram += ", " + i.text[:-1]
 
-                gram = float(driver.find_element_by_class_name('swatch__title').text[:-1])
                 type = driver.find_element_by_css_selector('#main > section > div.container--product > div.row > div.product__gallery > div > ul > li:nth-child(3) > p').text
                 
                 try:
@@ -102,10 +106,7 @@ def scrape():
                 try:
                     driver.find_element_by_class_name('properties__show-more').click()
                 except ElementNotInteractableException:
-                    # print("No 'Show More' Button")
                     pass
-
-                province = driver.find_element_by_xpath('/html/body/div[1]/div[6]/section/section[1]/div/table/tbody/tr[8]/td[2]').text
 
                 strain_list.append(name)
                 price_list.append(price)
@@ -117,7 +118,6 @@ def scrape():
                 potency_list.append(potency)
                 thc_list.append(thc)
                 cbd_list.append(cbd)
-                province_list.append(province)
 
                 print(str(index) + ': ' + name)
 
@@ -139,16 +139,32 @@ page = 1 # Initialize page to page one
 
 # Click on next page after scraping current page
 while page <= num_pages:
+    print("\nPage ", page)
     scrape()
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-    time.sleep(0.5)
+    next_page = driver.find_element_by_css_selector('#main > section > div.collection-container > div.collection__utilities > div > div > div > nav > ul > li.pagination_next')
     try:
-        driver.find_element_by_css_selector('#main > div.collection__utilities > div > nav > ul > li.pagination_next').click()
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    except:
+        pass
+    try:
+        webdriver.ActionChains(driver).move_to_element(next_page ).click(next_page ).perform()
         page += 1
-    except ElementClickInterceptedException as Exception:
-        time.sleep(1)
-        driver.find_element_by_css_selector('#main > div.collection__utilities > div > nav > ul > li.pagination_next').click()
+    except:
+        webdriver.ActionChains(driver).move_to_element(next_page ).click(next_page ).perform()
         page += 1
+    # try:
+    #     driver.find_element_by_xpath('/html/body/div[1]/div[6]/section/div[2]/div[1]/div/div/div/nav/ul/li[6]').click()
+    #     page += 1
+    # except ElementClickInterceptedException as Exception:
+    #     pass
+    # except NoSuchElementException as Exception:
+    #     pass
+
+        # if page == num_pages:
+        #     page += 1
+        # else:
+        #     driver.find_element_by_class_name('pagination_next').click()
+        #     page += 1
 
 driver.close()
 
@@ -164,6 +180,5 @@ df['brand'] = brand_list
 df['potency'] = potency_list
 df['thc'] = thc_list
 df['cbd'] = cbd_list
-df['province'] = province_list
 
-df.to_csv('ocs.csv')
+df.to_csv('ocs.csv', index = False)

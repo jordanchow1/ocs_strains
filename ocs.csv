@@ -1,373 +1,337 @@
-,name,price,price_per_gram,grams,type,producer,brand,potency,thc,cbd,province
-0,THC Pre Milled Blend, 74.95, 3.57 ,21.0,Blend,AgMedica Bioscience,Five Founders,Very Strong,15.00 - 20.00%  ,0.00 - 1.00%  ,Ontario
-1,All Purpose Flower Indica," 59.95, 99.95"," 4.28 , 3.57 ",14.0,Indica Dominant,Hexo Operations,Bake Sale,Strong,14.00 - 17.00%  ,0.00 - 1.00%  ,Gatineau
-2,All Purpose Flower Sativa," 59.95, 99.95"," 4.28 , 3.57 ",14.0,Sativa Dominant,Hexo Operations,Bake Sale,Strong,14.00 - 17.00%  ,0.00 - 1.00%  ,Gatineau
-3,Indica Blend, 99.95, 3.57 ,28.0,Indica Dominant,Natural MedCo,Eve & Co.,Strong,12.00 - 18.00%  ,0.00 - 1.99%  ,Ontario
-4,Indica Bud," 21.95, 40.00, 99.95"," 4.39 , 4.00 , 3.57 ",5.0,Indica Dominant,Canopy Growth,Simple Stash,Strong,12.00 - 18.00%  ,0.00 - 0.50%  ,‍00688083003783
-5,Sativa Bud," 21.95, 40.00, 99.95"," 4.39 , 4.00 , 3.57 ",5.0,Sativa Dominant,Canopy Growth,Simple Stash,Strong,12.00 - 18.00%  ,0.00 - 0.50%  ,‍00688083003790
-6,Daily Special Indica," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-7,Ready to Roll Milled Indica, 54.95, 3.66 ,15.0,Indica Dominant,Aphria,BINGO,Very Strong,14.00 - 20.00%  ,0.00 - 1.99%  ,Ontario
-8,Ready to Roll Milled Sativa, 54.95, 3.66 ,15.0,Sativa Dominant,Aphria,BINGO,Very Strong,14.00 - 20.00%  ,0.00 - 1.99%  ,Ontario
-9,Funk Master, 28.50, 4.07 ,7.0,Hybrid,Organigram,SHRED,Very Strong,18.00 - 24.00%  ,0.00 - 0.15%  ,Moncton
-10,Gnarberry, 28.50, 4.07 ,7.0,Hybrid,Organigram,SHRED,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Indoor
-11,Tropic Thunder, 28.50, 4.07 ,7.0,Hybrid,Organigram,SHRED,Very Strong,18.00 - 24.20%  ,0.00 - 1.00%  ,Indoor
-12,OS.HYBRID," 19.95, 65.45, 114.95"," 5.70 , 4.67 , 4.11 ",3.5,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,Quebec
-13,OS.SATIVA," 19.95, 65.45, 114.95"," 5.70 , 4.67 , 4.11 ",3.5,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,16.00 - 20.00%  ,0.00 - 1.00%  ,Quebec
-14,OS.INDICA," 19.95, 65.45, 114.95"," 5.70 , 4.67 , 4.11 ",3.5,Indica Dominant,Hexo Operations,Original Stash,Very Strong,17.00 - 20.00%  ,0.00 - 1.00%  ,Quebec
-15,Sativa!," 69.95, 116.95"," 4.66 , 4.18 ",15.0,Sativa Dominant,Aphria,BINGO,Strong,13.00 - 17.00%  ,0.00 - 1.99%  ,Greenhouse
-16,No. 402 Blueberry Kush," 10.25, 34.15, 63.50"," 10.25 , 9.76 , 9.07 ",1.0,Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,14.00 - 21.00%  ,0.00 - 2.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Myrcene, Beta-Pinene, Limonene"
-17,Hybrid, 117.60, 4.20 ,28.0,Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  ,Hybrid-Greenhouse
-18,Sativa, 117.60, 4.20 ,28.0,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,14.00 - 19.00%  ,0.00 - 1.00%  ,"Delta,BC"
-19,Indica, 117.60, 4.20 ,28.0,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,British Columbia
-20,Mazar, 14.95, 4.27 ,3.5,Indica Dominant,Bonify Holdings,Bonify,Very Strong,14.00 - 20.00%  ,0.00 - 0.30%  ,"Caryophyllene, Limonene, Myrcene, Pinene, Terpinolene"
-21,Lemon Zkttl, 14.95, 4.27 ,3.5,Sativa Dominant,Bonify Holdings,Bonify,Strong,12.00 - 18.00%  ,0.00 - 0.30%  ,Manitoba
-22,Unrolled Sativa, 59.95, 4.28 ,14.0,Sativa Dominant,Mera Cannabis,Hunny Pot,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Elgin
-23,Cactus Breath, 124.95, 4.46 ,28.0,Indica Dominant,Terrascend Canada,Legend,Very Strong,15.50 - 21.50%  ,0.00 - 1.00%  ,Ontario
-24,Grower's Choice Sativa," 21.50, 75.00, 125.00"," 6.14 , 5.00 , 4.46 ",3.5,Sativa Dominant,Aphria,Good Supply,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  ,Greenhouse
-25,Outlaw," 7.50, 23.65, 43.75, 84.95"," 7.50 , 6.76 , 6.25 , 5.66 ",1.0,Sativa Dominant,Redecan,Redecan,Very Strong,18.00 - 24.00%  ,0.00 - 0.10%  ,"Alpha-Bisabolol, Beta-Caryophyllene, Humulene, Limonene, Myrcene"
-26,Indica Bud, 125.00, 4.46 ,28.0,Indica Dominant,Canopy Growth,Twd.28,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  ,‍00688083003967
-27,Sativa Bud, 125.00, 4.46 ,28.0,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  ,‍00688083003950
-28,Daily Special Sativa," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-29,Daily Special Indica," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-30,Sweet & Sour Sativa Ready-to-Roll, 32.95, 4.71 ,7.0,Blend,WeedMD,Saturday,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,London
-31,Bandwagon Blue Dream, 134.95, 4.82 ,28.0,Sativa Dominant,Rubicon Organics,Homestead,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,British Columbia
-32,Kandy Kush Grind, 34.95, 4.99 ,7.0,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,16.00 - 21.00%  ,0.00 - 2.00%  ,Hamilton
-33,Chocolate Mint OG Grind, 34.95, 4.99 ,7.0,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Farnasene, Guaiol, Myrcene, Terpinolene"
-34,Sativa," 21.50, 40.00, 75.00"," 6.14 , 5.71 , 5.00 ",3.5,Sativa Dominant,Canopy Growth,TWD.,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-35,Indica," 21.50, 40.00, 75.00"," 6.14 , 5.71 , 5.00 ",3.5,Indica Dominant,Canopy Growth,TWD.,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  ,"Myrcene, Ocimene, Para-Cymenene, Selinadienes, Terpinolene"
-36,Wedding Pie, 139.95, 5.00 ,28.0,Indica Dominant,Kolab Project,Back Forty,Very Strong,21.00 - 27.00%  ,0.00%  ,Hybrid-Greenhouse
-37,Apple Pie Flower, 139.95, 5.00 ,28.0,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.00 - 21.00%  ,0.00 - 0.50%  ,Smith's Falls
-38,Blue Dream Flower, 139.95, 5.00 ,28.0,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.00 - 21.00%  ,0.00 - 0.50%  ,Smith's Falls
-39,Apple Pie Flower, 139.95, 5.00 ,28.0,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.00 - 21.00%  ,0.00 - 0.50%  ,Smith's Falls
-40,Lemon Z, 139.95, 5.00 ,28.0,Sativa Dominant,WeedMD,Saturday,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  ,London
-41,Apple Pie Flower, 139.95, 5.00 ,28.0,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.00 - 21.00%  ,0.00 - 0.50%  ,Smith's Falls
-42,Ultra Sour, 143.95, 5.14 ,28.0,Sativa Dominant,Organigram,Big Bag O Buds,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  ,"Beta-Pinene, Caryophyllene, Limonene, Terpenes May Vary, Terpinolene"
-43,Sour Diesel, 144.95, 5.18 ,28.0,Indica Dominant,Redecan,Redecan,Strong,13.00 - 18.00%  ,0.00 - 1.00%  ,Niagara
-44,Lemon Haze," 21.95, 72.95"," 6.27 , 5.21 ",3.5,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  ,Edmonton
-45,MK Ultra, 72.95, 5.21 ,14.0,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  ,Edmonton
-46,Tangie Green," 23.95, 147.25"," 6.84 , 5.26 ",3.5,Hybrid,Aphria,Good Supply,Very Strong,17.00 - 23.00%  ,0.00 - 2.00%  ,Ontario
-47,Sour Kush," 23.95, 86.25, 147.25"," 6.84 , 5.75 , 5.26 ",3.5,Hybrid,Aphria,Good Supply,Very Strong,17.00 - 23.00%  ,0.00 - 2.00%  ,Sun Assisted LED
-48,Starwalker Kush," 23.95, 86.25, 147.25"," 6.84 , 5.75 , 5.26 ",3.5,Indica Dominant,Aphria,Good Supply,Very Strong,18.50 - 24.50%  ,0.00 - 0.99%  ,"Beta-Pinene, Caryophyllene, Humulene, Limonene, Nerolidol"
-49,Monkey Glue," 23.95, 86.25, 147.25"," 6.84 , 5.75 , 5.26 ",3.5,Hybrid,Aphria,Good Supply,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  ,Greenhouse
-50,Jean Guy," 7.20, 23.95, 44.55, 86.25, 147.25"," 7.20 , 6.84 , 6.36 , 5.75 , 5.26 ",1.0,Sativa Dominant,Aphria,Good Supply,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Myrcene, Terpinolene"
-51,AAA Hybrid, 74.95, 5.35 ,14.0,Hybrid,7ACRES,Hiway,Very Strong,14.00 - 20.50%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Myrcene, Terpinolene"
-52,Cold Creek Kush," 7.50, 23.65, 43.75, 84.95, 149.95"," 7.50 , 6.76 , 6.25 , 5.66 , 5.36 ",1.0,Sativa Dominant,Redecan,Redecan,Very Strong,17.00 - 23.00%  ,0.00 - 1.50%  ,"Beta-Pinene, Limonene, Linalool, Nerolidol, Trans-Caryophyllene"
-53,Ready to Roll Milled Sativa, 54.95, 3.66 ,15.0,Sativa Dominant,Aphria,BINGO,Very Strong,14.00 - 20.00%  ,0.00 - 1.99%  ,Ontario
-54,OS.Reserve Sativa," 49.95, 87.95, 149.95"," 7.14 , 6.28 , 5.36 ",7.0,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  ,Machine Trimmed
-55,Rotterdam Indica," 29.95, 99.95, 149.95"," 8.56 , 6.66 , 5.36 ",3.5,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  ,Ontario
-56,OS.Reserve Indica," 49.95, 87.95, 149.95"," 7.14 , 6.28 , 5.36 ",7.0,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Myrcene, Nerolidol, Pinene"
-57,Afghan Kush," 22.95, 42.70, 77.10"," 6.56 , 6.10 , 5.51 ",3.5,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.00 - 22.00%  ,0.00 - 0.50%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-58,D. Bubba," 22.95, 42.70, 77.10"," 6.56 , 6.10 , 5.51 ",3.5,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,British Columbia
-59,Polar Kish, 19.75, 5.64 ,3.5,Indica Dominant,Northern Green Canada,Northern Green Canada,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Myrcene, Ocimene"
-60,Black Cherry Punch," 7.50, 23.65, 79.30"," 7.50 , 6.76 , 5.66 ",1.0,Indica Dominant,Redecan,Redecan,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Niagara
-61,Lilac Diesel," 7.50, 23.65, 79.30"," 7.50 , 6.76 , 5.66 ",1.0,Sativa Dominant,Redecan,Redecan,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Niagara
-62,Outlaw," 7.50, 23.65, 43.75, 84.95"," 7.50 , 6.76 , 6.25 , 5.66 ",1.0,Sativa Dominant,Redecan,Redecan,Very Strong,18.00 - 24.00%  ,0.00 - 0.10%  ,"Alpha-Bisabolol, Beta-Caryophyllene, Humulene, Limonene, Myrcene"
-63,Wappa," 7.50, 23.65, 43.75, 84.95"," 7.50 , 6.76 , 6.25 , 5.66 ",1.0,Indica Dominant,Redecan,Redecan,Very Strong,19.00 - 25.00%  ,0.00 - 0.10%  ,"Alpha-Pinene, Beta-Caryophyllene, Humulene, Myrcene, Trans-Caryophyllene"
-64,Tsunami," 28.95, 169.95"," 8.27 , 5.67 ",3.5,Indica Dominant,Hexo Operations,Hexo,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Myrcene, Nerolidol"
-65,Sour Kush, 19.95, 5.70 ,3.5,Hybrid,Emblem Cannabis,Divvy,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,Hybrid-Greenhouse
-66,The Adventurer, 19.95, 5.70 ,3.5,Indica Dominant,Natural MedCo,Eve & Co.,Very Strong,16.00 - 20.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Linalool, Myrcene"
-67,Ghost Train Haze, 79.95, 5.71 ,14.0,Sativa Dominant,Sensi Brands,Station House,Very Strong,18.00 - 22.00%  ,0.01 - 0.20%  ,Southwest Ontario
-68,Blue Dream, 79.95, 5.71 ,14.0,Sativa Dominant,Sensi Brands,Station House,Very Strong,18.00 - 22.00%  ,0.00 - 0.50%  ,SW ON
-69,OG Kush, 79.95, 5.71 ,14.0,Indica Dominant,Sensi Brands,Station House,Very Strong,18.00 - 22.00%  ,0.00 - 0.20%  ,"Beta-Caryophyllene, Farnasene, Humulene, Myrcene, Pinene"
-70,Muskoka Kush, 79.95, 5.71 ,14.0,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 1.00%  ,"Muskoka, Ontario"
-71,Subway Scientist," 8.95, 29.95, 55.70, 159.95"," 8.56 , 7.96 , 5.71 ",1.0,Indica Dominant,Aphria,RIFF,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Linalool, Myrcene"
-72,Hell Cat 33," 32.95, 159.95"," 9.41 , 5.71 ",3.5,Hybrid,Aphria,RIFF,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,Ontario
-73,White Rhino," 22.95, 42.70"," 6.56 , 6.10 ",3.5,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.00 - 22.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Myrcene"
-74,Island Honey," 22.95, 42.70"," 6.56 , 6.10 ",3.5,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.00 - 19.00%  ,0.00 - 1.99%  ,"Beta-Myrcene, Trans-Caryophyllene"
-75,Sky Pilot," 29.95, 92.95"," 8.56 , 6.20 ",3.5,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Caryophyllene, Myrcene, Nerolidol"
-76,Grower's Choice Hybrid, 21.50, 6.14 ,3.5,Hybrid,Aphria,Good Supply,Very Strong,16.00 - 23.00%  ,0.00 - 2.00%  ,Greenhouse
-77,Sky Pilot," 29.95, 92.95"," 8.56 , 6.20 ",3.5,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Caryophyllene, Myrcene, Nerolidol"
-78,Flicker Buds," 21.95, 40.80, 74.95"," 6.27 , 5.83 , 5.00 ",3.5,Indica Dominant,Organigram,Trailblazer,Strong,15.00 - 19.00%  ,0.00 - 1.00%  ,Moncton
-79,Spark Buds," 21.95, 40.80, 74.95"," 6.27 , 5.83 , 5.00 ",3.5,Sativa Dominant,Organigram,Trailblazer,Strong,15.00 - 19.00%  ,0.00 - 1.00%  ,Moncton
-80,OS.Reserve Indica," 49.95, 87.95"," 7.14 , 6.28 ",7.0,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Quebec
-81,Pedro's Sweet Sativa Ready To Roll, 22.50, 6.43 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,15.00 - 21.00%  ,0.00 - 1.00%  ,Ontario
-82,Ghost Train Haze Ready To Roll, 22.50, 6.43 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,Southwestern Ontario
-83,Platinum Cookies, 22.95, 6.56 ,3.5,Sativa Dominant,Sundial Growers,Palmetto,Very Strong,20.00 - 26.00%  ,1.00%  ,Indoor
-84,Blue Dream, 22.95, 6.56 ,3.5,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.00 - 19.00%  ,0.00 - 1.00%  ,Fraser Valley
-85,Headband, 22.95, 6.56 ,3.5,Sativa Dominant,Sundial Growers,Palmetto,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Pinene, Humulene, Myrcene, Trans-ocimene"
-86,Nuken, 22.95, 6.56 ,3.5,Indica Dominant,Sundial Growers,Palmetto,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  ,"Alpha-Bisabolol, Caryophyllene, Limonene, Myrcene, Trans-ocimene"
-87,Headband," 22.95, 42.70"," 6.56 , 6.10 ",3.5,Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,17.00 - 23.00%  ,0.00 - 1.99%  ,Beta-Myrcene
-88,Pure Sun CBD," 22.95, 42.70"," 6.56 , 6.10 ",3.5,Hybrid,Pure Sunfarms,Pure Sunfarms,Little to Minimal,0.00 - 1.00%  ,14.00 - 20.00%  ,"Alpha-Bisabolol, Beta-Myrcene, Guaiol, Linalool, Trans-Caryophyllene"
-89,Daily Special Sativa," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-90,Daily Special Indica," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-91,Jean Guy," 7.20, 23.95, 44.55, 86.25, 147.25"," 7.20 , 6.84 , 6.36 , 5.75 , 5.26 ",1.0,Sativa Dominant,Aphria,Good Supply,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Myrcene, Terpinolene"
-92,Ghost Train Haze," 27.50, 98.95"," 7.86 , 6.60 ",3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene, Terpinolene"
-93,Sinaloa Gold, 23.50, 6.71 ,3.5,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Beta-Caryophyllene
-94,White Out, 23.50, 6.71 ,3.5,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,16.00 - 23.00%  ,0.00 - 1.00%  ,Beta-Caryophyllene
-95,Headbanger, 23.50, 6.71 ,3.5,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,15.00 - 22.00%  ,0.00 - 1.00%  ,Beta-Pinene
-96,Orange Monkey, 23.95, 6.84 ,3.5,Indica Dominant,Canntrust,Liiv,Very Strong,19.00 - 25.00%  ,0.00 - 10.00%  ,Niagara
-97,Indica, 23.95, 6.84 ,3.5,Indica Dominant,Aphria,Papa's Herb,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Ontario
-98,Sativa, 23.95, 6.84 ,3.5,Sativa Dominant,Aphria,Papa's Herb,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,Ontario
-99,Bali Kush, 23.95, 6.84 ,3.5,Indica Dominant,Canntrust,liiv,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  ,"Bisabolol, Humulene, Limonene, Myrcene, Trans-Caryophyllene"
-100,Royal Highness," 7.20, 23.95, 44.55, 86.25, 147.25"," 7.20 , 6.84 , 6.36 , 5.75 , 5.26 ",1.0,Hybrid,Aphria,Good Supply,Very Strong,17.00 - 24.00%  ,0.00 - 1.00%  ,"Beta-Pinene, Caryophyllene, Humulene, Limonene, Myrcene"
-101,Free," 7.20, 23.95, 44.55"," 7.20 , 6.84 , 6.36 ",1.0,Sativa Dominant,Aphria,Solei,Little to Minimal,0.30 - 1.00%  ,11.00 - 17.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene"
-102,Granddaddy Purple, 24.50, 7.00 ,3.5,Indica Dominant,Delshen Therapeutics,48North,Very Strong,17.00 - 23.20%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Nerolidol"
-103,Sense," 8.50, 26.50, 49.30"," 8.50 , 7.57 , 7.04 ",1.0,Hybrid,Aphria,Solei,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Beta-Pinene, Caryophyllene, Limonene, Linalool, Myrcene"
-104,Unplug," 8.50, 26.50, 49.30"," 8.50 , 7.57 , 7.04 ",1.0,Hybrid,Aphria,Solei,Very Strong,15.00 - 21.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-105,Green Cush," 26.50, 49.40"," 7.57 , 7.06 ",3.5,Sativa Dominant,High Park,Canaca,Very Strong,20.00 - 26.00%  ,0.00 - 0.10%  ,"Beta-Caryophyllene, Beta-Myrcene, Delta-Limonene"
-106,Strawberry Ice," 7.50, 24.90"," 7.50 , 7.11 ",1.0,Sativa Dominant,Maricann Group,Northern Harvest,Very Strong,15.00 - 21.00%  ,0.00 - 4.00%  ,"Beta-Caryophyllene, Limonene, Nerolidol, Terpinolene, Trans-Caryophyllene"
-107,Mango Haze," 7.50, 24.90"," 7.50 , 7.11 ",1.0,Sativa Dominant,Maricann Group,Kiwi Cannabis,Mild,4.00 - 10.00%  ,6.00 - 13.00%  ,"Beta-Caryophyllene, Beta-Pinene, Cymene, Humulene, Trans-Caryophyllene"
-108,Cali-O," 7.50, 24.90"," 7.50 , 7.11 ",1.0,Hybrid,Maricann Group,Kiwi Cannabis,Mild,5.00 - 9.00%  ,6.00 - 12.00%  ,"Alpha-Pinene, Limonene, Linalool"
-109,HiFi 4G," 24.95, 61.30"," 7.13 , 8.76 ",3.5,Hybrid,AB Laboratories,Steel City Green,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  ,Rack and Tray
-110,Glueberry OG," 24.95, 61.30"," 7.13 , 8.76 ",3.5,Hybrid,AB Laboratories,Steel City Green,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  ,HID
-111,Lemon Ziddy," 24.95, 61.30"," 7.13 , 8.76 ",3.5,Hybrid,AB Laboratories,Steel City Green,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  ,HID
-112,Rockstar, 99.95, 7.14 ,14.0,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 5.00%  ,Muskoka
-113,Hindu Kush," 8.10, 26.95, 50.10"," 8.10 , 7.70 , 7.16 ",1.0,Indica Dominant,Canopy Growth,Tweed,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  ,"Cymene, Eudesmols, Myrcene, Selinadienes, Terpinolene"
-114,Afghan Kush," 8.10, 26.95, 50.10"," 8.10 , 7.70 , 7.16 ",1.0,Indica Dominant,Canopy Growth,Tweed,Very Strong,19.00 - 25.00%  ,0.00 - 0.50%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-115,The Edge, 25.95, 7.41 ,3.5,Sativa Dominant,Muskoka Grown Limited,Muskoka Grown,Strong,13.00 - 19.00%  ,0.00%  ,Terpenes May Vary
-116,Cold Creek Kush, 52.00, 7.43 ,7.0,Indica Dominant,AgMedica Bioscience,Vertical,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Myrcene, Beta-Ocimene, Cedrene"
-117,Charlees," 7.50, 23.65, 43.75, 84.95"," 7.50 , 6.76 , 6.25 , 5.66 ",1.0,Indica Dominant,Redecan,Redecan,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Myrcene"
-118,Super Lemon Haze, 26.50, 7.57 ,3.5,Sativa Dominant,Aphria,Solei,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,leamington
-119,Chocolate Cheesecake, 26.50, 7.57 ,3.5,Hybrid,Aphria,Solei,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  ,Leamington
-120,Cold Creek Kush, 52.00, 7.43 ,7.0,Indica Dominant,AgMedica Bioscience,Vertical,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Myrcene, Beta-Ocimene, Cedrene"
-121,Mango," 26.50, 49.30"," 7.57 , 7.04 ",3.5,Indica Dominant,High Park,CANACA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Myrcene, Trans-Caryophyllene"
-122,Blue Nova, 26.50, 7.57 ,3.5,Sativa Dominant,Sundial Growers,Sundial,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Alpha-Bisabolol, Alpha-Pinene, Caryophyllene, Guaiol, Myrcene"
-123,Wappa," 7.95, 26.50"," 7.95 , 7.57 ",1.0,Indica Dominant,Zenabis,Namaste,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Myrcene"
-124,Alien Dawg, 26.50, 7.57 ,3.5,Indica Dominant,High Park,CANACA,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Humulene, Limonene, Trans-Caryophyllene"
-125,Balance," 8.50, 26.50, 24.98"," 8.50 , 7.57 , 3.57 ",1.0,Hybrid,Aphria,Solei,Mild,4.00 - 11.00%  ,8.50 - 15.50%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Linalool, Myrcene"
-126,Blueberry," 28.95, 53.85"," 8.27 , 7.69 ",3.5,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.99%  ,"Beta-Caryophyllene, Limonene, Myrcene"
-127,Rockstar Kush," 28.95, 53.85"," 8.27 , 7.69 ",3.5,Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-128,Diesel," 28.95, 53.85"," 8.27 , 7.69 ",3.5,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Myrcene"
-129,Sensi Star," 28.95, 53.85"," 8.27 , 7.69 ",3.5,Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Myrcene, Trans-Caryophyllene"
-130,UK Cheese," 8.10, 26.95"," 8.10 , 7.70 ",1.0,Hybrid,Canopy Growth,Tweed,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  ,"Alpha-Santalene, Beta-Caryophyllene, Beta-Phellandrene, Limonene, Selinadienes"
-131,Royal Dankness, 26.95, 7.70 ,3.5,Hybrid,Canopy Growth,Tweed,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Indoor
-132,Jelly Breath, 26.95, 7.70 ,3.5,Indica Dominant,Organigram,Indi Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  ,Moncton
-133,M’mosa, 26.95, 7.70 ,3.5,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  ,"Alpha-Pinene, Caryophyllene, Limonene, Linalool, Myrcene"
-134,Purple Aya, 26.95, 7.70 ,3.5,Sativa Dominant,SESS Holdings,SELESTE,Very Strong,18.00 - 26.00%  ,0.00 - 1.10%  ,Indoor
-135,King Tut, 26.95, 7.70 ,3.5,Hybrid,SESS Holdings,SELESTE,Very Strong,18.00 - 24.00%  ,0.00 - 1.10%  ,Toronto
-136,Go Elevate Kali Mist, 26.95, 7.70 ,3.5,Sativa Dominant,Canada's Island Garden,FIGR,Very Strong,20.00 - 26.00%  ,0.00 - 0.20%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Cymene, Guaiol"
-137,Go Play Mandarin Cookies, 26.95, 7.70 ,3.5,Sativa Dominant,Canada's Island Garden,FIGR,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Cedrene, Humulene, Limonene, Myrcene"
-138,Go Steady Black Cherry Punch, 26.95, 7.70 ,3.5,Indica Dominant,Canada's Island Garden,FIGR,Very Strong,20.00 - 26.00%  ,0.00 - 0.20%  ,"Caryophyllene, Limonene, Linalool, Myrcene"
-139,Slurricane, 26.95, 7.70 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  ,"Caryophyllene, Germacrene, Humulene, Myrcene, Selinadienes"
-140,Ghost Train Haze UP20, 26.95, 7.70 ,3.5,Sativa Dominant,Hexo Operations,UP,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Ocimene, Terpinolene"
-141,Northern Berry UP20, 26.95, 7.70 ,3.5,Indica Dominant,Hexo Operations,UP,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Myrcene, Beta-Pinene, Nerolidol, Trans-Caryophyllene"
-142,Cold Creek Kush UP20, 26.95, 7.70 ,3.5,Indica Dominant,Hexo Operations,UP,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  ,Quebec
-143,Green Cush," 8.10, 26.95, 50.10, 97.00"," 8.10 , 7.70 , 7.16 , 6.47 ",1.0,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.00 - 23.00%  ,0.00 - 0.50%  ,"Beta-Caryophyllene, Beta-Pinene, Linalool, Myrcene, Para-Cymenene"
-144,Skunk Haze," 8.10, 26.95"," 8.10 , 7.70 ",1.0,Hybrid,Canopy Growth,Tweed,Medium,6.00 - 12.00%  ,5.00 - 11.00%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-145,White Shark, 27.50, 7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Strong,15.00 - 19.00%  ,0.00 - 2.00%  ,Southern Ontario
-146,Blueberry Seagal, 27.50, 7.86 ,3.5,Indica Dominant,WeedMD,Color Cannabis,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Beta-Pinene, Delta-Limonene, Nerolidol"
-147,Pedro's Sweet Sativa, 27.50, 7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  ,Southern Ontario
-148,Ghost Train Haze, 27.50, 7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene, Terpinolene"
-149,Limelight," 10.50, 34.95, 65.00, 111.95"," 10.50 , 9.99 , 9.29 , 8.00 ",1.0,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Moncton, NB"
-150,Black Cherry Punch," 10.50, 34.95, 111.95"," 10.50 , 9.99 , 8.00 ",1.0,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,"Beta-Pinene, Caryophyllene, Limonene, Linalool, Myrcene"
-151,C-LAND," 8.10, 26.95"," 8.10 , 7.70 ",1.0,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.00 - 23.00%  ,0.00 - 0.50%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-152,Sage N Sour," 35.45, 114.95"," 10.13 , 8.21 ",3.5,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Myrcene, Ocimene, Terpinolene"
-153,Sage N Sour," 35.45, 114.95"," 10.13 , 8.21 ",3.5,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Myrcene, Ocimene, Terpinolene"
-154,Blue Dream," 9.00, 28.95"," 9.00 , 8.27 ",1.0,Sativa Dominant,Aurora Cannabis,Aurora,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Pinene, Limonene, Myrcene"
-155,Buns N Roses, 28.95, 8.27 ,3.5,Indica Dominant,BZAM Cannabis,SuperFlower,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,Other
-156,C-LAND," 8.10, 26.95"," 8.10 , 7.70 ",1.0,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.00 - 23.00%  ,0.00 - 0.50%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-157,Skunk Haze," 8.10, 26.95"," 8.10 , 7.70 ",1.0,Hybrid,Canopy Growth,Tweed,Medium,6.00 - 12.00%  ,5.00 - 11.00%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-158,White Shark, 27.50, 7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Strong,15.00 - 19.00%  ,0.00 - 2.00%  ,Southern Ontario
-159,Blueberry Seagal, 27.50, 7.86 ,3.5,Indica Dominant,WeedMD,Color Cannabis,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Beta-Pinene, Delta-Limonene, Nerolidol"
-160,Pedro's Sweet Sativa, 27.50, 7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  ,Southern Ontario
-161,Ghost Train Haze, 27.50, 7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene, Terpinolene"
-162,Limelight," 10.50, 34.95, 65.00, 111.95"," 10.50 , 9.99 , 9.29 , 8.00 ",1.0,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Moncton, NB"
-163,Black Cherry Punch," 10.50, 34.95, 111.95"," 10.50 , 9.99 , 8.00 ",1.0,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,"Beta-Pinene, Caryophyllene, Limonene, Linalool, Myrcene"
-164,C-LAND," 8.10, 26.95"," 8.10 , 7.70 ",1.0,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.00 - 23.00%  ,0.00 - 0.50%  ,"Alpha-Pinene, Alpha-Santalene, Beta-Caryophyllene, Myrcene, Selinadienes"
-165,Sage N Sour," 35.45, 114.95"," 10.13 , 8.21 ",3.5,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Myrcene, Ocimene, Terpinolene"
-166,Blue Dream," 9.00, 28.95"," 9.00 , 8.27 ",1.0,Sativa Dominant,Aurora Cannabis,Aurora,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Pinene, Limonene, Myrcene"
-167,Buns N Roses, 28.95, 8.27 ,3.5,Indica Dominant,BZAM Cannabis,SuperFlower,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,Other
-168,Pink Krush, 28.95, 8.27 ,3.5,Indica Dominant,Pure Sunfarms,Favours,Very Strong,21.00 - 25.00%  ,0.00 - 1.00%  ,Fraser Valley
-169,Strawberry Cake, 28.95, 8.27 ,3.5,Indica Dominant,AgMedica Bioscience,Vertical Cannabis,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Southwestern Ontario
-170,Wedding Cake, 28.95, 8.27 ,3.5,Hybrid,Peace Naturals Project,Spinach,Very Strong,20.00 - 29.70%  ,0.00 - 1.00%  ,Stayner
-171,Slurri Crasher, 28.95, 8.27 ,3.5,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.00 - 22.00%  ,0.00 - 1.00%  ,Fraser Valley
-172,Blue Dream, 28.95, 8.27 ,3.5,Sativa Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Myrcene, Nerolidol"
-173,Dancehall, 28.95, 8.27 ,3.5,Sativa Dominant,Peace Naturals Project,Spinach,Mild,4.00 - 10.00%  ,6.00 - 12.00%  ,"Alpha-Pinene, Limonene, Linalool, Myrcene"
-174,White Widow, 28.95, 8.27 ,3.5,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-175,Cold Creek Kush," 10.50, 28.95, 52.00"," 10.50 , 8.27 , 7.43 ",1.0,Indica Dominant,AgMedica Bioscience,Vertical,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Myrcene, Beta-Ocimene, Cedrene"
-176,French Macaron, 57.95, 8.28 ,7.0,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,21.00 - 27.00%  ,0.00 - 1.99%  ,Thorndale
-177,Amsterdam Sativa, 29.95, 8.56 ,3.5,Sativa Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,19.00 - 26.00%  ,0.00 - 2.00%  ,Ontario
-178,Chocolate Mint OG, 29.95, 8.56 ,3.5,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Farnasene, Guaiol, Myrcene, Terpinolene"
-179,Pink Grapefruit Haze, 29.95, 8.56 ,3.5,Sativa Dominant,Canntrust,Synr.g,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  ,"Humulene, Limonene, Myrcene, Terpinolene, Trans-Caryophyllene"
-180,Social (Mango), 29.95, 8.56 ,3.5,Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Ocimene, Terpinolene"
-181,Green Crush, 29.95, 8.56 ,3.5,Sativa Dominant,Delshen Therapeutics,48North,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene"
-182,Green Crush, 29.95, 8.56 ,3.5,Sativa Dominant,Delshen Therapeutics,48North,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene"
-183,Grapefruit GG1, 29.95, 8.56 ,3.5,Hybrid,Emerald Health Therapeutics,Emerald,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Myrcene, Ocimene, Terpinolene"
-184,Chemdog, 29.95, 8.56 ,3.5,Sativa Dominant,Emerald Health Therapeutics,Emerald,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  ,"Guaiol, Limonene, Linalool, Myrcene, Terpineol"
-185,Blue Gorilla, 29.95, 8.56 ,3.5,Hybrid,Muskoka Grown Limited,Muskoka Grown,Strong,13.00 - 19.00%  ,0.00 - 1.00%  ,Ontario
-186,Blue Gorilla, 29.95, 8.56 ,3.5,Hybrid,Muskoka Grown Limited,Muskoka Grown,Strong,13.00 - 19.00%  ,0.00 - 1.00%  ,Ontario
-187,Pacific OG, 29.95, 8.56 ,3.5,Sativa Dominant,Tantalus Labs,Tantalus Labs,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Linalool, Myrcene, Nerolidol"
-188,Kalifornia," 39.95, 119.95"," 11.41 , 8.57 ",3.5,Indica Dominant,Kolab Project,Kolab Project,Very Strong,23.00 - 28.00%  ,0.00 - 1.00%  ,Rockwool
-189,White Widow," 32.95, 61.30"," 9.41 , 8.76 ",3.5,Hybrid,7ACRES,7ACRES,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Myrcene, Terpinolene"
-190,Jack Haze," 32.95, 61.30"," 9.41 , 8.76 ",3.5,Sativa Dominant,7ACRES,7ACRES,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Eucalyptol, Myrcene, Nerolidol, Terpinolene"
-191,Sensi Star," 32.95, 61.30"," 9.41 , 8.76 ",3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  ,"Geraniol, Limonene, Myrcene, Nerolidol, Trans-Caryophyllene"
-192,DT81," 9.90, 32.95, 61.30"," 9.90 , 9.41 , 8.76 ",1.0,Sativa Dominant,Aphria,RIFF,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,"Leamington, ON"
-193,Sinaloa Gold, 23.50, 6.71 ,3.5,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Beta-Caryophyllene
-194,Muskmelon OG (Saturna)," 48.00, 249.95"," 13.71 , 8.93 ",3.5,Hybrid,Broken Coast Cannabis,Broken Coast,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-195,Stargazer (Sonora)," 48.00, 249.95"," 13.71 , 8.93 ",3.5,Indica Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,Limonene
-196,Dark Helmet, 31.95, 9.13 ,3.5,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.00 - 26.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Farnasene, Limonene, Trans-Caryophyllene"
-197,Cherry Jam, 31.95, 9.13 ,3.5,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.00 - 26.00%  ,0.00 - 1.00%  ,Kitchener
-198,The Silverback #4, 31.95, 9.13 ,3.5,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.00 - 26.00%  ,0.00 - 1.00%  ,Kitchener
-199,Dark Helmet, 31.95, 9.13 ,3.5,Indica Dominant,Trichome JWC Acquisition,JWC,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Nerolidol"
-200,BC Black Cherry," 39.95, 129.95"," 11.41 , 9.28 ",3.5,Indica Dominant,The Flowr Group,Flowr,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Farnasene, Limonene"
-201,24k Gold, 32.50, 9.29 ,3.5,Indica Dominant,Zenabis,Namaste,Very Strong,18.00 - 24.00%  ,0.00 - 0.99%  ,New Brunswick
-202,Ultra Sour," 9.75, 32.50"," 9.75 , 9.29 ",1.0,Sativa Dominant,Zenabis,Namaste,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Limonene, Terpinolene"
-203,Sunset," 10.50, 34.95, 65.00"," 10.50 , 9.99 , 9.29 ",1.0,Indica Dominant,Canopy Growth,LBS,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  ,"Beta-Caryophyllene, Beta-Ylangene, Humulene, Linalool, Selinadienes"
-204,Pink Vanilla OG, 32.95, 9.41 ,3.5,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 5.00%  ,Montreal
-205,Papaya, 32.95, 9.41 ,3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,Kincardine
-206,Gilded Grams, 32.95, 9.41 ,3.5,Sativa Dominant,Aphria,RIFF,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  ,Leamington
-207,Fruit Pie, 32.95, 9.41 ,3.5,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 5.00%  ,"Beta-Caryophyllene, Beta-Myrcene, Limonene"
-208,Jean Guy," 32.95, 61.30"," 9.41 , 8.76 ",3.5,Hybrid,7ACRES,7ACRES,Very Strong,15.00 - 20.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Limonene, Myrcene, Terpinolene, Trans-Caryophyllene"
-209,Garlic Cookies, 32.95, 9.41 ,3.5,Indica Dominant,SESS Holdings,CALI,Very Strong,21.00 - 27.00%  ,0.00 - 2.00%  ,Yes
-210,Wappa 49, 32.95, 9.41 ,3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,Hybrid-Greenhouse
-211,RC Royal Goddess, 32.95, 9.41 ,3.5,Indica Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Farnasene, Limonene, Linalool, Myrcene, Trans-Caryophyllene"
-212,RC Orange Hill Special, 32.95, 9.41 ,3.5,Sativa Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Bisabolol, Myrcene, Nerolidol, Terpinolene"
-213,Glueberry OG, 32.95, 9.41 ,3.5,Hybrid,Muskoka Grown Limited,Muskoka Grown,Very Strong,18.00 - 24.50%  ,0.00%  ,Ontario
-214,Raider Kush," 9.90, 32.95, 61.30"," 9.90 , 9.41 , 8.76 ",1.0,Indica Dominant,Aphria,RIFF,Very Strong,17.00 - 25.00%  ,0.00 - 0.99%  ,"Beta-Pinene, Caryophyllene, Humulene, Limonene, Myrcene"
-215,Grandpa's Stash, 66.50, 9.50 ,7.0,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Bisabolol, Limonene, Linalool, Myrcene"
-216,Raspberry Cough, 33.95, 9.70 ,3.5,Sativa Dominant,Canveda,Strain Rec,Strong,13.00 - 19.00%  ,0.00 - 1.00%  ,Ontario
-217,MMMOSA, 37.95, 10.84 ,3.5,Hybrid,Terrascend Canada,WINK,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene"
-218,No. 428 Secret Address, 33.95, 9.70 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,22.00 - 27.00%  ,0.00 - 1.00%  ,Ontario
-219,Solar Power," 10.25, 34.10"," 10.25 , 9.74 ",1.0,Hybrid,Emblem Cannabis,Symbl,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Pinene, Limonene, Linalool, Nerolidol"
-220,No. 417 Indigo Daze," 10.25, 34.15"," 10.25 , 9.76 ",1.0,Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,21.00 - 28.00%  ,0.00 - 0.50%  ,"Humulene, Linalool, Myrcene"
-221,Sativa," 36.95, 68.75"," 10.56 , 9.82 ",3.5,Sativa Dominant,Canopy Growth,Houseplant,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Humulene, Myrcene"
-222,Watermelon Zktlz," 36.95, 68.95"," 10.56 , 9.85 ",3.5,Hybrid,Alberta Craft Cannabis,Tenzo,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Pinene, Limonene, Terpinolene"
-223,Wedding Crasher," 36.95, 68.95"," 10.56 , 9.85 ",3.5,Indica Dominant,Alberta Craft Cannabis,Tenzo,Very Strong,18.00 - 25.00%  ,0.00 - 2.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Limonene, Linalool"
-224,Amnesia x Super Haze, 34.50, 9.86 ,3.5,Sativa Dominant,Mera Cannabis,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Ontario
-225,Dartmouth Kush, 34.95, 9.99 ,3.5,Hybrid,Breathing Green Solutions,SKOSHA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Nova Scotia
-226,Sour Kush, 34.95, 9.99 ,3.5,Indica Dominant,Canopy Growth,Doja,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Smith Falls
-227,Sour Kush, 34.95, 9.99 ,3.5,Hybrid,Emblem Cannabis,Nith & Grand,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,Yes
-228,Exotic Gas, 34.95, 9.99 ,3.5,Hybrid,Canadian Clinical Cannabinoids,The Loud Plug,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  ,"Duncan, BC"
-229,MAC-1, 34.95, 9.99 ,3.5,Hybrid,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,Moncton
-230,Gorilla Berry, 34.95, 9.99 ,3.5,Indica Dominant,GreenSeal Cannabis Company,GreenSeal,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Myrcene"
-231,GSC Kush, 34.95, 9.99 ,3.5,Indica Dominant,Will Cannabis,Flint & Embers,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,Yes
-232,TANGERINE COOKIES, 34.95, 9.99 ,3.5,Sativa Dominant,Galaxie Brands Corporation,WINK,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Myrcene, Terpinolene"
-233,Nut Butter, 34.95, 9.99 ,3.5,Indica Dominant,BZAM Cannabis,BZAM,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Indoor
-234,GMO Cookies, 34.95, 9.99 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,Moncton
-235,Mother of Berries, 34.95, 9.99 ,3.5,Indica Dominant,Safariflower,Greenman Acres,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,Georgian Bay
-236,HPG13, 34.95, 9.99 ,3.5,Indica Dominant,Mernova Medicinal,Ritual Green,Very Strong,19.50 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Nerolidol"
-237,Doja C99, 34.95, 9.99 ,3.5,Sativa Dominant,Canopy Growth,DOJA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Smith's Falls
-238,Pyramid, 34.95, 9.99 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,20.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Bisabolol, Delta-Limonene, Nerolidol"
-239,Marley Gold, 34.95, 9.99 ,3.5,Sativa Dominant,High Park,Marley Natural,Very Strong,20.50 - 26.50%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Myrcene, Terpinolene"
-240,HPG13, 34.95, 9.99 ,3.5,Indica Dominant,Mernova Medicinal,Ritual Green,Very Strong,19.50 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Nerolidol"
-241,MAC-1, 34.95, 9.99 ,3.5,Hybrid,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,Moncton
-242,Gorilla Berry, 34.95, 9.99 ,3.5,Indica Dominant,GreenSeal Cannabis Company,GreenSeal,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Myrcene"
-243,GSC Kush, 34.95, 9.99 ,3.5,Indica Dominant,Will Cannabis,Flint & Embers,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,Yes
-244,TANGERINE COOKIES, 34.95, 9.99 ,3.5,Sativa Dominant,Galaxie Brands Corporation,WINK,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Myrcene, Terpinolene"
-245,GMO Cookies, 34.95, 9.99 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,Moncton
-246,Mother of Berries, 34.95, 9.99 ,3.5,Indica Dominant,Safariflower,Greenman Acres,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,Georgian Bay
-247,HPG13, 34.95, 9.99 ,3.5,Indica Dominant,Mernova Medicinal,Ritual Green,Very Strong,19.50 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Nerolidol"
-248,Doja C99, 34.95, 9.99 ,3.5,Sativa Dominant,Canopy Growth,DOJA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Smith's Falls
-249,Pyramid, 34.95, 9.99 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,20.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Bisabolol, Delta-Limonene, Nerolidol"
-250,Marley Gold, 34.95, 9.99 ,3.5,Sativa Dominant,High Park,Marley Natural,Very Strong,20.50 - 26.50%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Myrcene, Terpinolene"
-251,I.C.C., 34.95, 9.99 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  ,"Alpha-Pinene, Caryophyllene, Germacrene, Limonene, Linalool"
-252,Doja C99, 34.95, 9.99 ,3.5,Sativa Dominant,Canopy Growth,DOJA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Smith's Falls
-253,Organic Fire, 34.95, 9.99 ,3.5,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,Ontario
-254,Organic Rockstar Tuna, 34.95, 9.99 ,3.5,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Alpha-Bisabolol, Alpha-Humulene, Beta-Caryophyllene, Beta-Myrcene, Delta-Limonene"
-255,Rally (Island Sweet Skunk), 34.95, 9.99 ,3.5,Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,21.00 - 27.00%  ,0.00 - 2.00%  ,"Alpha-Pinene, Beta-Myrcene"
-256,Marley Green, 34.95, 9.99 ,3.5,Sativa Dominant,High Park,MARLEY NATURAL,Very Strong,19.00 - 27.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Myrcene, Beta-Pinene, Limonene"
-257,Sensi Star, 34.95, 9.99 ,3.5,Hybrid,ABcann Medicinals,Fireside,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Myrcene"
-258,Blue Dream, 34.95, 9.99 ,3.5,Sativa Dominant,Canna Farms,Canna Farms,Very Strong,19.50 - 25.50%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Bisabolol, Myrcene, Trans-Caryophyllene"
-259,Tangerine Dream, 34.95, 9.99 ,3.5,Hybrid,Canna Farms,Canna Farms,Medium,10.00 - 16.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Guaiol, Limonene, Myrcene, Trans-Caryophyllene"
-260,Wappa," 10.50, 34.95"," 10.50 , 9.99 ",1.0,Hybrid,ABcann Medicinals,Fireside,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Myrcene"
-261,Garlic Z, 35.75, 10.21 ,3.5,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Germacrene, Humulene, Limonene, Myrcene"
-262,Reflect Reserve," 35.95, 66.90"," 10.27 , 9.56 ",3.5,Hybrid,Peace Naturals Project,COVE,Very Strong,19.50 - 25.50%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Humulene, Limonene, Myrcene"
-263,Rest Reserve, 35.95, 10.27 ,3.5,Indica Dominant,Peace Naturals Project,COVE,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-264,Kosher Kush," 10.80, 35.95, 66.85"," 10.80 , 10.27 , 9.55 ",1.0,Indica Dominant,Canopy Growth,DNA Genetics,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  ,"Bergamotene, Beta-Caryophyllene, Beta-Phellandrene, Limonene, Selinene"
-265,Chocolate Fondue," 10.80, 35.95, 66.85"," 10.80 , 10.27 , 9.55 ",1.0,Sativa Dominant,Canopy Growth,DNA Genetics,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  ,"Alpha-Santalene, Beta-Caryophyllene, Beta-Phellandrene, Limonene, Selinadienes"
-266,Macslurry, 36.95, 10.56 ,3.5,Indica Dominant,BZAM Cannabis,Snackbar,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,Other
-267,Sundae Driver, 36.95, 10.56 ,3.5,Hybrid,Experion Biotechnologies,Citizen Stash,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  ,Yes
-268,Pink Cookies x Kush Mints, 36.95, 10.56 ,3.5,Indica Dominant,Galaxie Brands Corporation,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Farnasene, Limonene, Linalool, Myrcene"
-269,PURPLE PUG, 36.95, 10.56 ,3.5,Indica Dominant,Mediwanna,ELIOS RESERVE,Strong,14.00 - 17.00%  ,0.00 - 1.00%  ,Ontario
-270,Apex, 36.95, 10.56 ,3.5,Sativa Dominant,Atlanticann Medical,Msiku,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  ,Yes
-271,Orangeade, 36.95, 10.56 ,3.5,Sativa Dominant,Alberta Craft Cannabis,TENZO,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Yes
-272,Stonewall, 36.95, 10.56 ,3.5,Sativa Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Bisabolol, Humulene, Limonene, Myrcene"
-273,No. 516 Sonic Express, 36.95, 10.56 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Myrcene, Delta-Limonene, Ocimene, Terpinolene"
-274,No. 425 Midnight Jam, 36.95, 10.56 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Bisabolol, Humulene, Limonene, Myrcene"
-275,LA Kush Cake, 36.95, 10.56 ,3.5,Hybrid,Tantalus Labs,Tantalus Labs,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Terpenes May Vary
-276,Sunset Sherbet, 36.95, 10.56 ,3.5,Indica Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.50 - 26.50%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Linalool, Myrcene"
-277,Sage N'Sour, 36.95, 10.56 ,3.5,Sativa Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.50 - 27.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Myrcene, Terpinolene"
-278,Peggy's Pride, 36.95, 10.56 ,3.5,Sativa Dominant,Atlanticann Medical,Msiku,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-279,Indica," 36.95, 68.75"," 10.56 , 9.82 ",3.5,Indica Dominant,Canopy Growth,Houseplant,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-280,No. 515 Noisy Neighbour, 36.95, 10.56 ,3.5,Sativa Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.00 - 27.50%  ,0.00 - 1.00%  ,"Limonene, Myrcene, Terpinolene"
-281,BC Pink Kush," 39.95, 73.95"," 11.41 , 10.56 ",3.5,Indica Dominant,The Flowr Group,Flowr,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  ,"Humulene, Myrcene, Nerolidol, Terpinene, Trans-Caryophyllene"
-282,8 Ball Kush," 49.95, 149.95"," 14.27 , 10.71 ",3.5,Indica Dominant,United Greeneries,18twelve,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene"
-283,Organic Sugar Bush, 37.95, 10.84 ,3.5,Sativa Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  ,Hybrid-Greenhouse
-284,French Macaron, 38.50, 11.00 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,15.00 - 24.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Bisabolol, Delta-Limonene, Nerolidol"
-285,Big Dip Indica - Limited Edition, 39.95, 11.41 ,3.5,Indica Dominant,Galaxie Brands Corporation,Cruuzy,Very Strong,20.00 - 26.00%  ,0.00 - 1.99%  ,Alberta
-286,Driftwood Diesel, 39.95, 11.41 ,3.5,Indica Dominant,Aurora Cannabis,San Rafael '71,Very Strong,21.00 - 27.00%  ,0.00 - 10.00%  ,Bradford
-287,Lemon Rocket, 39.95, 11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,20.00 - 26.00%  ,0.00 - 10.00%  ,Bradford
-288,Stonefruit Sunset, 39.95, 11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,19.00 - 25.00%  ,0.00 - 10.00%  ,Bradford
-289,Krypto Chronic #2, 39.95, 11.41 ,3.5,Hybrid,Sugarbud,Sugarbud,Very Strong,20.00 - 26.00%  ,0.00 - 5.00%  ,Alberta
-290,Mule Fuel, 39.95, 11.41 ,3.5,Hybrid,Sugarbud,Sugarbud,Very Strong,20.00 - 26.00%  ,0.00 - 5.00%  ,Yes
-291,B Banner, 39.95, 11.41 ,3.5,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Yes
-292,Growers Stash #002 - Crystal Kush, 39.95, 11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,21.00 - 27.00%  ,0.00 - 10.00%  ,"Simcoe, ON"
-293,The Vision, 39.95, 11.41 ,3.5,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Saskatoon
-294,Mendo Breath, 39.95, 11.41 ,3.5,Sativa Dominant,Northern Green Canada,Coterie,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,Bécancour
-295,Crescendo, 39.95, 11.41 ,3.5,Indica Dominant,Atlas Growers,Natural History,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  ,Yes
-296,Zour Apples, 39.95, 11.41 ,3.5,Sativa Dominant,Atlas Growers,Natural History,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  ,Yes
-297,PreNup, 39.95, 11.41 ,3.5,Sativa Dominant,Sugarbud,Sugarbud,Very Strong,18.00 - 24.00%  ,0.00 - 5.00%  ,Alberta
-298,Freshly Baked #76, 39.95, 11.41 ,3.5,Sativa Dominant,OGEN,OGEN,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Bisabolol, Humulene, Limonene, Myrcene"
-299,Coastal Kush, 39.95, 11.41 ,3.5,Indica Dominant,Aqualitas,Reef Organic,Very Strong,21.50 - 27.50%  ,0.00 - 1.00%  ,Nova Scotia
-300,Organnicraft Cherry Punch, 39.95, 11.41 ,3.5,Hybrid,Agro-Greens Natural Products,Organnicraft,Very Strong,22.00 - 27.00%  ,0.00 - 1.99%  ,Yes
-301,Wedding Cake, 39.95, 11.41 ,3.5,Indica Dominant,Weed Me,Weed Me,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Beta-Myrcene, Cedrene, Limonene"
-302,Ice Cream Cake, 39.95, 11.41 ,3.5,Indica Dominant,Weed Me,Weed Me,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  ,"Alpha-Pinene, Limonene, Linalool, Terpineol, Trans-Caryophyllene"
-303,Dank Rainbow, 39.95, 11.41 ,3.5,Indica Dominant,Boaz Pharmaceuticals,BOAZ,Very Strong,18.50 - 25.00%  ,0.00 - 1.00%  ,Yes
-304,Mandarin Cookie, 39.95, 11.41 ,3.5,Sativa Dominant,Weed Me,Weed Me,Very Strong,21.00 - 26.00%  ,0.00 - 2.00%  ,"Alpha-Bisabolol, Beta-Caryophyllene, Limonene, Linalool"
-305,Lemon Z," 39.95, 224.95"," 11.41 , 8.03 ",3.5,Sativa Dominant,OGEN,OGEN,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-306,Early Glue RBx1 #15," 39.95, 224.95"," 11.41 , 8.03 ",3.5,Indica Dominant,OGEN,OGEN,Very Strong,18.00 - 24.50%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Bisabolol, Humulene, Limonene, Myrcene"
-307,Mirage Plus, 39.95, 11.41 ,3.5,Indica Dominant,Breathing Green Solutions,SKOSHA,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Myrcene, Nerolidol"
-308,Nova Glue, 39.95, 11.41 ,3.5,Hybrid,Atlanticann Medical,Msiku,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-309,Gelatti, 39.95, 11.41 ,3.5,Indica Dominant,Atlanticann Medical,Msiku,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-310,Tangerine Dream," 12.00, 39.95, 74.30, 139.95"," 12.00 , 11.41 , 10.61 , 9.33 ",1.0,Sativa Dominant,MedReleaf,San Rafael '71,Medium,11.00 - 15.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Pinene, Guaiol, Myrcene"
-311,Pink Kush," 12.00, 39.95, 74.30, 139.95"," 12.00 , 11.41 , 10.61 , 9.33 ",1.0,Indica Dominant,MedReleaf,San Rafael '71,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene"
-312,Delahaze," 12.00, 39.95, 74.30, 139.95"," 12.00 , 11.41 , 10.61 , 9.33 ",1.0,Sativa Dominant,MedReleaf,San Rafael '71,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Pinene, Myrcene, Terpinolene"
-313,Wedding Poop, 41.95, 11.99 ,3.5,Indica Dominant,Castle Rock Farms .,BC Green,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Princeton, British Columbia"
-314,Garlic Jelly, 41.95, 11.99 ,3.5,Indica Dominant,Weed Me,Weed Me Limited Batch,Very Strong,21.00 - 27.00%  ,0.00 - 2.00%  ,Yes
-315,Cement Shoes, 41.95, 11.99 ,3.5,Indica Dominant,Castle Rock Farms .,BC Green,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,"Princeton, British Columbia"
-316,BC Organic Blue Dream," 49.95, 84.95"," 14.27 , 12.14 ",3.5,Sativa Dominant,Rubicon Organics,Simply Bare,Very Strong,18.00 - 24.00%  ,0.00 - 1.99%  ,"Alpha-Pinene, Beta-Caryophyllene, Humulene, Myrcene, Ocimene"
-317,Afghani Drifter," 45.95, 84.95"," 13.13 , 12.14 ",3.5,Hybrid,Thrive Cannabis,Greybeard,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Caryophyllene, Beta-Myrcene, Delta-Limonene, Linalool"
-318,Gelato, 42.95, 12.27 ,3.5,Hybrid,Apothecary Botanicals,Apothecary Botanicals,Very Strong,22.00 - 28.00%  ,0.00 - 2.00%  ,British Columbia
-319,RC Sour Budder Cookies, 42.95, 12.27 ,3.5,Hybrid,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Yes
-320,RC Rockstar Tuna, 42.95, 12.27 ,3.5,Indica Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  ,Yes
-321,RC Dukem, 42.95, 12.27 ,3.5,Sativa Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  ,Yes
-322,Cherry Bomb, 42.95, 12.27 ,3.5,Sativa Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  ,"Alpha-Humulene, Beta-Pinene, Limonene, Linalool, Nerolidol"
-323,Pink Kush, 43.50, 12.43 ,3.5,Indica Dominant,Canna Farms,Canna Farms,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Linalool, Trans-Caryophyllene"
-324,GSC, 43.50, 12.43 ,3.5,Indica Dominant,Canna Farms,Canna Farms,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Linalool, Trans-Caryophyllene"
-325,Black Kettle Farms Rainbow Driver, 44.95, 12.84 ,3.5,Hybrid,Joint Venture Craft Cannabis,BC Black,Very Strong,22.00 - 26.00%  ,0.00 - 5.00%  ,British Columbia
-326,RC Craft Consortium – 7Green TF Island Pink Kush, 44.95, 12.84 ,3.5,Indica Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,20.00 - 26.00%  ,0.01 - 1.00%  ,Kamloops BC
-327,Black Sero'Q, 44.95, 12.84 ,3.5,Indica Dominant,Candre Cannabis,RGB,Very Strong,17.00 - 23.00%  ,0.00 - 2.00%  ,Yes
-328,Sky Cuddler Double Kush, 44.95, 12.84 ,3.5,Indica Dominant,Aqualitas,Reef Organic,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Nova Scotia
-329,SECRET FORMULA, 44.95, 12.84 ,3.5,Indica Dominant,Galaxie Brands Corporation,WINK,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,Acheson
-330,Powdered Donuts, 44.95, 12.84 ,3.5,Sativa Dominant,Indiva,Indiva,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  ,Grande Pointe
-331,OG Kush, 44.95, 12.84 ,3.5,Indica Dominant,Delshen Therapeutics,Queen West '94,Very Strong,21.00 - 27.00%  ,0.00 - 0.10%  ,Indoor
-332,Acapulco Gold, 44.95, 12.84 ,3.5,Sativa Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Yes
-333,Wedding Cake, 44.95, 12.84 ,3.5,Indica Dominant,Will Cannabis,BLLRDR,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Farnasene, Limonene, Myrcene"
-334,Afghani Bullrider, 44.95, 12.84 ,3.5,Hybrid,Will Cannabis,BLLRDR,Very Strong,16.00 - 21.00%  ,0.00 - 1.00%  ,Ontario
-335,MAC 1, 44.95, 12.84 ,3.5,Hybrid,Experion Biotechnologies,Citizen Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Bisabolol, Limonene, Myrcene"
-336,Unicorn Poop, 45.95, 13.13 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,18.00 - 24.00%  ,0.00 - 1.99%  ,Thorndale
-337,Critical Kush, 45.95, 13.13 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,15.00 - 21.00%  ,0.00 - 1.99%  ,Yes
-338,Unicorn Poop, 46.50, 13.29 ,3.5,Hybrid,Tantalus Labs,Tantalus Labs,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Okanagan
-339,ICC x Kush Mints 11, 46.95, 13.41 ,3.5,Indica Dominant,Atlanticann Medical,Msiku,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,Yes
-340,White Wedding, 46.95, 13.41 ,3.5,Hybrid,Atlanticann Medical,Msiku,Very Strong,21.00 - 27.50%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-341,LA Kush Cake, 47.65, 13.61 ,3.5,Indica Dominant,Sundial Growers,Top Leaf,Very Strong,23.00 - 29.00%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-342,White Wedding, 46.95, 13.41 ,3.5,Hybrid,Atlanticann Medical,Msiku,Very Strong,21.00 - 27.50%  ,0.00 - 1.00%  ,"Caryophyllene, Humulene, Limonene, Linalool, Myrcene"
-343,Amnesia Haze, 48.00, 13.71 ,3.5,Sativa Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  ,Vancouver Island
-344,Pipe Dream, 48.00, 13.71 ,3.5,Sativa Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,18.00 - 24.00%  ,0.00 - 1.99%  ,Yes
-345,Frost Monster (Gabriola), 48.00, 13.71 ,3.5,Indica Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,15.00 - 21.00%  ,0.00 - 2.00%  ,"Beta-Pinene, Caryophyllene, Limonene, Linalool, Terpineol"
-346,Headstash (Quadra), 48.00, 13.71 ,3.5,Indica Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,14.00 - 21.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Limonene, Myrcene, Terpineol, Trans-Caryophyllene"
-347,Northern Lights Haze (Galiano), 48.00, 13.71 ,3.5,Sativa Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,15.00 - 21.50%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Beta-Pinene, Limonene, Myrcene, Trans-Caryophyllene"
-348,Animal Face," 48.50, 154.95"," 13.86 , 11.07 ",3.5,Sativa Dominant,Carmel Pharms,Carmel,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Limonene, Linalool, Myrcene"
-349,Peanut Butter Breath, 48.95, 13.99 ,3.5,Indica Dominant,Carmel Pharms,Carmel,Very Strong,22.00 - 30.00%  ,0.00 - 1.00%  ,Oro-Medonte
-350,MAC 1, 48.95, 13.99 ,3.5,Hybrid,Carmel Pharms,Carmel,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,Yes
-351,Daily Special Sativa," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-352,Daily Special Indica," 21.95, 40.80, 75.00, 125.00"," 6.27 , 5.83 , 5.00 , 4.46 ",3.5,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  ,Alberta
-353,Jean Guy," 7.20, 23.95, 44.55, 86.25, 147.25"," 7.20 , 6.84 , 6.36 , 5.75 , 5.26 ",1.0,Sativa Dominant,Aphria,Good Supply,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  ,"Beta-Caryophyllene, Limonene, Linalool, Myrcene, Terpinolene"
-354,Magic Mint, 49.95, 14.27 ,3.5,Hybrid,Canadian Clinical Cannabinoids,The Wild Florist,Very Strong,23.00 - 28.00%  ,0.00 - 1.00%  ,BC Lower Mainland
-355,Craft Collective: OG Kush, 49.95, 14.27 ,3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  ,Kincardine
-356,BC Secret Mintz, 49.95, 14.27 ,3.5,Hybrid,Canadian Clinical Cannabinoids,Dunn Cannabis,Very Strong,23.00 - 28.00%  ,0.00 - 1.00%  ,BC Lower Mainland
-357,Sensi Wizard, 49.95, 14.27 ,3.5,Sativa Dominant,Highland Grow,Highland Grow,Very Strong,23.00 - 28.00%  ,0.00 - 2.00%  ,HID
-358,Cherry Burst, 49.95, 14.27 ,3.5,Hybrid,Highland Grow,Highland Grow,Very Strong,23.00 - 28.00%  ,0.00 - 2.00%  ,HID
-359,Prairie Grass B-Banner, 49.95, 14.27 ,3.5,Hybrid,Agro-Greens Natural Products,Shelter Craft,Very Strong,22.00 - 27.00%  ,0.00 - 1.00%  ,Yes
-360,Karma, 49.95, 14.27 ,3.5,Indica Dominant,Canadian Clinical Cannabinoids,Dunn Cannabis,Very Strong,20.00 - 25.00%  ,0.00%  ,Yes
-361,Gaelic Fire, 49.95, 14.27 ,3.5,Indica Dominant,Highland Grow,Highland Grow,Very Strong,23.00 - 29.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Linalool, Myrcene"
-362,White Lightning, 49.95, 14.27 ,3.5,Indica Dominant,Highland Grow,Highland Grow,Very Strong,23.00 - 29.00%  ,0.00 - 2.00%  ,"Beta-Caryophyllene, Humulene, Limonene, Myrcene"
-363,True OG, 49.95, 14.27 ,3.5,Indica Dominant,Truro Cannabis,TRURO,Very Strong,24.00 - 32.00%  ,0.00 - 1.00%  ,Rack and Tray
-364,Big Larry, 49.95, 14.27 ,3.5,Indica Dominant,Truro Cannabis,TRURO,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  ,Rack and Tray
-365,Wedding Mint, 49.95, 14.27 ,3.5,Indica Dominant,Truro Cannabis,TRURO,Very Strong,24.00 - 30.00%  ,0.00 - 1.00%  ,LED
-366,Secret, 49.95, 14.27 ,3.5,Indica Dominant,Truro Cannabis,TRURO,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Humulene, Limonene, Linalool"
-367,Craft Collective : Ice Cream Cake, 49.95, 14.27 ,3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.50%  ,0.00 - 2.00%  ,"Beta-Pinene, Caryophyllene, Limonene, Linalool, Nerolidol"
-368,Cherry Punch," 54.95, 99.95"," 15.70 , 14.28 ",3.5,Indica Dominant,Alberta Craft Cannabis,BLK MKT,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  ,"Alpha-Pinene, Beta-Caryophyllene, Beta-Pinene, Humulene, Limonene"
-369,Mango Taffie, 51.95, 14.84 ,3.5,Sativa Dominant,Good Buds Company,GOOD BUDS,Very Strong,20.00 - 25.00%  ,0.00 - 5.00%  ,Yes
-370,Stuffed French Toast, 54.95, 15.70 ,3.5,Hybrid,We Grow B.C.,Qwest,Very Strong,23.00 - 29.00%  ,0.00 - 2.00%  ,Okanogan
-371,BC Zaza, 54.95, 15.70 ,3.5,Hybrid,Experion Biotechnologies,Burb,Very Strong,22.00 - 30.00%  ,0.00 - 1.00%  ,British Columbia
+name,price,price_per_gram,grams,type,producer,brand,potency,thc,cbd
+THC Pre Milled Blend,74.95,3.57 ,21,Blend,AgMedica Bioscience,Five Founders,Very Strong,15.00 - 20.00%  ,0.00 - 1.00%  
+All Purpose Flower Indica,"59.95, 99.95","4.28 , $3.57 ","14, 28",Indica Dominant,Hexo Operations,Bake Sale,Strong,14.00 - 17.00%  ,0.00 - 1.00%  
+All Purpose Flower Sativa,"59.95, 99.95","4.28 , $3.57 ","14, 28",Sativa Dominant,Hexo Operations,Bake Sale,Strong,14.00 - 17.00%  ,0.00 - 1.00%  
+Indica Blend,99.95,3.57 ,28,Indica Dominant,Natural MedCo,Eve & Co.,Strong,12.00 - 18.00%  ,0.00 - 1.99%  
+Indica Bud,"21.95, 40.00, 99.95","4.39 , $4.00 , $3.57 ","5, 10, 28",Indica Dominant,Canopy Growth,Simple Stash,Strong,12.00 - 18.00%  ,0.00 - 0.50%  
+Sativa Bud,"21.95, 40.00, 99.95","4.39 , $4.00 , $3.57 ","5, 10, 28",Sativa Dominant,Canopy Growth,Simple Stash,Strong,12.00 - 18.00%  ,0.00 - 0.50%  
+Indica,"36.95, 99.95","5.28 , $3.57 ","7, 28",Indica Dominant,Sundial Growers,Grasslands,Very Strong,14.00 - 20.50%  ,0.00 - 1.00%  
+Ready to Roll Milled Indica,54.95,3.66 ,15,Indica Dominant,Aphria,BINGO,Very Strong,14.00 - 20.00%  ,0.00 - 1.99%  
+Ready to Roll Milled Sativa,54.95,3.66 ,15,Sativa Dominant,Aphria,BINGO,Very Strong,14.00 - 20.00%  ,0.00 - 1.99%  
+Funk Master,28.50,4.07 ,7,Hybrid,Organigram,SHRED,Very Strong,18.00 - 24.00%  ,0.00 - 0.15%  
+Gnarberry,28.50,4.07 ,7,Hybrid,Organigram,SHRED,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Tropic Thunder,28.50,4.07 ,7,Hybrid,Organigram,SHRED,Very Strong,18.00 - 24.20%  ,0.00 - 1.00%  
+OS.HYBRID,"19.95, 65.45, 114.95","5.70 , $4.67 , $4.11 ","3.5, 14, 28",Sativa Dominant,Hexo Operations,Original Stash,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+OS.SATIVA,"19.95, 65.45, 114.95","5.70 , $4.67 , $4.11 ","3.5, 14, 28",Sativa Dominant,Hexo Operations,Original Stash,Very Strong,16.00 - 20.00%  ,0.00 - 1.00%  
+OS.INDICA,"19.95, 65.45, 114.95","5.70 , $4.67 , $4.11 ","3.5, 14, 28",Indica Dominant,Hexo Operations,Original Stash,Very Strong,17.00 - 20.00%  ,0.00 - 1.00%  
+Sativa!,"69.95, 116.95","4.66 , $4.18 ","15, 28",Sativa Dominant,Aphria,BINGO,Strong,13.00 - 17.00%  ,0.00 - 1.99%  
+Indica!,"69.95, 116.95","4.66 , $4.18 ","15, 28",Indica Dominant,Aphria,BINGO,Strong,13.00 - 17.00%  ,0.00 - 1.99%  
+Hybrid,117.60,4.20 ,28,Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Sativa,117.60,4.20 ,28,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,14.00 - 19.00%  ,0.00 - 1.00%  
+Indica,117.60,4.20 ,28,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Mazar,14.95,4.27 ,3.5,Indica Dominant,Bonify Holdings,Bonify,Very Strong,14.00 - 20.00%  ,0.00 - 0.30%  
+Lemon Zkttl,14.95,4.27 ,3.5,Sativa Dominant,Bonify Holdings,Bonify,Strong,12.00 - 18.00%  ,0.00 - 0.30%  
+Unrolled Sativa,59.95,4.28 ,14,Sativa Dominant,Mera Cannabis,Hunny Pot,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+Cactus Breath,124.95,4.46 ,28,Indica Dominant,Terrascend Canada,Legend,Very Strong,15.50 - 21.50%  ,0.00 - 1.00%  
+Grower's Choice Sativa,"21.50, 75.00, 125.00","6.14 , $5.00 , $4.46 ","3.5, 15, 28",Sativa Dominant,Aphria,Good Supply,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  
+Grower's Choice Indica,"21.50, 75.00, 125.00","6.14 , $5.00 , $4.46 ","3.5, 15, 28",Indica Dominant,Aphria,Good Supply,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  
+Indica Bud,125.00,4.46 ,28,Indica Dominant,Canopy Growth,Twd.28,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  
+Sativa Bud,125.00,4.46 ,28,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  
+Daily Special Sativa,"21.95, 40.80, 75.00, 125.00","6.27 , $5.83 , $5.00 , $4.46 ","3.5, 7, 15, 28",Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+Daily Special Indica,"21.95, 40.80, 75.00, 125.00","6.27 , $5.83 , $5.00 , $4.46 ","3.5, 7, 15, 28",Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+Sweet & Sour Sativa Ready-to-Roll,32.95,4.71 ,7,Blend,WeedMD,Saturday,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Bandwagon Blue Dream,134.95,4.82 ,28,Sativa Dominant,Rubicon Organics,Homestead,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Kandy Kush Grind,34.95,4.99 ,7,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,16.00 - 21.00%  ,0.00 - 2.00%  
+Chocolate Mint OG Grind,34.95,4.99 ,7,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Sativa,"21.50, 40.00, 75.00","6.14 , $5.71 , $5.00 ","3.5, 7, 15",Sativa Dominant,Canopy Growth,TWD.,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  
+Indica,"21.50, 40.00, 75.00","6.14 , $5.71 , $5.00 ","3.5, 7, 15",Indica Dominant,Canopy Growth,TWD.,Very Strong,16.00 - 22.00%  ,0.00 - 0.50%  
+Wedding Pie,139.95,5.00 ,28,Indica Dominant,Kolab Project,Back Forty,Very Strong,21.00 - 27.00%  ,0.00%  
+Animal Mints,139.95,5.00 ,28,Indica Dominant,Kolab Project,Back Forty,Very Strong,18.50 - 24.50%  ,0.00%  
+Blue Dream Flower,139.95,5.00 ,28,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.00 - 21.00%  ,0.00 - 0.50%  
+Apple Pie Flower,139.95,5.00 ,28,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.00 - 21.00%  ,0.00 - 0.50%  
+Lemon Z,139.95,5.00 ,28,Sativa Dominant,WeedMD,Saturday,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Pink Kush,"22.95, 42.70, 77.10, 139.95","6.56 , $6.10 , $5.51 , $5.00 ","3.5, 7, 14, 28",Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  
+Ultra Sour,143.95,5.14 ,28,Sativa Dominant,Organigram,Big Bag O Buds,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  
+Sour Diesel,144.95,5.18 ,28,Indica Dominant,Redecan,Redecan,Strong,13.00 - 18.00%  ,0.00 - 1.00%  
+Lemon Haze,"21.95, 72.95","6.27 , $5.21 ","3.5, 14",Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  
+MK Ultra,72.95,5.21 ,14,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  
+Tangie Green,"23.95, 147.25","6.84 , $5.26 ","3.5, 28",Hybrid,Aphria,Good Supply,Very Strong,17.00 - 23.00%  ,0.00 - 2.00%  
+Sour Kush,"23.95, 86.25, 147.25","6.84 , $5.75 , $5.26 ","3.5, 15, 28",Hybrid,Aphria,Good Supply,Very Strong,17.00 - 23.00%  ,0.00 - 2.00%  
+Starwalker Kush,"23.95, 86.25, 147.25","6.84 , $5.75 , $5.26 ","3.5, 15, 28",Indica Dominant,Aphria,Good Supply,Very Strong,18.50 - 24.50%  ,0.00 - 0.99%  
+Monkey Glue,"23.95, 86.25, 147.25","6.84 , $5.75 , $5.26 ","3.5, 15, 28",Hybrid,Aphria,Good Supply,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Jean Guy,"7.20, 23.95, 44.55, 86.25, 147.25","7.20 , $6.84 , $6.36 , $5.75 , $5.26 ","1, 3.5, 7, 15, 28",Sativa Dominant,Aphria,Good Supply,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  
+AAA Hybrid,74.95,5.35 ,14,Hybrid,7ACRES,Hiway,Very Strong,14.00 - 20.50%  ,0.00 - 1.00%  
+Cold Creek Kush,"7.50, 23.65, 43.75, 84.95, 149.95","7.50 , $6.76 , $6.25 , $5.66 , $5.36 ","1, 3.5, 7, 15, 28",Sativa Dominant,Redecan,Redecan,Very Strong,17.00 - 23.00%  ,0.00 - 1.50%  
+OS.Reserve Hybrid,"49.95, 87.95, 149.95","7.14 , $6.28 , $5.36 ","7, 14, 28",Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  
+OS.Reserve Sativa,"49.95, 87.95, 149.95","7.14 , $6.28 , $5.36 ","7, 14, 28",Sativa Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  
+Rotterdam Indica,"29.95, 99.95, 149.95","8.56 , $6.66 , $5.36 ","3.5, 15, 28",Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  
+OS.Reserve Indica,"49.95, 87.95, 149.95","7.14 , $6.28 , $5.36 ","7, 14, 28",Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Afghan Kush,"22.95, 42.70, 77.10","6.56 , $6.10 , $5.51 ","3.5, 7, 14",Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.00 - 22.00%  ,0.00 - 0.50%  
+D. Bubba,"22.95, 42.70, 77.10","6.56 , $6.10 , $5.51 ","3.5, 7, 14",Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Polar Kish,19.75,5.64 ,3.5,Indica Dominant,Northern Green Canada,Northern Green Canada,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+Black Cherry Punch,"7.50, 23.65, 79.30","7.50 , $6.76 , $5.66 ","1, 3.5, 14",Indica Dominant,Redecan,Redecan,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Lilac Diesel,"7.50, 23.65, 79.30","7.50 , $6.76 , $5.66 ","1, 3.5, 14",Sativa Dominant,Redecan,Redecan,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Outlaw,"7.50, 23.65, 43.75, 84.95","7.50 , $6.76 , $6.25 , $5.66 ","1, 3.5, 7, 15",Sativa Dominant,Redecan,Redecan,Very Strong,18.00 - 24.00%  ,0.00 - 0.10%  
+Wappa,"7.50, 23.65, 43.75, 84.95","7.50 , $6.76 , $6.25 , $5.66 ","1, 3.5, 7, 15",Indica Dominant,Redecan,Redecan,Very Strong,19.00 - 25.00%  ,0.00 - 0.10%  
+Tsunami,"28.95, 169.95","8.27 , $5.67 ","3.5, 30",Indica Dominant,Hexo Operations,Hexo,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Flo,19.95,5.70 ,3.5,Hybrid,Emblem Cannabis,Divvy,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+The Adventurer,19.95,5.70 ,3.5,Indica Dominant,Natural MedCo,Eve & Co.,Very Strong,16.00 - 20.00%  ,0.00 - 1.00%  
+Ghost Train Haze,79.95,5.71 ,14,Sativa Dominant,Sensi Brands,Station House,Very Strong,18.00 - 22.00%  ,0.01 - 0.20%  
+Blue Dream,79.95,5.71 ,14,Sativa Dominant,Sensi Brands,Station House,Very Strong,18.00 - 22.00%  ,0.00 - 0.50%  
+OG Kush,79.95,5.71 ,14,Indica Dominant,Sensi Brands,Station House,Very Strong,18.00 - 22.00%  ,0.00 - 0.20%  
+Muskoka Kush,79.95,5.71 ,14,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 1.00%  
+Subway Scientist,"8.95, 29.95, 55.70, 159.95","8.56 , $7.96 , $5.71 ","1, 3.5, 7, 28",Indica Dominant,Aphria,RIFF,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Hell Cat 33,"32.95, 159.95","9.41 , $5.71 ","3.5, 28",Hybrid,Aphria,RIFF,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+White Rhino,"22.95, 42.70","6.56 , $6.10 ","3.5, 7",Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.00 - 22.00%  ,0.00 - 1.00%  
+Island Honey,"22.95, 42.70","6.56 , $6.10 ","3.5, 7",Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.00 - 19.00%  ,0.00 - 1.99%  
+Balanced,"21.50, 40.00","6.14 , $5.71 ","3.5, 7",Hybrid,Canopy Growth,TWD.,Medium,7.00 - 13.00%  ,5.00 - 11.00%  
+Grower's Choice Hybrid,21.50,6.14 ,3.5,Hybrid,Aphria,Good Supply,Very Strong,16.00 - 23.00%  ,0.00 - 2.00%  
+Sky Pilot,"29.95, 92.95","8.56 , $6.20 ","3.5, 15",Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Flicker Buds,"21.95, 40.80, 74.95","6.27 , $5.83 , $5.00 ","3.5, 7, 15",Indica Dominant,Organigram,Trailblazer,Strong,15.00 - 19.00%  ,0.00 - 1.00%  
+Spark Buds,"21.95, 40.80, 74.95","6.27 , $5.83 , $5.00 ","3.5, 7, 15",Sativa Dominant,Organigram,Trailblazer,Strong,15.00 - 19.00%  ,0.00 - 1.00%  
+OS.Reserve Indica,"49.95, 87.95","7.14 , $6.28 ","7, 14",Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Pedro's Sweet Sativa Ready To Roll,22.50,6.43 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,15.00 - 21.00%  ,0.00 - 1.00%  
+Ghost Train Haze Ready To Roll,22.50,6.43 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Platinum Cookies,22.95,6.56 ,3.5,Sativa Dominant,Sundial Growers,Palmetto,Very Strong,20.00 - 26.00%  ,1.00%  
+Blue Dream,22.95,6.56 ,3.5,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.00 - 19.00%  ,0.00 - 1.00%  
+Pine Kush,"22.95, 124.95","6.56 , $4.46 ","3.5, 28",Indica Dominant,Kolab Project,Back Forty,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Headband,22.95,6.56 ,3.5,Sativa Dominant,Sundial Growers,Palmetto,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  
+Nuken,22.95,6.56 ,3.5,Indica Dominant,Sundial Growers,Palmetto,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  
+Headband,"22.95, 42.70","6.56 , $6.10 ","3.5, 7",Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,17.00 - 23.00%  ,0.00 - 1.99%  
+Pure Sun CBD,"22.95, 42.70","6.56 , $6.10 ","3.5, 7",Hybrid,Pure Sunfarms,Pure Sunfarms,Little to Minimal,0.00 - 1.00%  ,14.00 - 20.00%  
+Mango Haze,"27.50, 98.95","7.86 , $6.60 ","3.5, 15",Sativa Dominant,WeedMD,Color Cannabis,Mild,4.00 - 10.00%  ,6.00 - 12.00%  
+Black Sugar Rose,"27.50, 98.95","7.86 , $6.60 ","3.5, 15",Indica Dominant,WeedMD,Color Cannabis,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Pedro's Sweet Sativa,"27.50, 98.95","7.86 , $6.60 ","3.5, 15",Sativa Dominant,WeedMD,Color Cannabis,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Ghost Train Haze,"27.50, 98.95","7.86 , $6.60 ","3.5, 15",Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Sinaloa Gold,23.50,6.71 ,3.5,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+White Out,23.50,6.71 ,3.5,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,16.00 - 23.00%  ,0.00 - 1.00%  
+Blue Dream,22.95,6.56 ,3.5,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.00 - 19.00%  ,0.00 - 1.00%  
+Orange Monkey,23.95,6.84 ,3.5,Indica Dominant,Canntrust,Liiv,Very Strong,19.00 - 25.00%  ,0.00 - 10.00%  
+Indica,23.95,6.84 ,3.5,Indica Dominant,Aphria,Papa's Herb,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Sativa,23.95,6.84 ,3.5,Sativa Dominant,Aphria,Papa's Herb,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Bali Kush,23.95,6.84 ,3.5,Indica Dominant,Canntrust,liiv,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  
+Royal Highness,"7.20, 23.95, 44.55, 86.25, 147.25","7.20 , $6.84 , $6.36 , $5.75 , $5.26 ","1, 3.5, 7, 15, 28",Hybrid,Aphria,Good Supply,Very Strong,17.00 - 24.00%  ,0.00 - 1.00%  
+Free,"7.20, 23.95, 44.55","7.20 , $6.84 , $6.36 ","1, 3.5, 7",Sativa Dominant,Aphria,Solei,Little to Minimal,0.30 - 1.00%  ,11.00 - 17.00%  
+Granddaddy Purple,24.50,7.00 ,3.5,Indica Dominant,Delshen Therapeutics,48North,Very Strong,17.00 - 23.20%  ,0.00 - 1.00%  
+Sense,"8.50, 26.50, 49.30","8.50 , $7.57 , $7.04 ","1, 3.5, 7",Hybrid,Aphria,Solei,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Unplug,"8.50, 26.50, 49.30","8.50 , $7.57 , $7.04 ","1, 3.5, 7",Hybrid,Aphria,Solei,Very Strong,15.00 - 21.00%  ,0.00 - 1.00%  
+Green Cush,"26.50, 49.40","7.57 , $7.06 ","3.5, 7",Sativa Dominant,High Park,Canaca,Very Strong,20.00 - 26.00%  ,0.00 - 0.10%  
+Strawberry Ice,"7.50, 24.90","7.50 , $7.11 ","1, 3.5",Sativa Dominant,Maricann Group,Northern Harvest,Very Strong,15.00 - 21.00%  ,0.00 - 4.00%  
+Mango Haze,"7.50, 24.90","7.50 , $7.11 ","1, 3.5",Sativa Dominant,Maricann Group,Kiwi Cannabis,Mild,4.00 - 10.00%  ,6.00 - 13.00%  
+Cali-O,"7.50, 24.90","7.50 , $7.11 ","1, 3.5",Hybrid,Maricann Group,Kiwi Cannabis,Mild,5.00 - 9.00%  ,6.00 - 12.00%  
+HiFi 4G,"24.95, 61.30","7.13 , $8.76 ","3.5, 7",Hybrid,AB Laboratories,Steel City Green,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  
+Glueberry OG,"24.95, 61.30","7.13 , $8.76 ","3.5, 7",Hybrid,AB Laboratories,Steel City Green,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  
+Lemon Ziddy,"24.95, 61.30","7.13 , $8.76 ","3.5, 7",Hybrid,AB Laboratories,Steel City Green,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  
+Rockstar,99.95,7.14 ,14,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 5.00%  
+Hindu Kush,"8.10, 26.95, 50.10","8.10 , $7.70 , $7.16 ","1, 3.5, 7",Indica Dominant,Canopy Growth,Tweed,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  
+Afghan Kush,"8.10, 26.95, 50.10","8.10 , $7.70 , $7.16 ","1, 3.5, 7",Indica Dominant,Canopy Growth,Tweed,Very Strong,19.00 - 25.00%  ,0.00 - 0.50%  
+The Edge,25.95,7.41 ,3.5,Sativa Dominant,Muskoka Grown Limited,Muskoka Grown,Strong,13.00 - 19.00%  ,0.00%  
+Cold Creek Kush,52.00,7.43 ,7,Indica Dominant,AgMedica Bioscience,Vertical,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Charlees,"7.50, 23.65, 43.75, 84.95","7.50 , $6.76 , $6.25 , $5.66 ","1, 3.5, 7, 15",Indica Dominant,Redecan,Redecan,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+Super Lemon Haze,26.50,7.57 ,3.5,Sativa Dominant,Aphria,Solei,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Chocolate Cheesecake,26.50,7.57 ,3.5,Hybrid,Aphria,Solei,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+Purps,26.50,7.57 ,3.5,Hybrid,High Park,Canaca,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Mango,"26.50, 49.30","7.57 , $7.04 ","3.5, 7",Indica Dominant,High Park,CANACA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Blue Nova,26.50,7.57 ,3.5,Sativa Dominant,Sundial Growers,Sundial,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Wappa,"7.95, 26.50","7.95 , $7.57 ","1, 3.5",Indica Dominant,Zenabis,Namaste,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+Alien Dawg,26.50,7.57 ,3.5,Indica Dominant,High Park,CANACA,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Balance,"8.50, 26.50, 24.98","8.50 , $7.57 , $3.57 ","1, 3.5, 7",Hybrid,Aphria,Solei,Mild,4.00 - 11.00%  ,8.50 - 15.50%  
+Blueberry,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.99%  
+Rockstar Kush,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Diesel,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Sensi Star,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+UK Cheese,"8.10, 26.95","8.10 , $7.70 ","1, 3.5",Hybrid,Canopy Growth,Tweed,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  
+Chocolate Cheesecake,26.50,7.57 ,3.5,Hybrid,Aphria,Solei,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+Purps,26.50,7.57 ,3.5,Hybrid,High Park,Canaca,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Mango,"26.50, 49.30","7.57 , $7.04 ","3.5, 7",Indica Dominant,High Park,CANACA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Blue Nova,26.50,7.57 ,3.5,Sativa Dominant,Sundial Growers,Sundial,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Wappa,"7.95, 26.50","7.95 , $7.57 ","1, 3.5",Indica Dominant,Zenabis,Namaste,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+Alien Dawg,26.50,7.57 ,3.5,Indica Dominant,High Park,CANACA,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Balance,"8.50, 26.50, 24.98","8.50 , $7.57 , $3.57 ","1, 3.5, 7",Hybrid,Aphria,Solei,Mild,4.00 - 11.00%  ,8.50 - 15.50%  
+Blueberry,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.99%  
+Rockstar Kush,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Diesel,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Sensi Star,"28.95, 53.85","8.27 , $7.69 ","3.5, 7",Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+UK Cheese,"8.10, 26.95","8.10 , $7.70 ","1, 3.5",Hybrid,Canopy Growth,Tweed,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  
+Chocolate Cheesecake,26.50,7.57 ,3.5,Hybrid,Aphria,Solei,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+Jelly Breath,26.95,7.70 ,3.5,Indica Dominant,Organigram,Indi Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  
+M’mosa,26.95,7.70 ,3.5,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  
+Purple Aya,26.95,7.70 ,3.5,Sativa Dominant,SESS Holdings,SELESTE,Very Strong,18.00 - 26.00%  ,0.00 - 1.10%  
+King Tut,26.95,7.70 ,3.5,Hybrid,SESS Holdings,SELESTE,Very Strong,18.00 - 24.00%  ,0.00 - 1.10%  
+Go Elevate Kali Mist,26.95,7.70 ,3.5,Sativa Dominant,Canada's Island Garden,FIGR,Very Strong,20.00 - 26.00%  ,0.00 - 0.20%  
+Go Play Mandarin Cookies,26.95,7.70 ,3.5,Sativa Dominant,Canada's Island Garden,FIGR,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Go Steady Black Cherry Punch,26.95,7.70 ,3.5,Indica Dominant,Canada's Island Garden,FIGR,Very Strong,20.00 - 26.00%  ,0.00 - 0.20%  
+Slurricane,26.95,7.70 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,17.00 - 23.00%  ,0.00 - 0.15%  
+Ghost Train Haze UP20,26.95,7.70 ,3.5,Sativa Dominant,Hexo Operations,UP,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Northern Berry UP20,26.95,7.70 ,3.5,Indica Dominant,Hexo Operations,UP,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Cold Creek Kush UP20,26.95,7.70 ,3.5,Indica Dominant,Hexo Operations,UP,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  
+Green Cush,"8.10, 26.95, 50.10, 97.00","8.10 , $7.70 , $7.16 , $6.47 ","1, 3.5, 7, 15",Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.00 - 23.00%  ,0.00 - 0.50%  
+Skunk Haze,"8.10, 26.95","8.10 , $7.70 ","1, 3.5",Hybrid,Canopy Growth,Tweed,Medium,6.00 - 12.00%  ,5.00 - 11.00%  
+White Shark,27.50,7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Strong,15.00 - 19.00%  ,0.00 - 2.00%  
+Blueberry Seagal,27.50,7.86 ,3.5,Indica Dominant,WeedMD,Color Cannabis,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+Pedro's Sweet Sativa,27.50,7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Ghost Train Haze,27.50,7.86 ,3.5,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Limelight,"10.50, 34.95, 65.00, 111.95","10.50 , $9.99 , $9.29 , $8.00 ","1, 3.5, 7, 14",Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Black Cherry Punch,"10.50, 34.95, 111.95","10.50 , $9.99 , $8.00 ","1, 3.5, 14",Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  
+C-LAND,"8.10, 26.95","8.10 , $7.70 ","1, 3.5",Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.00 - 23.00%  ,0.00 - 0.50%  
+Sage N Sour,"35.45, 114.95","10.13 , $8.21 ","3.5, 14",Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  
+Blue Dream,"9.00, 28.95","9.00 , $8.27 ","1, 3.5",Sativa Dominant,Aurora Cannabis,Aurora,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+Buns N Roses,28.95,8.27 ,3.5,Indica Dominant,BZAM Cannabis,SuperFlower,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  
+Pink Krush,28.95,8.27 ,3.5,Indica Dominant,Pure Sunfarms,Favours,Very Strong,21.00 - 25.00%  ,0.00 - 1.00%  
+Strawberry Cake,28.95,8.27 ,3.5,Indica Dominant,AgMedica Bioscience,Vertical Cannabis,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Wedding Cake,28.95,8.27 ,3.5,Hybrid,Peace Naturals Project,Spinach,Very Strong,20.00 - 29.70%  ,0.00 - 1.00%  
+Slurri Crasher,28.95,8.27 ,3.5,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.00 - 22.00%  ,0.00 - 1.00%  
+Blue Dream,28.95,8.27 ,3.5,Sativa Dominant,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Dancehall,28.95,8.27 ,3.5,Sativa Dominant,Peace Naturals Project,Spinach,Mild,4.00 - 10.00%  ,6.00 - 12.00%  
+White Widow,28.95,8.27 ,3.5,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Cold Creek Kush,"10.50, 28.95, 52.00","10.50 , $8.27 , $7.43 ","1, 3.5, 7",Indica Dominant,AgMedica Bioscience,Vertical,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+French Macaron,57.95,8.28 ,7,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,21.00 - 27.00%  ,0.00 - 1.99%  
+Amsterdam Sativa,29.95,8.56 ,3.5,Sativa Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,19.00 - 26.00%  ,0.00 - 2.00%  
+Chocolate Mint OG,29.95,8.56 ,3.5,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Pink Grapefruit Haze,29.95,8.56 ,3.5,Sativa Dominant,Canntrust,Synr.g,Very Strong,16.00 - 22.00%  ,0.00 - 2.00%  
+Social (Mango),29.95,8.56 ,3.5,Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Green Crush,29.95,8.56 ,3.5,Sativa Dominant,Delshen Therapeutics,48North,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  
+Grapefruit GG1,29.95,8.56 ,3.5,Hybrid,Emerald Health Therapeutics,Emerald,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Chemdog,29.95,8.56 ,3.5,Sativa Dominant,Emerald Health Therapeutics,Emerald,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  
+Blue Gorilla,29.95,8.56 ,3.5,Hybrid,Muskoka Grown Limited,Muskoka Grown,Strong,13.00 - 19.00%  ,0.00 - 1.00%  
+Pacific OG,29.95,8.56 ,3.5,Sativa Dominant,Tantalus Labs,Tantalus Labs,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  
+Kalifornia,"39.95, 119.95","11.41 , $8.57 ","3.5, 14",Indica Dominant,Kolab Project,Kolab Project,Very Strong,23.00 - 28.00%  ,0.00 - 1.00%  
+White Widow,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Hybrid,7ACRES,7ACRES,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Jack Haze,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Sativa Dominant,7ACRES,7ACRES,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Sensi Star,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+DT81,"9.90, 32.95, 61.30","9.90 , $9.41 , $8.76 ","1, 3.5, 7",Sativa Dominant,Aphria,RIFF,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Raider Kush,"9.90, 32.95, 61.30","9.90 , $9.41 , $8.76 ","1, 3.5, 7",Indica Dominant,Aphria,RIFF,Very Strong,17.00 - 25.00%  ,0.00 - 0.99%  
+Social (Mango),29.95,8.56 ,3.5,Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Green Crush,29.95,8.56 ,3.5,Sativa Dominant,Delshen Therapeutics,48North,Very Strong,18.00 - 25.00%  ,0.00 - 1.00%  
+Grapefruit GG1,29.95,8.56 ,3.5,Hybrid,Emerald Health Therapeutics,Emerald,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Chemdog,29.95,8.56 ,3.5,Sativa Dominant,Emerald Health Therapeutics,Emerald,Very Strong,18.00 - 23.00%  ,0.00 - 1.00%  
+Blue Gorilla,29.95,8.56 ,3.5,Hybrid,Muskoka Grown Limited,Muskoka Grown,Strong,13.00 - 19.00%  ,0.00 - 1.00%  
+Pacific OG,29.95,8.56 ,3.5,Sativa Dominant,Tantalus Labs,Tantalus Labs,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  
+Kalifornia,"39.95, 119.95","11.41 , $8.57 ","3.5, 14",Indica Dominant,Kolab Project,Kolab Project,Very Strong,23.00 - 28.00%  ,0.00 - 1.00%  
+White Widow,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Hybrid,7ACRES,7ACRES,Very Strong,16.00 - 22.00%  ,0.00 - 1.00%  
+Jack Haze,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Sativa Dominant,7ACRES,7ACRES,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Sensi Star,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+DT81,"9.90, 32.95, 61.30","9.90 , $9.41 , $8.76 ","1, 3.5, 7",Sativa Dominant,Aphria,RIFF,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+Raider Kush,"9.90, 32.95, 61.30","9.90 , $9.41 , $8.76 ","1, 3.5, 7",Indica Dominant,Aphria,RIFF,Very Strong,17.00 - 25.00%  ,0.00 - 0.99%  
+Hawaii Heartbreak,"10.10, 33.45, 62.20","10.10 , $9.56 , $8.89 ","1, 3.5, 7",Indica Dominant,Aphria,RIFF,Very Strong,18.00 - 24.00%  ,0.00 - 0.99%  
+Muskmelon OG (Saturna),"48.00, 249.95","13.71 , $8.93 ","3.5, 28",Hybrid,Broken Coast Cannabis,Broken Coast,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Stargazer (Sonora),"48.00, 249.95","13.71 , $8.93 ","3.5, 28",Indica Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Dark Helmet,31.95,9.13 ,3.5,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.00 - 26.00%  ,0.00 - 1.00%  
+The Silverback #4,31.95,9.13 ,3.5,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.00 - 26.00%  ,0.00 - 1.00%  
+Dark Helmet,31.95,9.13 ,3.5,Indica Dominant,Trichome JWC Acquisition,JWC,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+BC Black Cherry,"39.95, 129.95","11.41 , $9.28 ","3.5, 14",Indica Dominant,The Flowr Group,Flowr,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  
+8 Ball Kush,"39.95, 129.95","11.41 , $9.28 ","3.5, 14",Indica Dominant,United Greeneries,18twelve,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  
+24k Gold,32.50,9.29 ,3.5,Indica Dominant,Zenabis,Namaste,Very Strong,18.00 - 24.00%  ,0.00 - 0.99%  
+Ultra Sour,"9.75, 32.50","9.75 , $9.29 ","1, 3.5",Sativa Dominant,Zenabis,Namaste,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Sunset,"10.50, 34.95, 65.00","10.50 , $9.99 , $9.29 ","1, 3.5, 7",Indica Dominant,Canopy Growth,LBS,Very Strong,20.00 - 26.00%  ,0.00 - 0.50%  
+Pink Vanilla OG,32.95,9.41 ,3.5,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 5.00%  
+Papaya,32.95,9.41 ,3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Gilded Grams,32.95,9.41 ,3.5,Sativa Dominant,Aphria,RIFF,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+Fruit Pie,32.95,9.41 ,3.5,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.00 - 24.00%  ,0.00 - 5.00%  
+Jean Guy,"32.95, 61.30","9.41 , $8.76 ","3.5, 7",Hybrid,7ACRES,7ACRES,Very Strong,15.00 - 20.00%  ,0.00 - 1.00%  
+Garlic Cookies,32.95,9.41 ,3.5,Indica Dominant,SESS Holdings,CALI,Very Strong,21.00 - 27.00%  ,0.00 - 2.00%  
+Wappa 49,32.95,9.41 ,3.5,Indica Dominant,7ACRES,7ACRES,Very Strong,18.00 - 24.00%  ,0.00 - 1.00%  
+RC Royal Goddess,32.95,9.41 ,3.5,Indica Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+RC Orange Hill Special,32.95,9.41 ,3.5,Sativa Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,14.00 - 20.00%  ,0.00 - 1.00%  
+Glueberry OG,32.95,9.41 ,3.5,Hybrid,Muskoka Grown Limited,Muskoka Grown,Very Strong,18.00 - 24.50%  ,0.00%  
+Grandpa's Stash,66.50,9.50 ,7,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+Raspberry Cough,33.95,9.70 ,3.5,Sativa Dominant,Canveda,Strain Rec,Strong,13.00 - 19.00%  ,0.00 - 1.00%  
+Where's My Bike,33.95,9.70 ,3.5,Hybrid,Delshen Therapeutics,48North,Very Strong,19.00 - 23.00%  ,0.00 - 2.00%  
+No. 428 Secret Address,33.95,9.70 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,22.00 - 27.00%  ,0.00 - 1.00%  
+Solar Power,"10.25, 34.10","10.25 , $9.74 ","1, 3.5",Hybrid,Emblem Cannabis,Symbl,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+No. 417 Indigo Daze,"10.25, 34.15","10.25 , $9.76 ","1, 3.5",Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,21.00 - 28.00%  ,0.00 - 0.50%  
+Sativa,"36.95, 68.75","10.56 , $9.82 ","3.5, 7",Sativa Dominant,Canopy Growth,Houseplant,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  
+Watermelon Zktlz,"36.95, 68.95","10.56 , $9.85 ","3.5, 7",Hybrid,Alberta Craft Cannabis,Tenzo,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Wedding Crasher,"36.95, 68.95","10.56 , $9.85 ","3.5, 7",Indica Dominant,Alberta Craft Cannabis,Tenzo,Very Strong,18.00 - 25.00%  ,0.00 - 2.00%  
+Amnesia x Super Haze,34.50,9.86 ,3.5,Sativa Dominant,Mera Cannabis,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Dartmouth Kush,34.95,9.99 ,3.5,Hybrid,Breathing Green Solutions,SKOSHA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Sour Kush,34.95,9.99 ,3.5,Indica Dominant,Canopy Growth,Doja,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Sour Kush,34.95,9.99 ,3.5,Hybrid,Emblem Cannabis,Nith & Grand,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Exotic Gas,34.95,9.99 ,3.5,Hybrid,Canadian Clinical Cannabinoids,The Loud Plug,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  
+MAC-1,34.95,9.99 ,3.5,Hybrid,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  
+No. 428 Secret Address,33.95,9.70 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,22.00 - 27.00%  ,0.00 - 1.00%  
+Solar Power,"10.25, 34.10","10.25 , $9.74 ","1, 3.5",Hybrid,Emblem Cannabis,Symbl,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+No. 417 Indigo Daze,"10.25, 34.15","10.25 , $9.76 ","1, 3.5",Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,21.00 - 28.00%  ,0.00 - 0.50%  
+Sativa,"36.95, 68.75","10.56 , $9.82 ","3.5, 7",Sativa Dominant,Canopy Growth,Houseplant,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  
+Watermelon Zktlz,"36.95, 68.95","10.56 , $9.85 ","3.5, 7",Hybrid,Alberta Craft Cannabis,Tenzo,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Wedding Crasher,"36.95, 68.95","10.56 , $9.85 ","3.5, 7",Indica Dominant,Alberta Craft Cannabis,Tenzo,Very Strong,18.00 - 25.00%  ,0.00 - 2.00%  
+Amnesia x Super Haze,34.50,9.86 ,3.5,Sativa Dominant,Mera Cannabis,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Dartmouth Kush,34.95,9.99 ,3.5,Hybrid,Breathing Green Solutions,SKOSHA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Sour Kush,34.95,9.99 ,3.5,Indica Dominant,Canopy Growth,Doja,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Sour Kush,34.95,9.99 ,3.5,Hybrid,Emblem Cannabis,Nith & Grand,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Exotic Gas,34.95,9.99 ,3.5,Hybrid,Canadian Clinical Cannabinoids,The Loud Plug,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  
+MAC-1,34.95,9.99 ,3.5,Hybrid,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  
+Gorilla Berry,34.95,9.99 ,3.5,Indica Dominant,GreenSeal Cannabis Company,GreenSeal,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  
+GSC Kush,34.95,9.99 ,3.5,Indica Dominant,Will Cannabis,Flint & Embers,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  
+TANGERINE COOKIES,34.95,9.99 ,3.5,Sativa Dominant,Galaxie Brands Corporation,WINK,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Nut Butter,34.95,9.99 ,3.5,Indica Dominant,BZAM Cannabis,BZAM,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+GMO Cookies,34.95,9.99 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  
+Mother of Berries,34.95,9.99 ,3.5,Indica Dominant,Safariflower,Greenman Acres,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+HPG13,34.95,9.99 ,3.5,Indica Dominant,Mernova Medicinal,Ritual Green,Very Strong,19.50 - 27.00%  ,0.00 - 1.00%  
+Doja C99,34.95,9.99 ,3.5,Sativa Dominant,Canopy Growth,DOJA,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Pyramid,34.95,9.99 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,20.00 - 24.00%  ,0.00 - 1.00%  
+Marley Gold,34.95,9.99 ,3.5,Sativa Dominant,High Park,Marley Natural,Very Strong,20.50 - 26.50%  ,0.00 - 1.00%  
+I.C.C.,34.95,9.99 ,3.5,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.00 - 26.00%  ,0.00 - 0.15%  
+Organic LA Confidential,34.95,9.99 ,3.5,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Organic Fire,34.95,9.99 ,3.5,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Organic Rockstar Tuna,34.95,9.99 ,3.5,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Rally (Island Sweet Skunk),34.95,9.99 ,3.5,Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,21.00 - 27.00%  ,0.00 - 2.00%  
+Marley Green,34.95,9.99 ,3.5,Sativa Dominant,High Park,MARLEY NATURAL,Very Strong,19.00 - 27.00%  ,0.00 - 1.00%  
+Sensi Star,34.95,9.99 ,3.5,Hybrid,ABcann Medicinals,Fireside,Very Strong,17.00 - 22.00%  ,0.00 - 1.00%  
+Blue Dream,34.95,9.99 ,3.5,Sativa Dominant,Canna Farms,Canna Farms,Very Strong,19.50 - 25.50%  ,0.00 - 1.00%  
+Tangerine Dream,34.95,9.99 ,3.5,Hybrid,Canna Farms,Canna Farms,Medium,10.00 - 16.00%  ,0.00 - 1.00%  
+Wappa,"10.50, 34.95","10.50 , $9.99 ","1, 3.5",Hybrid,ABcann Medicinals,Fireside,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+Garlic Z,35.75,10.21 ,3.5,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Reflect Reserve,"35.95, 66.90","10.27 , $9.56 ","3.5, 7",Hybrid,Peace Naturals Project,COVE,Very Strong,19.50 - 25.50%  ,0.00 - 1.00%  
+Rest Reserve,35.95,10.27 ,3.5,Indica Dominant,Peace Naturals Project,COVE,Very Strong,19.00 - 25.00%  ,0.00 - 1.00%  
+GSC Kush,34.95,9.99 ,3.5,Indica Dominant,Will Cannabis,Flint & Embers,Very Strong,22.00 - 28.00%  ,0.00 - 1.00%  
+Chocolate Fondue,"10.80, 35.95, 66.85","10.80 , $10.27 , $9.55 ","1, 3.5, 7",Sativa Dominant,Canopy Growth,DNA Genetics,Very Strong,18.00 - 24.00%  ,0.00 - 0.50%  
+Macslurry,36.95,10.56 ,3.5,Indica Dominant,BZAM Cannabis,Snackbar,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  
+Pink Cookies x Kush Mints,36.95,10.56 ,3.5,Indica Dominant,Galaxie Brands Corporation,Thumbs Up Brand,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+PURPLE PUG,36.95,10.56 ,3.5,Indica Dominant,Mediwanna,ELIOS RESERVE,Strong,14.00 - 17.00%  ,0.00 - 1.00%  
+Apex,36.95,10.56 ,3.5,Sativa Dominant,Atlanticann Medical,Msiku,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+Orangeade,36.95,10.56 ,3.5,Sativa Dominant,Alberta Craft Cannabis,TENZO,Very Strong,17.00 - 23.00%  ,0.00 - 1.00%  
+Stonewall,36.95,10.56 ,3.5,Sativa Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+No. 516 Sonic Express,36.95,10.56 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+No. 425 Midnight Jam,36.95,10.56 ,3.5,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.00 - 27.00%  ,0.00 - 1.00%  
+LA Kush Cake,36.95,10.56 ,3.5,Hybrid,Tantalus Labs,Tantalus Labs,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Sunset Sherbet,36.95,10.56 ,3.5,Indica Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.50 - 26.50%  ,0.00 - 1.00%  
+Peggy's Pride,36.95,10.56 ,3.5,Sativa Dominant,Atlanticann Medical,Msiku,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+Indica,"36.95, 68.75","10.56 , $9.82 ","3.5, 7",Indica Dominant,Canopy Growth,Houseplant,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  
+No. 515 Noisy Neighbour,36.95,10.56 ,3.5,Sativa Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.00 - 27.50%  ,0.00 - 1.00%  
+BC Pink Kush,"39.95, 73.95","11.41 , $10.56 ","3.5, 7",Indica Dominant,The Flowr Group,Flowr,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  
+Organic Sugar Bush,37.95,10.84 ,3.5,Sativa Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  
+French Macaron,38.50,11.00 ,3.5,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,15.00 - 24.00%  ,0.00 - 1.00%  
+Big Dip Indica - Limited Edition,39.95,11.41 ,3.5,Indica Dominant,Galaxie Brands Corporation,Cruuzy,Very Strong,20.00 - 26.00%  ,0.00 - 1.99%  
+Driftwood Diesel,39.95,11.41 ,3.5,Indica Dominant,Aurora Cannabis,San Rafael '71,Very Strong,21.00 - 27.00%  ,0.00 - 10.00%  
+Lemon Rocket,39.95,11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,20.00 - 26.00%  ,0.00 - 10.00%  
+Stonefruit Sunset,39.95,11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,19.00 - 25.00%  ,0.00 - 10.00%  
+Krypto Chronic #2,39.95,11.41 ,3.5,Hybrid,Sugarbud,Sugarbud,Very Strong,20.00 - 26.00%  ,0.00 - 5.00%  
+Mule Fuel,39.95,11.41 ,3.5,Hybrid,Sugarbud,Sugarbud,Very Strong,20.00 - 26.00%  ,0.00 - 5.00%  
+B Banner,39.95,11.41 ,3.5,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Sky Cuddler Double Kush,39.95,11.41 ,3.5,Indica Dominant,Aqualitas,Reef Organic,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Growers Stash #002 - Crystal Kush,39.95,11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,21.00 - 27.00%  ,0.00 - 10.00%  
+The Vision,39.95,11.41 ,3.5,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Mendo Breath,39.95,11.41 ,3.5,Sativa Dominant,Northern Green Canada,Coterie,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  
+Crescendo,39.95,11.41 ,3.5,Indica Dominant,Atlas Growers,Natural History,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  
+Zour Apples,39.95,11.41 ,3.5,Sativa Dominant,Atlas Growers,Natural History,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+PreNup,39.95,11.41 ,3.5,Sativa Dominant,Sugarbud,Sugarbud,Very Strong,18.00 - 24.00%  ,0.00 - 5.00%  
+Freshly Baked #76,39.95,11.41 ,3.5,Sativa Dominant,OGEN,OGEN,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Coastal Kush,39.95,11.41 ,3.5,Indica Dominant,Aqualitas,Reef Organic,Very Strong,21.50 - 27.50%  ,0.00 - 1.00%  
+Organnicraft Cherry Punch,39.95,11.41 ,3.5,Hybrid,Agro-Greens Natural Products,Organnicraft,Very Strong,22.00 - 27.00%  ,0.00 - 1.99%  
+Wedding Cake,39.95,11.41 ,3.5,Indica Dominant,Weed Me,Weed Me,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Ice Cream Cake,39.95,11.41 ,3.5,Indica Dominant,Weed Me,Weed Me,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  
+Sky Cuddler Double Kush,39.95,11.41 ,3.5,Indica Dominant,Aqualitas,Reef Organic,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Growers Stash #002 - Crystal Kush,39.95,11.41 ,3.5,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,21.00 - 27.00%  ,0.00 - 10.00%  
+The Vision,39.95,11.41 ,3.5,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Mendo Breath,39.95,11.41 ,3.5,Sativa Dominant,Northern Green Canada,Coterie,Very Strong,21.00 - 27.00%  ,0.00 - 1.00%  
+Crescendo,39.95,11.41 ,3.5,Indica Dominant,Atlas Growers,Natural History,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  
+Zour Apples,39.95,11.41 ,3.5,Sativa Dominant,Atlas Growers,Natural History,Very Strong,18.00 - 24.00%  ,0.00 - 2.00%  
+PreNup,39.95,11.41 ,3.5,Sativa Dominant,Sugarbud,Sugarbud,Very Strong,18.00 - 24.00%  ,0.00 - 5.00%  
+Freshly Baked #76,39.95,11.41 ,3.5,Sativa Dominant,OGEN,OGEN,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Coastal Kush,39.95,11.41 ,3.5,Indica Dominant,Aqualitas,Reef Organic,Very Strong,21.50 - 27.50%  ,0.00 - 1.00%  
+Organnicraft Cherry Punch,39.95,11.41 ,3.5,Hybrid,Agro-Greens Natural Products,Organnicraft,Very Strong,22.00 - 27.00%  ,0.00 - 1.99%  
+Wedding Cake,39.95,11.41 ,3.5,Indica Dominant,Weed Me,Weed Me,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Ice Cream Cake,39.95,11.41 ,3.5,Indica Dominant,Weed Me,Weed Me,Very Strong,20.00 - 25.00%  ,0.00 - 2.00%  
+Dank Rainbow,39.95,11.41 ,3.5,Indica Dominant,Boaz Pharmaceuticals,BOAZ,Very Strong,18.50 - 25.00%  ,0.00 - 1.00%  
+Mandarin Cookie,39.95,11.41 ,3.5,Sativa Dominant,Weed Me,Weed Me,Very Strong,21.00 - 26.00%  ,0.00 - 2.00%  
+Lemon Z,"39.95, 224.95","11.41 , $8.03 ","3.5, 28",Sativa Dominant,OGEN,OGEN,Very Strong,19.00 - 25.00%  ,0.00 - 2.00%  
+Early Glue RBx1 #15,"39.95, 224.95","11.41 , $8.03 ","3.5, 28",Indica Dominant,OGEN,OGEN,Very Strong,18.00 - 24.50%  ,0.00 - 2.00%  
+Mirage Plus,39.95,11.41 ,3.5,Indica Dominant,Breathing Green Solutions,SKOSHA,Very Strong,20.00 - 28.00%  ,0.00 - 1.00%  
+Nova Glue,39.95,11.41 ,3.5,Hybrid,Atlanticann Medical,Msiku,Very Strong,20.00 - 26.00%  ,0.00 - 1.00%  
+Gelatti,39.95,11.41 ,3.5,Indica Dominant,Atlanticann Medical,Msiku,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  
+Tangerine Dream,"12.00, 39.95, 74.30, 139.95","12.00 , $11.41 , $10.61 , $9.33 ","1, 3.5, 7, 15",Sativa Dominant,MedReleaf,San Rafael '71,Medium,11.00 - 15.00%  ,0.00 - 1.00%  
+Pink Kush,"12.00, 39.95, 74.30, 139.95","12.00 , $11.41 , $10.61 , $9.33 ","1, 3.5, 7, 15",Indica Dominant,MedReleaf,San Rafael '71,Very Strong,19.00 - 24.00%  ,0.00 - 1.00%  
+Delahaze,"12.00, 39.95, 74.30, 139.95","12.00 , $11.41 , $10.61 , $9.33 ","1, 3.5, 7, 15",Sativa Dominant,MedReleaf,San Rafael '71,Very Strong,20.00 - 25.00%  ,0.00 - 1.00%  
+Wedding Poop,41.95,11.99 ,3.5,Indica Dominant,Castle Rock Farms .,BC Green,Very Strong,20.00 - 26.00%  ,0.00 - 2.00%  
+Garlic Jelly,41.95,11.99 ,3.5,Indica Dominant,Weed Me,Weed Me Limited Batch,Very Strong,21.00 - 27.00%  ,0.00 - 2.00%  
