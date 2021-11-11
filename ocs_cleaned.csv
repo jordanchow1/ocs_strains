@@ -1,457 +1,457 @@
 name,type,producer,brand,potency,thc_min,thc_max,cbd_min,cbd_max,price,price_per_gram,grams
-THC Pre Milled Blend,Blend,AgMedica Bioscience,Five Founders,Very Strong,15.0,20.0,0.0,1.0,74.95,3.57,21
-All Purpose Flower Indica,Indica Dominant,Hexo Operations,Bake Sale,Strong,14.0,17.0,0.0,1.0,59.95,4.28,14
-All Purpose Flower Indica,Indica Dominant,Hexo Operations,Bake Sale,Strong,14.0,17.0,0.0,1.0,99.95,3.57,28
-All Purpose Flower Sativa,Sativa Dominant,Hexo Operations,Bake Sale,Strong,14.0,17.0,0.0,1.0,59.95,4.28,14
-All Purpose Flower Sativa,Sativa Dominant,Hexo Operations,Bake Sale,Strong,14.0,17.0,0.0,1.0,99.95,3.57,28
-Indica Blend,Indica Dominant,Natural MedCo,Eve & Co.,Strong,12.0,18.0,0.0,1.99,99.95,3.57,28
-Indica Bud,Indica Dominant,Canopy Growth,Simple Stash,Strong,12.0,18.0,0.0,0.5,21.95,4.39,5
-Indica Bud,Indica Dominant,Canopy Growth,Simple Stash,Strong,12.0,18.0,0.0,0.5,40.00,4.00,10
-Indica Bud,Indica Dominant,Canopy Growth,Simple Stash,Strong,12.0,18.0,0.0,0.5,99.95,3.57,28
-Sativa Bud,Sativa Dominant,Canopy Growth,Simple Stash,Strong,12.0,18.0,0.0,0.5,21.95,4.39,5
-Sativa Bud,Sativa Dominant,Canopy Growth,Simple Stash,Strong,12.0,18.0,0.0,0.5,40.00,4.00,10
-Sativa Bud,Sativa Dominant,Canopy Growth,Simple Stash,Strong,12.0,18.0,0.0,0.5,99.95,3.57,28
-Indica,Indica Dominant,Sundial Growers,Grasslands,Very Strong,14.0,20.5,0.0,1.0,36.95,5.28,7
-Indica,Indica Dominant,Sundial Growers,Grasslands,Very Strong,14.0,20.5,0.0,1.0,99.95,3.57,28
-Ready to Roll Milled Indica,Indica Dominant,Aphria,BINGO,Very Strong,14.0,20.0,0.0,1.99,54.95,3.66,15
-Ready to Roll Milled Sativa,Sativa Dominant,Aphria,BINGO,Very Strong,14.0,20.0,0.0,1.99,54.95,3.66,15
-Funk Master,Hybrid,Organigram,SHRED,Very Strong,18.0,24.0,0.0,0.15,28.50,4.07,7
-Gnarberry,Hybrid,Organigram,SHRED,Very Strong,17.0,23.0,0.0,1.0,28.50,4.07,7
-Tropic Thunder,Hybrid,Organigram,SHRED,Very Strong,18.0,24.2,0.0,1.0,28.50,4.07,7
-OS.HYBRID,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,14.0,20.0,0.0,1.0,19.95,5.70,3.5
-OS.HYBRID,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,14.0,20.0,0.0,1.0,65.45,4.67,14
-OS.HYBRID,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,14.0,20.0,0.0,1.0,114.95,4.11,28
-OS.SATIVA,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,16.0,20.0,0.0,1.0,19.95,5.70,3.5
-OS.SATIVA,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,16.0,20.0,0.0,1.0,65.45,4.67,14
-OS.SATIVA,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,16.0,20.0,0.0,1.0,114.95,4.11,28
-OS.INDICA,Indica Dominant,Hexo Operations,Original Stash,Very Strong,17.0,20.0,0.0,1.0,19.95,5.70,3.5
-OS.INDICA,Indica Dominant,Hexo Operations,Original Stash,Very Strong,17.0,20.0,0.0,1.0,65.45,4.67,14
-OS.INDICA,Indica Dominant,Hexo Operations,Original Stash,Very Strong,17.0,20.0,0.0,1.0,114.95,4.11,28
-Sativa!,Sativa Dominant,Aphria,BINGO,Strong,13.0,17.0,0.0,1.99,69.95,4.66,15
-Sativa!,Sativa Dominant,Aphria,BINGO,Strong,13.0,17.0,0.0,1.99,116.95,4.18,28
-Indica!,Indica Dominant,Aphria,BINGO,Strong,13.0,17.0,0.0,1.99,69.95,4.66,15
-Indica!,Indica Dominant,Aphria,BINGO,Strong,13.0,17.0,0.0,1.99,116.95,4.18,28
-Hybrid,Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,16.0,22.0,0.0,1.0,117.60,4.20,28
-Sativa,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,14.0,19.0,0.0,1.0,117.60,4.20,28
-Indica,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.0,23.0,0.0,1.0,117.60,4.20,28
-Mazar,Indica Dominant,Bonify Holdings,Bonify,Very Strong,14.0,20.0,0.0,0.3,14.95,4.27,3.5
-Lemon Zkttl,Sativa Dominant,Bonify Holdings,Bonify,Strong,12.0,18.0,0.0,0.3,14.95,4.27,3.5
-Unrolled Sativa,Sativa Dominant,Mera Cannabis,Hunny Pot,Very Strong,19.0,24.0,0.0,1.0,59.95,4.28,14
-Cactus Breath,Indica Dominant,Terrascend Canada,Legend,Very Strong,15.5,21.5,0.0,1.0,124.95,4.46,28
-Grower's Choice Sativa,Sativa Dominant,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,2.0,21.50,6.14,3.5
-Grower's Choice Sativa,Sativa Dominant,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,2.0,75.00,5.00,15
-Grower's Choice Sativa,Sativa Dominant,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,2.0,125.00,4.46,28
-Grower's Choice Indica,Indica Dominant,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,2.0,21.50,6.14,3.5
-Grower's Choice Indica,Indica Dominant,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,2.0,75.00,5.00,15
-Grower's Choice Indica,Indica Dominant,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,2.0,125.00,4.46,28
-Indica Bud,Indica Dominant,Canopy Growth,Twd.28,Very Strong,16.0,22.0,0.0,0.5,125.00,4.46,28
-Sativa Bud,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,16.0,22.0,0.0,0.5,125.00,4.46,28
-Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,21.95,6.27,3.5
-Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,40.80,5.83,7
-Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,75.00,5.00,15
-Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,125.00,4.46,28
-Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,21.95,6.27,3.5
-Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,40.80,5.83,7
-Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,75.00,5.00,15
-Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,19.0,24.0,0.0,1.0,125.00,4.46,28
-Sweet & Sour Sativa Ready-to-Roll,Blend,WeedMD,Saturday,Very Strong,18.0,24.0,0.0,2.0,32.95,4.71,7
-Bandwagon Blue Dream,Sativa Dominant,Rubicon Organics,Homestead,Very Strong,17.0,23.0,0.0,1.0,134.95,4.82,28
-Kandy Kush Grind,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,16.0,21.0,0.0,2.0,34.95,4.99,7
-Chocolate Mint OG Grind,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,18.0,24.0,0.0,2.0,34.95,4.99,7
-Sativa,Sativa Dominant,Canopy Growth,TWD.,Very Strong,16.0,22.0,0.0,0.5,21.50,6.14,3.5
-Sativa,Sativa Dominant,Canopy Growth,TWD.,Very Strong,16.0,22.0,0.0,0.5,40.00,5.71,7
-Sativa,Sativa Dominant,Canopy Growth,TWD.,Very Strong,16.0,22.0,0.0,0.5,75.00,5.00,15
-Indica,Indica Dominant,Canopy Growth,TWD.,Very Strong,16.0,22.0,0.0,0.5,21.50,6.14,3.5
-Indica,Indica Dominant,Canopy Growth,TWD.,Very Strong,16.0,22.0,0.0,0.5,40.00,5.71,7
-Indica,Indica Dominant,Canopy Growth,TWD.,Very Strong,16.0,22.0,0.0,0.5,75.00,5.00,15
-Wedding Pie,Indica Dominant,Kolab Project,Back Forty,Very Strong,21.0,27.0,0.0,0.0,139.95,5.00,28
-Animal Mints,Indica Dominant,Kolab Project,Back Forty,Very Strong,18.5,24.5,0.0,0.0,139.95,5.00,28
-Blue Dream Flower,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.0,21.0,0.0,0.5,139.95,5.00,28
-Apple Pie Flower,Sativa Dominant,Canopy Growth,Twd.28,Very Strong,15.0,21.0,0.0,0.5,139.95,5.00,28
-Lemon Z,Sativa Dominant,WeedMD,Saturday,Very Strong,16.0,22.0,0.0,1.0,139.95,5.00,28
-Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,25.0,0.0,1.0,22.95,6.56,3.5
-Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,25.0,0.0,1.0,42.70,6.10,7
-Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,25.0,0.0,1.0,77.10,5.51,14
-Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,25.0,0.0,1.0,139.95,5.00,28
-Ultra Sour,Sativa Dominant,Organigram,Big Bag O Buds,Very Strong,17.0,23.0,0.0,0.15,143.95,5.14,28
-Sour Diesel,Indica Dominant,Redecan,Redecan,Strong,13.0,18.0,0.0,1.0,144.95,5.18,28
-Lemon Haze,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,20.0,25.0,0.0,1.0,21.95,6.27,3.5
-Lemon Haze,Sativa Dominant,Aurora Cannabis,Daily Special,Very Strong,20.0,25.0,0.0,1.0,72.95,5.21,14
-MK Ultra,Indica Dominant,Aurora Cannabis,Daily Special,Very Strong,20.0,25.0,0.0,1.0,72.95,5.21,14
-Tangie Green,Hybrid,Aphria,Good Supply,Very Strong,17.0,23.0,0.0,2.0,23.95,6.84,3.5
-Tangie Green,Hybrid,Aphria,Good Supply,Very Strong,17.0,23.0,0.0,2.0,147.25,5.26,28
-Sour Kush,Hybrid,Aphria,Good Supply,Very Strong,17.0,23.0,0.0,2.0,23.95,6.84,3.5
-Sour Kush,Hybrid,Aphria,Good Supply,Very Strong,17.0,23.0,0.0,2.0,86.25,5.75,15
-Sour Kush,Hybrid,Aphria,Good Supply,Very Strong,17.0,23.0,0.0,2.0,147.25,5.26,28
-Starwalker Kush,Indica Dominant,Aphria,Good Supply,Very Strong,18.5,24.5,0.0,0.99,23.95,6.84,3.5
-Starwalker Kush,Indica Dominant,Aphria,Good Supply,Very Strong,18.5,24.5,0.0,0.99,86.25,5.75,15
-Starwalker Kush,Indica Dominant,Aphria,Good Supply,Very Strong,18.5,24.5,0.0,0.99,147.25,5.26,28
-Monkey Glue,Hybrid,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,1.0,23.95,6.84,3.5
-Monkey Glue,Hybrid,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,1.0,86.25,5.75,15
-Monkey Glue,Hybrid,Aphria,Good Supply,Very Strong,16.0,22.0,0.0,1.0,147.25,5.26,28
-Jean Guy,Sativa Dominant,Aphria,Good Supply,Very Strong,18.0,25.0,0.0,1.0,7.20,7.20,1
-Jean Guy,Sativa Dominant,Aphria,Good Supply,Very Strong,18.0,25.0,0.0,1.0,23.95,6.84,3.5
-Jean Guy,Sativa Dominant,Aphria,Good Supply,Very Strong,18.0,25.0,0.0,1.0,44.55,6.36,7
-Jean Guy,Sativa Dominant,Aphria,Good Supply,Very Strong,18.0,25.0,0.0,1.0,86.25,5.75,15
-Jean Guy,Sativa Dominant,Aphria,Good Supply,Very Strong,18.0,25.0,0.0,1.0,147.25,5.26,28
-AAA Hybrid,Hybrid,7ACRES,Hiway,Very Strong,14.0,20.5,0.0,1.0,74.95,5.35,14
-Cold Creek Kush,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.5,7.50,7.50,1
-Cold Creek Kush,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.5,23.65,6.76,3.5
-Cold Creek Kush,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.5,43.75,6.25,7
-Cold Creek Kush,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.5,84.95,5.66,15
-Cold Creek Kush,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.5,149.95,5.36,28
-OS.Reserve Hybrid,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.0,27.0,0.0,1.0,49.95,7.14,7
-OS.Reserve Hybrid,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.0,27.0,0.0,1.0,87.95,6.28,14
-OS.Reserve Hybrid,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.0,27.0,0.0,1.0,149.95,5.36,28
-OS.Reserve Sativa,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,20.0,27.0,0.0,1.0,49.95,7.14,7
-OS.Reserve Sativa,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,20.0,27.0,0.0,1.0,87.95,6.28,14
-OS.Reserve Sativa,Sativa Dominant,Hexo Operations,Original Stash,Very Strong,20.0,27.0,0.0,1.0,149.95,5.36,28
-Rotterdam Indica,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,16.0,22.0,0.0,2.0,29.95,8.56,3.5
-Rotterdam Indica,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,16.0,22.0,0.0,2.0,99.95,6.66,15
-Rotterdam Indica,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,16.0,22.0,0.0,2.0,149.95,5.36,28
-OS.Reserve Indica,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.0,26.0,0.0,1.0,49.95,7.14,7
-OS.Reserve Indica,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.0,26.0,0.0,1.0,87.95,6.28,14
-OS.Reserve Indica,Indica Dominant,Hexo Operations,Original Stash,Very Strong,20.0,26.0,0.0,1.0,149.95,5.36,28
-Afghan Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,22.0,0.0,0.5,22.95,6.56,3.5
-Afghan Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,22.0,0.0,0.5,42.70,6.10,7
-Afghan Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,22.0,0.0,0.5,77.10,5.51,14
-D. Bubba,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.0,23.0,0.0,1.0,22.95,6.56,3.5
-D. Bubba,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.0,23.0,0.0,1.0,42.70,6.10,7
-D. Bubba,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,17.0,23.0,0.0,1.0,77.10,5.51,14
-Polar Kish,Indica Dominant,Northern Green Canada,Northern Green Canada,Very Strong,14.0,20.0,0.0,1.0,19.75,5.64,3.5
-Black Cherry Punch,Indica Dominant,Redecan,Redecan,Very Strong,20.0,26.0,0.0,1.0,7.50,7.50,1
-Black Cherry Punch,Indica Dominant,Redecan,Redecan,Very Strong,20.0,26.0,0.0,1.0,23.65,6.76,3.5
-Black Cherry Punch,Indica Dominant,Redecan,Redecan,Very Strong,20.0,26.0,0.0,1.0,79.30,5.66,14
-Lilac Diesel,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.0,7.50,7.50,1
-Lilac Diesel,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.0,23.65,6.76,3.5
-Lilac Diesel,Sativa Dominant,Redecan,Redecan,Very Strong,17.0,23.0,0.0,1.0,79.30,5.66,14
-Outlaw,Sativa Dominant,Redecan,Redecan,Very Strong,18.0,24.0,0.0,0.1,7.50,7.50,1
-Outlaw,Sativa Dominant,Redecan,Redecan,Very Strong,18.0,24.0,0.0,0.1,23.65,6.76,3.5
-Outlaw,Sativa Dominant,Redecan,Redecan,Very Strong,18.0,24.0,0.0,0.1,43.75,6.25,7
-Outlaw,Sativa Dominant,Redecan,Redecan,Very Strong,18.0,24.0,0.0,0.1,84.95,5.66,15
-Wappa,Indica Dominant,Redecan,Redecan,Very Strong,19.0,25.0,0.0,0.1,7.50,7.50,1
-Wappa,Indica Dominant,Redecan,Redecan,Very Strong,19.0,25.0,0.0,0.1,23.65,6.76,3.5
-Wappa,Indica Dominant,Redecan,Redecan,Very Strong,19.0,25.0,0.0,0.1,43.75,6.25,7
-Wappa,Indica Dominant,Redecan,Redecan,Very Strong,19.0,25.0,0.0,0.1,84.95,5.66,15
-Tsunami,Indica Dominant,Hexo Operations,Hexo,Very Strong,20.0,26.0,0.0,1.0,28.95,8.27,3.5
-Tsunami,Indica Dominant,Hexo Operations,Hexo,Very Strong,20.0,26.0,0.0,1.0,169.95,5.67,30
-Flo,Hybrid,Emblem Cannabis,Divvy,Very Strong,20.0,26.0,0.0,1.0,19.95,5.70,3.5
-The Adventurer,Indica Dominant,Natural MedCo,Eve & Co.,Very Strong,16.0,20.0,0.0,1.0,19.95,5.70,3.5
-Ghost Train Haze,Sativa Dominant,Sensi Brands,Station House,Very Strong,18.0,22.0,0.01,0.2,79.95,5.71,14
-Blue Dream,Sativa Dominant,Sensi Brands,Station House,Very Strong,18.0,22.0,0.0,0.5,79.95,5.71,14
-OG Kush,Indica Dominant,Sensi Brands,Station House,Very Strong,18.0,22.0,0.0,0.2,79.95,5.71,14
-Muskoka Kush,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.0,24.0,0.0,1.0,79.95,5.71,14
-Subway Scientist,Indica Dominant,Aphria,RIFF,Very Strong,19.0,25.0,0.0,1.0,8.95,8.95,1
-Subway Scientist,Indica Dominant,Aphria,RIFF,Very Strong,19.0,25.0,0.0,1.0,29.95,8.56,3.5
-Subway Scientist,Indica Dominant,Aphria,RIFF,Very Strong,19.0,25.0,0.0,1.0,55.70,7.96,7
-Subway Scientist,Indica Dominant,Aphria,RIFF,Very Strong,19.0,25.0,0.0,1.0,159.95,5.71,28
-Hell Cat 33,Hybrid,Aphria,RIFF,Very Strong,18.0,24.0,0.0,2.0,32.95,9.41,3.5
-Hell Cat 33,Hybrid,Aphria,RIFF,Very Strong,18.0,24.0,0.0,2.0,159.95,5.71,28
-White Rhino,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,22.0,0.0,1.0,22.95,6.56,3.5
-White Rhino,Indica Dominant,Pure Sunfarms,Pure Sunfarms,Very Strong,18.0,22.0,0.0,1.0,42.70,6.10,7
-Island Honey,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.0,19.0,0.0,1.99,22.95,6.56,3.5
-Island Honey,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.0,19.0,0.0,1.99,42.70,6.10,7
-Balanced,Hybrid,Canopy Growth,TWD.,Medium,7.0,13.0,5.0,11.0,21.50,6.14,3.5
-Balanced,Hybrid,Canopy Growth,TWD.,Medium,7.0,13.0,5.0,11.0,40.00,5.71,7
-Grower's Choice Hybrid,Hybrid,Aphria,Good Supply,Very Strong,16.0,23.0,0.0,2.0,21.50,6.14,3.5
-Sky Pilot,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.0,24.0,0.0,1.0,29.95,8.56,3.5
-Sky Pilot,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.0,24.0,0.0,1.0,92.95,6.20,15
-Flicker Buds,Indica Dominant,Organigram,Trailblazer,Strong,15.0,19.0,0.0,1.0,21.95,6.27,3.5
-Flicker Buds,Indica Dominant,Organigram,Trailblazer,Strong,15.0,19.0,0.0,1.0,40.80,5.83,7
-Flicker Buds,Indica Dominant,Organigram,Trailblazer,Strong,15.0,19.0,0.0,1.0,74.95,5.00,15
-Spark Buds,Sativa Dominant,Organigram,Trailblazer,Strong,15.0,19.0,0.0,1.0,21.95,6.27,3.5
-Spark Buds,Sativa Dominant,Organigram,Trailblazer,Strong,15.0,19.0,0.0,1.0,40.80,5.83,7
-Spark Buds,Sativa Dominant,Organigram,Trailblazer,Strong,15.0,19.0,0.0,1.0,74.95,5.00,15
-Pedro's Sweet Sativa Ready To Roll,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,15.0,21.0,0.0,1.0,22.50,6.43,3.5
-Ghost Train Haze Ready To Roll,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,18.0,24.0,0.0,1.0,22.50,6.43,3.5
-Platinum Cookies,Sativa Dominant,Sundial Growers,Palmetto,Very Strong,20.0,26.0,1.0,1.0,22.95,6.56,3.5
-Blue Dream,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,Strong,16.0,19.0,0.0,1.0,22.95,6.56,3.5
-Pine Kush,Indica Dominant,Kolab Project,Back Forty,Very Strong,18.0,24.0,0.0,1.0,22.95,6.56,3.5
-Pine Kush,Indica Dominant,Kolab Project,Back Forty,Very Strong,18.0,24.0,0.0,1.0,124.95,4.46,28
-Headband,Sativa Dominant,Sundial Growers,Palmetto,Very Strong,17.0,22.0,0.0,1.0,22.95,6.56,3.5
-Nuken,Indica Dominant,Sundial Growers,Palmetto,Very Strong,17.0,22.0,0.0,1.0,22.95,6.56,3.5
-Headband,Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,17.0,23.0,0.0,1.99,22.95,6.56,3.5
-Headband,Hybrid,Pure Sunfarms,Pure Sunfarms,Very Strong,17.0,23.0,0.0,1.99,42.70,6.10,7
-Pure Sun CBD,Hybrid,Pure Sunfarms,Pure Sunfarms,Little to Minimal,0.0,1.0,14.0,20.0,22.95,6.56,3.5
-Pure Sun CBD,Hybrid,Pure Sunfarms,Pure Sunfarms,Little to Minimal,0.0,1.0,14.0,20.0,42.70,6.10,7
-Mango Haze,Sativa Dominant,WeedMD,Color Cannabis,Mild,4.0,10.0,6.0,12.0,27.50,7.86,3.5
-Mango Haze,Sativa Dominant,WeedMD,Color Cannabis,Mild,4.0,10.0,6.0,12.0,98.95,6.60,15
-Black Sugar Rose,Indica Dominant,WeedMD,Color Cannabis,Very Strong,18.0,24.0,0.0,1.0,27.50,7.86,3.5
-Black Sugar Rose,Indica Dominant,WeedMD,Color Cannabis,Very Strong,18.0,24.0,0.0,1.0,98.95,6.60,15
-Pedro's Sweet Sativa,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,16.0,22.0,0.0,1.0,27.50,7.86,3.5
-Pedro's Sweet Sativa,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,16.0,22.0,0.0,1.0,98.95,6.60,15
-Ghost Train Haze,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.0,23.0,0.0,1.0,27.50,7.86,3.5
-Ghost Train Haze,Sativa Dominant,WeedMD,Color Cannabis,Very Strong,17.0,23.0,0.0,1.0,98.95,6.60,15
-Sinaloa Gold,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,17.0,23.0,0.0,1.0,23.50,6.71,3.5
-White Out,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,Very Strong,16.0,23.0,0.0,1.0,23.50,6.71,3.5
-Orange Monkey,Indica Dominant,Canntrust,Liiv,Very Strong,19.0,25.0,0.0,10.0,23.95,6.84,3.5
-Indica,Indica Dominant,Aphria,Papa's Herb,Very Strong,17.0,23.0,0.0,1.0,23.95,6.84,3.5
-Sativa,Sativa Dominant,Aphria,Papa's Herb,Very Strong,18.0,24.0,0.0,1.0,23.95,6.84,3.5
-Bali Kush,Indica Dominant,Canntrust,liiv,Very Strong,16.0,22.0,0.0,2.0,23.95,6.84,3.5
-Royal Highness,Hybrid,Aphria,Good Supply,Very Strong,17.0,24.0,0.0,1.0,7.20,7.20,1
-Royal Highness,Hybrid,Aphria,Good Supply,Very Strong,17.0,24.0,0.0,1.0,23.95,6.84,3.5
-Royal Highness,Hybrid,Aphria,Good Supply,Very Strong,17.0,24.0,0.0,1.0,44.55,6.36,7
-Royal Highness,Hybrid,Aphria,Good Supply,Very Strong,17.0,24.0,0.0,1.0,86.25,5.75,15
-Royal Highness,Hybrid,Aphria,Good Supply,Very Strong,17.0,24.0,0.0,1.0,147.25,5.26,28
-Free,Sativa Dominant,Aphria,Solei,Little to Minimal,0.3,1.0,11.0,17.0,7.20,7.20,1
-Free,Sativa Dominant,Aphria,Solei,Little to Minimal,0.3,1.0,11.0,17.0,23.95,6.84,3.5
-Free,Sativa Dominant,Aphria,Solei,Little to Minimal,0.3,1.0,11.0,17.0,44.55,6.36,7
-Granddaddy Purple,Indica Dominant,Delshen Therapeutics,48North,Very Strong,17.0,23.2,0.0,1.0,24.50,7.00,3.5
-Sense,Hybrid,Aphria,Solei,Very Strong,17.0,23.0,0.0,1.0,8.50,8.50,1
-Sense,Hybrid,Aphria,Solei,Very Strong,17.0,23.0,0.0,1.0,26.50,7.57,3.5
-Sense,Hybrid,Aphria,Solei,Very Strong,17.0,23.0,0.0,1.0,49.30,7.04,7
-Unplug,Hybrid,Aphria,Solei,Very Strong,15.0,21.0,0.0,1.0,8.50,8.50,1
-Unplug,Hybrid,Aphria,Solei,Very Strong,15.0,21.0,0.0,1.0,26.50,7.57,3.5
-Unplug,Hybrid,Aphria,Solei,Very Strong,15.0,21.0,0.0,1.0,49.30,7.04,7
-Green Cush,Sativa Dominant,High Park,Canaca,Very Strong,20.0,26.0,0.0,0.1,26.50,7.57,3.5
-Green Cush,Sativa Dominant,High Park,Canaca,Very Strong,20.0,26.0,0.0,0.1,49.40,7.06,7
-Strawberry Ice,Sativa Dominant,Maricann Group,Northern Harvest,Very Strong,15.0,21.0,0.0,4.0,7.50,7.50,1
-Strawberry Ice,Sativa Dominant,Maricann Group,Northern Harvest,Very Strong,15.0,21.0,0.0,4.0,24.90,7.11,3.5
-Mango Haze,Sativa Dominant,Maricann Group,Kiwi Cannabis,Mild,4.0,10.0,6.0,13.0,7.50,7.50,1
-Mango Haze,Sativa Dominant,Maricann Group,Kiwi Cannabis,Mild,4.0,10.0,6.0,13.0,24.90,7.11,3.5
-Cali-O,Hybrid,Maricann Group,Kiwi Cannabis,Mild,5.0,9.0,6.0,12.0,7.50,7.50,1
-Cali-O,Hybrid,Maricann Group,Kiwi Cannabis,Mild,5.0,9.0,6.0,12.0,24.90,7.11,3.5
-HiFi 4G,Hybrid,AB Laboratories,Steel City Green,Very Strong,18.0,23.0,0.0,1.0,24.95,7.13,3.5
-HiFi 4G,Hybrid,AB Laboratories,Steel City Green,Very Strong,18.0,23.0,0.0,1.0,61.30,8.76,7
-Glueberry OG,Hybrid,AB Laboratories,Steel City Green,Very Strong,17.0,22.0,0.0,1.0,24.95,7.13,3.5
-Glueberry OG,Hybrid,AB Laboratories,Steel City Green,Very Strong,17.0,22.0,0.0,1.0,61.30,8.76,7
-Lemon Ziddy,Hybrid,AB Laboratories,Steel City Green,Very Strong,18.0,23.0,0.0,1.0,24.95,7.13,3.5
-Lemon Ziddy,Hybrid,AB Laboratories,Steel City Green,Very Strong,18.0,23.0,0.0,1.0,61.30,8.76,7
-Rockstar,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.0,24.0,0.0,5.0,99.95,7.14,14
-Hindu Kush,Indica Dominant,Canopy Growth,Tweed,Very Strong,18.0,24.0,0.0,0.5,8.10,8.10,1
-Hindu Kush,Indica Dominant,Canopy Growth,Tweed,Very Strong,18.0,24.0,0.0,0.5,26.95,7.70,3.5
-Hindu Kush,Indica Dominant,Canopy Growth,Tweed,Very Strong,18.0,24.0,0.0,0.5,50.10,7.16,7
-Afghan Kush,Indica Dominant,Canopy Growth,Tweed,Very Strong,19.0,25.0,0.0,0.5,8.10,8.10,1
-Afghan Kush,Indica Dominant,Canopy Growth,Tweed,Very Strong,19.0,25.0,0.0,0.5,26.95,7.70,3.5
-Afghan Kush,Indica Dominant,Canopy Growth,Tweed,Very Strong,19.0,25.0,0.0,0.5,50.10,7.16,7
-The Edge,Sativa Dominant,Muskoka Grown Limited,Muskoka Grown,Strong,13.0,19.0,0.0,0.0,25.95,7.41,3.5
-Cold Creek Kush,Indica Dominant,AgMedica Bioscience,Vertical,Very Strong,20.0,26.0,0.0,1.0,52.00,7.43,7
-Charlees,Indica Dominant,Redecan,Redecan,Very Strong,14.0,20.0,0.0,1.0,7.50,7.50,1
-Charlees,Indica Dominant,Redecan,Redecan,Very Strong,14.0,20.0,0.0,1.0,23.65,6.76,3.5
-Charlees,Indica Dominant,Redecan,Redecan,Very Strong,14.0,20.0,0.0,1.0,43.75,6.25,7
-Charlees,Indica Dominant,Redecan,Redecan,Very Strong,14.0,20.0,0.0,1.0,84.95,5.66,15
-Super Lemon Haze,Sativa Dominant,Aphria,Solei,Very Strong,18.0,24.0,0.0,2.0,26.50,7.57,3.5
-Chocolate Cheesecake,Hybrid,Aphria,Solei,Very Strong,19.0,25.0,0.0,2.0,26.50,7.57,3.5
-Purps,Hybrid,High Park,Canaca,Very Strong,20.0,26.0,0.0,1.0,26.50,7.57,3.5
-Mango,Indica Dominant,High Park,CANACA,Very Strong,20.0,26.0,0.0,1.0,26.50,7.57,3.5
-Mango,Indica Dominant,High Park,CANACA,Very Strong,20.0,26.0,0.0,1.0,49.30,7.04,7
-Blue Nova,Sativa Dominant,Sundial Growers,Sundial,Very Strong,20.0,26.0,0.0,1.0,26.50,7.57,3.5
-Wappa,Indica Dominant,Zenabis,Namaste,Very Strong,14.0,20.0,0.0,1.0,7.95,7.95,1
-Wappa,Indica Dominant,Zenabis,Namaste,Very Strong,14.0,20.0,0.0,1.0,26.50,7.57,3.5
-Alien Dawg,Indica Dominant,High Park,CANACA,Very Strong,19.0,25.0,0.0,1.0,26.50,7.57,3.5
-Balance,Hybrid,Aphria,Solei,Mild,4.0,11.0,8.5,15.5,8.50,8.50,1
-Balance,Hybrid,Aphria,Solei,Mild,4.0,11.0,8.5,15.5,26.50,7.57,3.5
-Balance,Hybrid,Aphria,Solei,Mild,4.0,11.0,8.5,15.5,24.98,3.57,7
-Blueberry,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.99,28.95,8.27,3.5
-Blueberry,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.99,53.85,7.69,7
-Rockstar Kush,Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,28.95,8.27,3.5
-Rockstar Kush,Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,53.85,7.69,7
-Diesel,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,28.95,8.27,3.5
-Diesel,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,53.85,7.69,7
-Sensi Star,Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,28.95,8.27,3.5
-Sensi Star,Indica Dominant,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,53.85,7.69,7
-UK Cheese,Hybrid,Canopy Growth,Tweed,Very Strong,20.0,26.0,0.0,0.5,8.10,8.10,1
-UK Cheese,Hybrid,Canopy Growth,Tweed,Very Strong,20.0,26.0,0.0,0.5,26.95,7.70,3.5
-Jelly Breath,Indica Dominant,Organigram,Indi Cannabis,Very Strong,17.0,23.0,0.0,0.15,26.95,7.70,3.5
-M’mosa,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,17.0,23.0,0.0,0.15,26.95,7.70,3.5
-Purple Aya,Sativa Dominant,SESS Holdings,SELESTE,Very Strong,18.0,26.0,0.0,1.1,26.95,7.70,3.5
-King Tut,Hybrid,SESS Holdings,SELESTE,Very Strong,18.0,24.0,0.0,1.1,26.95,7.70,3.5
-Go Elevate Kali Mist,Sativa Dominant,Canada's Island Garden,FIGR,Very Strong,20.0,26.0,0.0,0.2,26.95,7.70,3.5
-Go Play Mandarin Cookies,Sativa Dominant,Canada's Island Garden,FIGR,Very Strong,19.0,25.0,0.0,1.0,26.95,7.70,3.5
-Go Steady Black Cherry Punch,Indica Dominant,Canada's Island Garden,FIGR,Very Strong,20.0,26.0,0.0,0.2,26.95,7.70,3.5
-Slurricane,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,17.0,23.0,0.0,0.15,26.95,7.70,3.5
-Ghost Train Haze UP20,Sativa Dominant,Hexo Operations,UP,Very Strong,20.0,26.0,0.0,1.0,26.95,7.70,3.5
-Northern Berry UP20,Indica Dominant,Hexo Operations,UP,Very Strong,20.0,26.0,0.0,1.0,26.95,7.70,3.5
-Cold Creek Kush UP20,Indica Dominant,Hexo Operations,UP,Very Strong,20.0,27.0,0.0,1.0,26.95,7.70,3.5
-Green Cush,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.0,23.0,0.0,0.5,8.10,8.10,1
-Green Cush,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.0,23.0,0.0,0.5,26.95,7.70,3.5
-Green Cush,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.0,23.0,0.0,0.5,50.10,7.16,7
-Green Cush,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.0,23.0,0.0,0.5,97.00,6.47,15
-Skunk Haze,Hybrid,Canopy Growth,Tweed,Medium,6.0,12.0,5.0,11.0,8.10,8.10,1
-Skunk Haze,Hybrid,Canopy Growth,Tweed,Medium,6.0,12.0,5.0,11.0,26.95,7.70,3.5
-White Shark,Sativa Dominant,WeedMD,Color Cannabis,Strong,15.0,19.0,0.0,2.0,27.50,7.86,3.5
-Blueberry Seagal,Indica Dominant,WeedMD,Color Cannabis,Very Strong,14.0,20.0,0.0,1.0,27.50,7.86,3.5
-Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,1.0,10.50,10.50,1
-Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,1.0,34.95,9.99,3.5
-Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,1.0,65.00,9.29,7
-Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,1.0,111.95,8.00,14
-Black Cherry Punch,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,0.15,10.50,10.50,1
-Black Cherry Punch,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,0.15,34.95,9.99,3.5
-Black Cherry Punch,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,0.15,111.95,8.00,14
-C-LAND,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.0,23.0,0.0,0.5,8.10,8.10,1
-C-LAND,Sativa Dominant,Canopy Growth,Tweed,Very Strong,17.0,23.0,0.0,0.5,26.95,7.70,3.5
-Sage N Sour,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,Very Strong,21.0,27.0,0.0,1.0,35.45,10.13,3.5
-Sage N Sour,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,Very Strong,21.0,27.0,0.0,1.0,114.95,8.21,14
-Blue Dream,Sativa Dominant,Aurora Cannabis,Aurora,Very Strong,19.0,24.0,0.0,1.0,9.00,9.00,1
-Blue Dream,Sativa Dominant,Aurora Cannabis,Aurora,Very Strong,19.0,24.0,0.0,1.0,28.95,8.27,3.5
-Buns N Roses,Indica Dominant,BZAM Cannabis,SuperFlower,Very Strong,22.0,28.0,0.0,1.0,28.95,8.27,3.5
-Pink Krush,Indica Dominant,Pure Sunfarms,Favours,Very Strong,21.0,25.0,0.0,1.0,28.95,8.27,3.5
-Strawberry Cake,Indica Dominant,AgMedica Bioscience,Vertical Cannabis,Very Strong,20.0,26.0,0.0,1.0,28.95,8.27,3.5
-Wedding Cake,Hybrid,Peace Naturals Project,Spinach,Very Strong,20.0,29.7,0.0,1.0,28.95,8.27,3.5
-Slurri Crasher,Indica Dominant,Tantalus Labs,Tantalus Labs,Very Strong,18.0,22.0,0.0,1.0,28.95,8.27,3.5
-Blue Dream,Sativa Dominant,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,2.0,28.95,8.27,3.5
-Dancehall,Sativa Dominant,Peace Naturals Project,Spinach,Mild,4.0,10.0,6.0,12.0,28.95,8.27,3.5
-White Widow,Hybrid,Peace Naturals Project,Spinach,Very Strong,18.0,24.0,0.0,1.0,28.95,8.27,3.5
-French Macaron,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,21.0,27.0,0.0,1.99,57.95,8.28,7
-Amsterdam Sativa,Sativa Dominant,The Green Organic Dutchman,Highly Dutch Organic,Very Strong,19.0,26.0,0.0,2.0,29.95,8.56,3.5
-Chocolate Mint OG,Indica Dominant,AB Laboratories,Steel City Green,Very Strong,19.0,25.0,0.0,1.0,29.95,8.56,3.5
-Pink Grapefruit Haze,Sativa Dominant,Canntrust,Synr.g,Very Strong,16.0,22.0,0.0,2.0,29.95,8.56,3.5
-Social (Mango),Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,18.0,24.0,0.0,2.0,29.95,8.56,3.5
-Green Crush,Sativa Dominant,Delshen Therapeutics,48North,Very Strong,18.0,25.0,0.0,1.0,29.95,8.56,3.5
-Grapefruit GG1,Hybrid,Emerald Health Therapeutics,Emerald,Very Strong,17.0,23.0,0.0,1.0,29.95,8.56,3.5
-Chemdog,Sativa Dominant,Emerald Health Therapeutics,Emerald,Very Strong,18.0,23.0,0.0,1.0,29.95,8.56,3.5
-Blue Gorilla,Hybrid,Muskoka Grown Limited,Muskoka Grown,Strong,13.0,19.0,0.0,1.0,29.95,8.56,3.5
-Pacific OG,Sativa Dominant,Tantalus Labs,Tantalus Labs,Very Strong,22.0,28.0,0.0,1.0,29.95,8.56,3.5
-Kalifornia,Indica Dominant,Kolab Project,Kolab Project,Very Strong,23.0,28.0,0.0,1.0,39.95,11.41,3.5
-Kalifornia,Indica Dominant,Kolab Project,Kolab Project,Very Strong,23.0,28.0,0.0,1.0,119.95,8.57,14
-White Widow,Hybrid,7ACRES,7ACRES,Very Strong,16.0,22.0,0.0,1.0,32.95,9.41,3.5
-White Widow,Hybrid,7ACRES,7ACRES,Very Strong,16.0,22.0,0.0,1.0,61.30,8.76,7
-Jack Haze,Sativa Dominant,7ACRES,7ACRES,Very Strong,17.0,23.0,0.0,1.0,32.95,9.41,3.5
-Jack Haze,Sativa Dominant,7ACRES,7ACRES,Very Strong,17.0,23.0,0.0,1.0,61.30,8.76,7
-Sensi Star,Indica Dominant,7ACRES,7ACRES,Very Strong,19.0,25.0,0.0,2.0,32.95,9.41,3.5
-Sensi Star,Indica Dominant,7ACRES,7ACRES,Very Strong,19.0,25.0,0.0,2.0,61.30,8.76,7
-DT81,Sativa Dominant,Aphria,RIFF,Very Strong,18.0,24.0,0.0,1.0,9.90,9.90,1
-DT81,Sativa Dominant,Aphria,RIFF,Very Strong,18.0,24.0,0.0,1.0,32.95,9.41,3.5
-DT81,Sativa Dominant,Aphria,RIFF,Very Strong,18.0,24.0,0.0,1.0,61.30,8.76,7
-Raider Kush,Indica Dominant,Aphria,RIFF,Very Strong,17.0,25.0,0.0,0.99,9.90,9.90,1
-Raider Kush,Indica Dominant,Aphria,RIFF,Very Strong,17.0,25.0,0.0,0.99,32.95,9.41,3.5
-Raider Kush,Indica Dominant,Aphria,RIFF,Very Strong,17.0,25.0,0.0,0.99,61.30,8.76,7
-Hawaii Heartbreak,Indica Dominant,Aphria,RIFF,Very Strong,18.0,24.0,0.0,0.99,10.10,10.10,1
-Hawaii Heartbreak,Indica Dominant,Aphria,RIFF,Very Strong,18.0,24.0,0.0,0.99,33.45,9.56,3.5
-Hawaii Heartbreak,Indica Dominant,Aphria,RIFF,Very Strong,18.0,24.0,0.0,0.99,62.20,8.89,7
-Muskmelon OG (Saturna),Hybrid,Broken Coast Cannabis,Broken Coast,Very Strong,18.0,24.0,0.0,2.0,48.00,13.71,3.5
-Muskmelon OG (Saturna),Hybrid,Broken Coast Cannabis,Broken Coast,Very Strong,18.0,24.0,0.0,2.0,249.95,8.93,28
-Stargazer (Sonora),Indica Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,18.0,24.0,0.0,2.0,48.00,13.71,3.5
-Stargazer (Sonora),Indica Dominant,Broken Coast Cannabis,Broken Coast,Very Strong,18.0,24.0,0.0,2.0,249.95,8.93,28
-Dark Helmet,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.0,26.0,0.0,1.0,31.95,9.13,3.5
-The Silverback #4,Hybrid,Trichome JWC Acquisition,WAGNERS,Very Strong,21.0,26.0,0.0,1.0,31.95,9.13,3.5
-Dark Helmet,Indica Dominant,Trichome JWC Acquisition,JWC,Very Strong,19.0,24.0,0.0,1.0,31.95,9.13,3.5
-BC Black Cherry,Indica Dominant,The Flowr Group,Flowr,Very Strong,20.0,25.0,0.0,1.0,39.95,11.41,3.5
-BC Black Cherry,Indica Dominant,The Flowr Group,Flowr,Very Strong,20.0,25.0,0.0,1.0,129.95,9.28,14
-8 Ball Kush,Indica Dominant,United Greeneries,18twelve,Very Strong,21.0,27.0,0.0,1.0,39.95,11.41,3.5
-8 Ball Kush,Indica Dominant,United Greeneries,18twelve,Very Strong,21.0,27.0,0.0,1.0,129.95,9.28,14
-24k Gold,Indica Dominant,Zenabis,Namaste,Very Strong,18.0,24.0,0.0,0.99,32.50,9.29,3.5
-Ultra Sour,Sativa Dominant,Zenabis,Namaste,Very Strong,17.0,23.0,0.0,1.0,9.75,9.75,1
-Ultra Sour,Sativa Dominant,Zenabis,Namaste,Very Strong,17.0,23.0,0.0,1.0,32.50,9.29,3.5
-Sunset,Indica Dominant,Canopy Growth,LBS,Very Strong,20.0,26.0,0.0,0.5,10.50,10.50,1
-Sunset,Indica Dominant,Canopy Growth,LBS,Very Strong,20.0,26.0,0.0,0.5,34.95,9.99,3.5
-Sunset,Indica Dominant,Canopy Growth,LBS,Very Strong,20.0,26.0,0.0,0.5,65.00,9.29,7
-Pink Vanilla OG,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.0,24.0,0.0,5.0,32.95,9.41,3.5
-Papaya,Indica Dominant,7ACRES,7ACRES,Very Strong,19.0,25.0,0.0,1.0,32.95,9.41,3.5
-Gilded Grams,Sativa Dominant,Aphria,RIFF,Very Strong,19.0,25.0,0.0,2.0,32.95,9.41,3.5
-Fruit Pie,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,Very Strong,20.0,24.0,0.0,5.0,32.95,9.41,3.5
-Jean Guy,Hybrid,7ACRES,7ACRES,Very Strong,15.0,20.0,0.0,1.0,32.95,9.41,3.5
-Jean Guy,Hybrid,7ACRES,7ACRES,Very Strong,15.0,20.0,0.0,1.0,61.30,8.76,7
-Garlic Cookies,Indica Dominant,SESS Holdings,CALI,Very Strong,21.0,27.0,0.0,2.0,32.95,9.41,3.5
-Wappa 49,Indica Dominant,7ACRES,7ACRES,Very Strong,18.0,24.0,0.0,1.0,32.95,9.41,3.5
-RC Royal Goddess,Indica Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,17.0,23.0,0.0,1.0,32.95,9.41,3.5
-RC Orange Hill Special,Sativa Dominant,CannTx Life Sciences,Royal City Cannabis Co.,Very Strong,14.0,20.0,0.0,1.0,32.95,9.41,3.5
-Glueberry OG,Hybrid,Muskoka Grown Limited,Muskoka Grown,Very Strong,18.0,24.5,0.0,0.0,32.95,9.41,3.5
-Grandpa's Stash,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,Very Strong,18.0,24.0,0.0,2.0,66.50,9.50,7
-Raspberry Cough,Sativa Dominant,Canveda,Strain Rec,Strong,13.0,19.0,0.0,1.0,33.95,9.70,3.5
-Where's My Bike,Hybrid,Delshen Therapeutics,48North,Very Strong,19.0,23.0,0.0,2.0,33.95,9.70,3.5
-No. 428 Secret Address,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,22.0,27.0,0.0,1.0,33.95,9.70,3.5
-Solar Power,Hybrid,Emblem Cannabis,Symbl,Very Strong,19.0,25.0,0.0,1.0,10.25,10.25,1
-Solar Power,Hybrid,Emblem Cannabis,Symbl,Very Strong,19.0,25.0,0.0,1.0,34.10,9.74,3.5
-No. 417 Indigo Daze,Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,21.0,28.0,0.0,0.5,10.25,10.25,1
-No. 417 Indigo Daze,Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,21.0,28.0,0.0,0.5,34.15,9.76,3.5
-Sativa,Sativa Dominant,Canopy Growth,Houseplant,Very Strong,18.0,24.0,0.0,0.5,36.95,10.56,3.5
-Sativa,Sativa Dominant,Canopy Growth,Houseplant,Very Strong,18.0,24.0,0.0,0.5,68.75,9.82,7
-Watermelon Zktlz,Hybrid,Alberta Craft Cannabis,Tenzo,Very Strong,17.0,23.0,0.0,1.0,36.95,10.56,3.5
-Watermelon Zktlz,Hybrid,Alberta Craft Cannabis,Tenzo,Very Strong,17.0,23.0,0.0,1.0,68.95,9.85,7
-Wedding Crasher,Indica Dominant,Alberta Craft Cannabis,Tenzo,Very Strong,18.0,25.0,0.0,2.0,36.95,10.56,3.5
-Wedding Crasher,Indica Dominant,Alberta Craft Cannabis,Tenzo,Very Strong,18.0,25.0,0.0,2.0,68.95,9.85,7
-Amnesia x Super Haze,Sativa Dominant,Mera Cannabis,Thumbs Up Brand,Very Strong,20.0,26.0,0.0,1.0,34.50,9.86,3.5
-Dartmouth Kush,Hybrid,Breathing Green Solutions,SKOSHA,Very Strong,20.0,26.0,0.0,1.0,34.95,9.99,3.5
-Sour Kush,Indica Dominant,Canopy Growth,Doja,Very Strong,20.0,26.0,0.0,1.0,34.95,9.99,3.5
-Sour Kush,Hybrid,Emblem Cannabis,Nith & Grand,Very Strong,19.0,25.0,0.0,1.0,34.95,9.99,3.5
-Exotic Gas,Hybrid,Canadian Clinical Cannabinoids,The Loud Plug,Very Strong,20.0,28.0,0.0,1.0,34.95,9.99,3.5
-MAC-1,Hybrid,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,0.15,34.95,9.99,3.5
-Gorilla Berry,Indica Dominant,GreenSeal Cannabis Company,GreenSeal,Very Strong,22.0,28.0,0.0,1.0,34.95,9.99,3.5
-GSC Kush,Indica Dominant,Will Cannabis,Flint & Embers,Very Strong,22.0,28.0,0.0,1.0,34.95,9.99,3.5
-TANGERINE COOKIES,Sativa Dominant,Galaxie Brands Corporation,WINK,Very Strong,20.0,26.0,0.0,2.0,34.95,9.99,3.5
-Nut Butter,Indica Dominant,BZAM Cannabis,BZAM,Very Strong,20.0,26.0,0.0,1.0,34.95,9.99,3.5
-GMO Cookies,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,0.15,34.95,9.99,3.5
-Mother of Berries,Indica Dominant,Safariflower,Greenman Acres,Very Strong,18.0,24.0,0.0,2.0,34.95,9.99,3.5
-HPG13,Indica Dominant,Mernova Medicinal,Ritual Green,Very Strong,19.5,27.0,0.0,1.0,34.95,9.99,3.5
-Doja C99,Sativa Dominant,Canopy Growth,DOJA,Very Strong,20.0,26.0,0.0,1.0,34.95,9.99,3.5
-Pyramid,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,20.0,24.0,0.0,1.0,34.95,9.99,3.5
-Marley Gold,Sativa Dominant,High Park,Marley Natural,Very Strong,20.5,26.5,0.0,1.0,34.95,9.99,3.5
-I.C.C.,Indica Dominant,Organigram,Edison Cannabis Co,Very Strong,20.0,26.0,0.0,0.15,34.95,9.99,3.5
-Organic LA Confidential,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.0,26.0,0.0,2.0,34.95,9.99,3.5
-Organic Fire,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.0,26.0,0.0,2.0,34.95,9.99,3.5
-Organic Rockstar Tuna,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.0,26.0,0.0,2.0,34.95,9.99,3.5
-Rally (Island Sweet Skunk),Sativa Dominant,Fleurish Cannabis,Fleurish,Very Strong,21.0,27.0,0.0,2.0,34.95,9.99,3.5
-Marley Green,Sativa Dominant,High Park,MARLEY NATURAL,Very Strong,19.0,27.0,0.0,1.0,34.95,9.99,3.5
-Sensi Star,Hybrid,ABcann Medicinals,Fireside,Very Strong,17.0,22.0,0.0,1.0,34.95,9.99,3.5
-Blue Dream,Sativa Dominant,Canna Farms,Canna Farms,Very Strong,19.5,25.5,0.0,1.0,34.95,9.99,3.5
-Tangerine Dream,Hybrid,Canna Farms,Canna Farms,Medium,10.0,16.0,0.0,1.0,34.95,9.99,3.5
-Wappa,Hybrid,ABcann Medicinals,Fireside,Very Strong,19.0,25.0,0.0,1.0,10.50,10.50,1
-Wappa,Hybrid,ABcann Medicinals,Fireside,Very Strong,19.0,25.0,0.0,1.0,34.95,9.99,3.5
-Garlic Z,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,Very Strong,20.0,26.0,0.0,2.0,35.75,10.21,3.5
-Reflect Reserve,Hybrid,Peace Naturals Project,COVE,Very Strong,19.5,25.5,0.0,1.0,35.95,10.27,3.5
-Reflect Reserve,Hybrid,Peace Naturals Project,COVE,Very Strong,19.5,25.5,0.0,1.0,66.90,9.56,7
-Rest Reserve,Indica Dominant,Peace Naturals Project,COVE,Very Strong,19.0,25.0,0.0,1.0,35.95,10.27,3.5
-Chocolate Fondue,Sativa Dominant,Canopy Growth,DNA Genetics,Very Strong,18.0,24.0,0.0,0.5,10.80,10.80,1
-Chocolate Fondue,Sativa Dominant,Canopy Growth,DNA Genetics,Very Strong,18.0,24.0,0.0,0.5,35.95,10.27,3.5
-Chocolate Fondue,Sativa Dominant,Canopy Growth,DNA Genetics,Very Strong,18.0,24.0,0.0,0.5,66.85,9.55,7
-Macslurry,Indica Dominant,BZAM Cannabis,Snackbar,Very Strong,21.0,27.0,0.0,1.0,36.95,10.56,3.5
-Pink Cookies x Kush Mints,Indica Dominant,Galaxie Brands Corporation,Thumbs Up Brand,Very Strong,20.0,26.0,0.0,2.0,36.95,10.56,3.5
-PURPLE PUG,Indica Dominant,Mediwanna,ELIOS RESERVE,Strong,14.0,17.0,0.0,1.0,36.95,10.56,3.5
-Apex,Sativa Dominant,Atlanticann Medical,Msiku,Very Strong,19.0,25.0,0.0,2.0,36.95,10.56,3.5
-Orangeade,Sativa Dominant,Alberta Craft Cannabis,TENZO,Very Strong,17.0,23.0,0.0,1.0,36.95,10.56,3.5
-Stonewall,Sativa Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.0,26.0,0.0,1.0,36.95,10.56,3.5
-No. 516 Sonic Express,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.0,26.0,0.0,1.0,36.95,10.56,3.5
-No. 425 Midnight Jam,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.0,27.0,0.0,1.0,36.95,10.56,3.5
-LA Kush Cake,Hybrid,Tantalus Labs,Tantalus Labs,Very Strong,20.0,26.0,0.0,1.0,36.95,10.56,3.5
-Sunset Sherbet,Indica Dominant,Experion Biotechnologies,Citizen Stash,Very Strong,20.5,26.5,0.0,1.0,36.95,10.56,3.5
-Peggy's Pride,Sativa Dominant,Atlanticann Medical,Msiku,Very Strong,19.0,24.0,0.0,1.0,36.95,10.56,3.5
-Indica,Indica Dominant,Canopy Growth,Houseplant,Very Strong,20.0,28.0,0.0,1.0,36.95,10.56,3.5
-Indica,Indica Dominant,Canopy Growth,Houseplant,Very Strong,20.0,28.0,0.0,1.0,68.75,9.82,7
-No. 515 Noisy Neighbour,Sativa Dominant,Terrascend Canada,Haven St. Premium Cannabis,Very Strong,20.0,27.5,0.0,1.0,36.95,10.56,3.5
-BC Pink Kush,Indica Dominant,The Flowr Group,Flowr,Very Strong,20.0,25.0,0.0,1.0,39.95,11.41,3.5
-BC Pink Kush,Indica Dominant,The Flowr Group,Flowr,Very Strong,20.0,25.0,0.0,1.0,73.95,10.56,7
-Organic Sugar Bush,Sativa Dominant,The Green Organic Dutchman,The Green Organic Dutchman,Very Strong,20.0,25.0,0.0,2.0,37.95,10.84,3.5
-French Macaron,Indica Dominant,JC Green Cannabis,Jonny Chronic,Very Strong,15.0,24.0,0.0,1.0,38.50,11.00,3.5
-Big Dip Indica - Limited Edition,Indica Dominant,Galaxie Brands Corporation,Cruuzy,Very Strong,20.0,26.0,0.0,1.99,39.95,11.41,3.5
-Driftwood Diesel,Indica Dominant,Aurora Cannabis,San Rafael '71,Very Strong,21.0,27.0,0.0,10.0,39.95,11.41,3.5
-Lemon Rocket,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,20.0,26.0,0.0,10.0,39.95,11.41,3.5
-Stonefruit Sunset,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,19.0,25.0,0.0,10.0,39.95,11.41,3.5
-Krypto Chronic #2,Hybrid,Sugarbud,Sugarbud,Very Strong,20.0,26.0,0.0,5.0,39.95,11.41,3.5
-Mule Fuel,Hybrid,Sugarbud,Sugarbud,Very Strong,20.0,26.0,0.0,5.0,39.95,11.41,3.5
-B Banner,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.0,26.0,0.0,1.0,39.95,11.41,3.5
-Sky Cuddler Double Kush,Indica Dominant,Aqualitas,Reef Organic,Very Strong,20.0,26.0,0.0,1.0,39.95,11.41,3.5
-Growers Stash #002 - Crystal Kush,Hybrid,Aurora Cannabis,San Rafael '71,Very Strong,21.0,27.0,0.0,10.0,39.95,11.41,3.5
-The Vision,Hybrid,Bold Growth,BOLD Growth,Very Strong,20.0,26.0,0.0,1.0,39.95,11.41,3.5
-Mendo Breath,Sativa Dominant,Northern Green Canada,Coterie,Very Strong,21.0,27.0,0.0,1.0,39.95,11.41,3.5
-Crescendo,Indica Dominant,Atlas Growers,Natural History,Very Strong,20.0,25.0,0.0,2.0,39.95,11.41,3.5
-Zour Apples,Sativa Dominant,Atlas Growers,Natural History,Very Strong,18.0,24.0,0.0,2.0,39.95,11.41,3.5
-PreNup,Sativa Dominant,Sugarbud,Sugarbud,Very Strong,18.0,24.0,0.0,5.0,39.95,11.41,3.5
-Freshly Baked #76,Sativa Dominant,OGEN,OGEN,Very Strong,20.0,26.0,0.0,1.0,39.95,11.41,3.5
-Coastal Kush,Indica Dominant,Aqualitas,Reef Organic,Very Strong,21.5,27.5,0.0,1.0,39.95,11.41,3.5
-Organnicraft Cherry Punch,Hybrid,Agro-Greens Natural Products,Organnicraft,Very Strong,22.0,27.0,0.0,1.99,39.95,11.41,3.5
-Wedding Cake,Indica Dominant,Weed Me,Weed Me,Very Strong,20.0,26.0,0.0,2.0,39.95,11.41,3.5
-Ice Cream Cake,Indica Dominant,Weed Me,Weed Me,Very Strong,20.0,25.0,0.0,2.0,39.95,11.41,3.5
-Dank Rainbow,Indica Dominant,Boaz Pharmaceuticals,BOAZ,Very Strong,18.5,25.0,0.0,1.0,39.95,11.41,3.5
-Mandarin Cookie,Sativa Dominant,Weed Me,Weed Me,Very Strong,21.0,26.0,0.0,2.0,39.95,11.41,3.5
-Lemon Z,Sativa Dominant,OGEN,OGEN,Very Strong,19.0,25.0,0.0,2.0,39.95,11.41,3.5
-Lemon Z,Sativa Dominant,OGEN,OGEN,Very Strong,19.0,25.0,0.0,2.0,224.95,8.03,28
-Early Glue RBx1 #15,Indica Dominant,OGEN,OGEN,Very Strong,18.0,24.5,0.0,2.0,39.95,11.41,3.5
-Early Glue RBx1 #15,Indica Dominant,OGEN,OGEN,Very Strong,18.0,24.5,0.0,2.0,224.95,8.03,28
-Mirage Plus,Indica Dominant,Breathing Green Solutions,SKOSHA,Very Strong,20.0,28.0,0.0,1.0,39.95,11.41,3.5
-Nova Glue,Hybrid,Atlanticann Medical,Msiku,Very Strong,20.0,26.0,0.0,1.0,39.95,11.41,3.5
-Gelatti,Indica Dominant,Atlanticann Medical,Msiku,Very Strong,20.0,25.0,0.0,1.0,39.95,11.41,3.5
-Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,Medium,11.0,15.0,0.0,1.0,12.00,12.00,1
-Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,Medium,11.0,15.0,0.0,1.0,39.95,11.41,3.5
-Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,Medium,11.0,15.0,0.0,1.0,74.30,10.61,7
-Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,Medium,11.0,15.0,0.0,1.0,139.95,9.33,15
-Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,Very Strong,19.0,24.0,0.0,1.0,12.00,12.00,1
-Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,Very Strong,19.0,24.0,0.0,1.0,39.95,11.41,3.5
-Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,Very Strong,19.0,24.0,0.0,1.0,74.30,10.61,7
-Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,Very Strong,19.0,24.0,0.0,1.0,139.95,9.33,15
-Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,Very Strong,20.0,25.0,0.0,1.0,12.00,12.00,1
-Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,Very Strong,20.0,25.0,0.0,1.0,39.95,11.41,3.5
-Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,Very Strong,20.0,25.0,0.0,1.0,74.30,10.61,7
-Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,Very Strong,20.0,25.0,0.0,1.0,139.95,9.33,15
-Wedding Poop,Indica Dominant,Castle Rock Farms .,BC Green,Very Strong,20.0,26.0,0.0,2.0,41.95,11.99,3.5
-Garlic Jelly,Indica Dominant,Weed Me,Weed Me Limited Batch,Very Strong,21.0,27.0,0.0,2.0,41.95,11.99,3.5
+THC Pre Milled Blend,Blend,AgMedica Bioscience,Five Founders,5,15.0,20.0,0.0,1.0,74.95,3.57,21
+All Purpose Flower Indica,Indica Dominant,Hexo Operations,Bake Sale,4,14.0,17.0,0.0,1.0,59.95,4.28,14
+All Purpose Flower Indica,Indica Dominant,Hexo Operations,Bake Sale,4,14.0,17.0,0.0,1.0,99.95,3.57,28
+All Purpose Flower Sativa,Sativa Dominant,Hexo Operations,Bake Sale,4,14.0,17.0,0.0,1.0,59.95,4.28,14
+All Purpose Flower Sativa,Sativa Dominant,Hexo Operations,Bake Sale,4,14.0,17.0,0.0,1.0,99.95,3.57,28
+Indica Blend,Indica Dominant,Natural MedCo,Eve & Co.,4,12.0,18.0,0.0,1.99,99.95,3.57,28
+Indica Bud,Indica Dominant,Canopy Growth,Simple Stash,4,12.0,18.0,0.0,0.5,21.95,4.39,5
+Indica Bud,Indica Dominant,Canopy Growth,Simple Stash,4,12.0,18.0,0.0,0.5,40.00,4.00,10
+Indica Bud,Indica Dominant,Canopy Growth,Simple Stash,4,12.0,18.0,0.0,0.5,99.95,3.57,28
+Sativa Bud,Sativa Dominant,Canopy Growth,Simple Stash,4,12.0,18.0,0.0,0.5,21.95,4.39,5
+Sativa Bud,Sativa Dominant,Canopy Growth,Simple Stash,4,12.0,18.0,0.0,0.5,40.00,4.00,10
+Sativa Bud,Sativa Dominant,Canopy Growth,Simple Stash,4,12.0,18.0,0.0,0.5,99.95,3.57,28
+Indica,Indica Dominant,Sundial Growers,Grasslands,5,14.0,20.5,0.0,1.0,36.95,5.28,7
+Indica,Indica Dominant,Sundial Growers,Grasslands,5,14.0,20.5,0.0,1.0,99.95,3.57,28
+Ready to Roll Milled Indica,Indica Dominant,Aphria,BINGO,5,14.0,20.0,0.0,1.99,54.95,3.66,15
+Ready to Roll Milled Sativa,Sativa Dominant,Aphria,BINGO,5,14.0,20.0,0.0,1.99,54.95,3.66,15
+Funk Master,Hybrid,Organigram,SHRED,5,18.0,24.0,0.0,0.15,28.50,4.07,7
+Gnarberry,Hybrid,Organigram,SHRED,5,17.0,23.0,0.0,1.0,28.50,4.07,7
+Tropic Thunder,Hybrid,Organigram,SHRED,5,18.0,24.2,0.0,1.0,28.50,4.07,7
+OS.HYBRID,Sativa Dominant,Hexo Operations,Original Stash,5,14.0,20.0,0.0,1.0,19.95,5.70,3.5
+OS.HYBRID,Sativa Dominant,Hexo Operations,Original Stash,5,14.0,20.0,0.0,1.0,65.45,4.67,14
+OS.HYBRID,Sativa Dominant,Hexo Operations,Original Stash,5,14.0,20.0,0.0,1.0,114.95,4.11,28
+OS.SATIVA,Sativa Dominant,Hexo Operations,Original Stash,5,16.0,20.0,0.0,1.0,19.95,5.70,3.5
+OS.SATIVA,Sativa Dominant,Hexo Operations,Original Stash,5,16.0,20.0,0.0,1.0,65.45,4.67,14
+OS.SATIVA,Sativa Dominant,Hexo Operations,Original Stash,5,16.0,20.0,0.0,1.0,114.95,4.11,28
+OS.INDICA,Indica Dominant,Hexo Operations,Original Stash,5,17.0,20.0,0.0,1.0,19.95,5.70,3.5
+OS.INDICA,Indica Dominant,Hexo Operations,Original Stash,5,17.0,20.0,0.0,1.0,65.45,4.67,14
+OS.INDICA,Indica Dominant,Hexo Operations,Original Stash,5,17.0,20.0,0.0,1.0,114.95,4.11,28
+Sativa!,Sativa Dominant,Aphria,BINGO,4,13.0,17.0,0.0,1.99,69.95,4.66,15
+Sativa!,Sativa Dominant,Aphria,BINGO,4,13.0,17.0,0.0,1.99,116.95,4.18,28
+Indica!,Indica Dominant,Aphria,BINGO,4,13.0,17.0,0.0,1.99,69.95,4.66,15
+Indica!,Indica Dominant,Aphria,BINGO,4,13.0,17.0,0.0,1.99,116.95,4.18,28
+Hybrid,Hybrid,Pure Sunfarms,Pure Sunfarms,5,16.0,22.0,0.0,1.0,117.60,4.20,28
+Sativa,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,4,14.0,19.0,0.0,1.0,117.60,4.20,28
+Indica,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,17.0,23.0,0.0,1.0,117.60,4.20,28
+Mazar,Indica Dominant,Bonify Holdings,Bonify,5,14.0,20.0,0.0,0.3,14.95,4.27,3.5
+Lemon Zkttl,Sativa Dominant,Bonify Holdings,Bonify,4,12.0,18.0,0.0,0.3,14.95,4.27,3.5
+Unrolled Sativa,Sativa Dominant,Mera Cannabis,Hunny Pot,5,19.0,24.0,0.0,1.0,59.95,4.28,14
+Cactus Breath,Indica Dominant,Terrascend Canada,Legend,5,15.5,21.5,0.0,1.0,124.95,4.46,28
+Grower's Choice Sativa,Sativa Dominant,Aphria,Good Supply,5,16.0,22.0,0.0,2.0,21.50,6.14,3.5
+Grower's Choice Sativa,Sativa Dominant,Aphria,Good Supply,5,16.0,22.0,0.0,2.0,75.00,5.00,15
+Grower's Choice Sativa,Sativa Dominant,Aphria,Good Supply,5,16.0,22.0,0.0,2.0,125.00,4.46,28
+Grower's Choice Indica,Indica Dominant,Aphria,Good Supply,5,16.0,22.0,0.0,2.0,21.50,6.14,3.5
+Grower's Choice Indica,Indica Dominant,Aphria,Good Supply,5,16.0,22.0,0.0,2.0,75.00,5.00,15
+Grower's Choice Indica,Indica Dominant,Aphria,Good Supply,5,16.0,22.0,0.0,2.0,125.00,4.46,28
+Indica Bud,Indica Dominant,Canopy Growth,Twd.28,5,16.0,22.0,0.0,0.5,125.00,4.46,28
+Sativa Bud,Sativa Dominant,Canopy Growth,Twd.28,5,16.0,22.0,0.0,0.5,125.00,4.46,28
+Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,21.95,6.27,3.5
+Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,40.80,5.83,7
+Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,75.00,5.00,15
+Daily Special Sativa,Sativa Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,125.00,4.46,28
+Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,21.95,6.27,3.5
+Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,40.80,5.83,7
+Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,75.00,5.00,15
+Daily Special Indica,Indica Dominant,Aurora Cannabis,Daily Special,5,19.0,24.0,0.0,1.0,125.00,4.46,28
+Sweet & Sour Sativa Ready-to-Roll,Blend,WeedMD,Saturday,5,18.0,24.0,0.0,2.0,32.95,4.71,7
+Bandwagon Blue Dream,Sativa Dominant,Rubicon Organics,Homestead,5,17.0,23.0,0.0,1.0,134.95,4.82,28
+Kandy Kush Grind,Indica Dominant,AB Laboratories,Steel City Green,5,16.0,21.0,0.0,2.0,34.95,4.99,7
+Chocolate Mint OG Grind,Indica Dominant,AB Laboratories,Steel City Green,5,18.0,24.0,0.0,2.0,34.95,4.99,7
+Sativa,Sativa Dominant,Canopy Growth,TWD.,5,16.0,22.0,0.0,0.5,21.50,6.14,3.5
+Sativa,Sativa Dominant,Canopy Growth,TWD.,5,16.0,22.0,0.0,0.5,40.00,5.71,7
+Sativa,Sativa Dominant,Canopy Growth,TWD.,5,16.0,22.0,0.0,0.5,75.00,5.00,15
+Indica,Indica Dominant,Canopy Growth,TWD.,5,16.0,22.0,0.0,0.5,21.50,6.14,3.5
+Indica,Indica Dominant,Canopy Growth,TWD.,5,16.0,22.0,0.0,0.5,40.00,5.71,7
+Indica,Indica Dominant,Canopy Growth,TWD.,5,16.0,22.0,0.0,0.5,75.00,5.00,15
+Wedding Pie,Indica Dominant,Kolab Project,Back Forty,5,21.0,27.0,0.0,0.0,139.95,5.00,28
+Animal Mints,Indica Dominant,Kolab Project,Back Forty,5,18.5,24.5,0.0,0.0,139.95,5.00,28
+Blue Dream Flower,Sativa Dominant,Canopy Growth,Twd.28,5,15.0,21.0,0.0,0.5,139.95,5.00,28
+Apple Pie Flower,Sativa Dominant,Canopy Growth,Twd.28,5,15.0,21.0,0.0,0.5,139.95,5.00,28
+Lemon Z,Sativa Dominant,WeedMD,Saturday,5,16.0,22.0,0.0,1.0,139.95,5.00,28
+Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,25.0,0.0,1.0,22.95,6.56,3.5
+Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,25.0,0.0,1.0,42.70,6.10,7
+Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,25.0,0.0,1.0,77.10,5.51,14
+Pink Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,25.0,0.0,1.0,139.95,5.00,28
+Ultra Sour,Sativa Dominant,Organigram,Big Bag O Buds,5,17.0,23.0,0.0,0.15,143.95,5.14,28
+Sour Diesel,Indica Dominant,Redecan,Redecan,4,13.0,18.0,0.0,1.0,144.95,5.18,28
+Lemon Haze,Sativa Dominant,Aurora Cannabis,Daily Special,5,20.0,25.0,0.0,1.0,21.95,6.27,3.5
+Lemon Haze,Sativa Dominant,Aurora Cannabis,Daily Special,5,20.0,25.0,0.0,1.0,72.95,5.21,14
+MK Ultra,Indica Dominant,Aurora Cannabis,Daily Special,5,20.0,25.0,0.0,1.0,72.95,5.21,14
+Tangie Green,Hybrid,Aphria,Good Supply,5,17.0,23.0,0.0,2.0,23.95,6.84,3.5
+Tangie Green,Hybrid,Aphria,Good Supply,5,17.0,23.0,0.0,2.0,147.25,5.26,28
+Sour Kush,Hybrid,Aphria,Good Supply,5,17.0,23.0,0.0,2.0,23.95,6.84,3.5
+Sour Kush,Hybrid,Aphria,Good Supply,5,17.0,23.0,0.0,2.0,86.25,5.75,15
+Sour Kush,Hybrid,Aphria,Good Supply,5,17.0,23.0,0.0,2.0,147.25,5.26,28
+Starwalker Kush,Indica Dominant,Aphria,Good Supply,5,18.5,24.5,0.0,0.99,23.95,6.84,3.5
+Starwalker Kush,Indica Dominant,Aphria,Good Supply,5,18.5,24.5,0.0,0.99,86.25,5.75,15
+Starwalker Kush,Indica Dominant,Aphria,Good Supply,5,18.5,24.5,0.0,0.99,147.25,5.26,28
+Monkey Glue,Hybrid,Aphria,Good Supply,5,16.0,22.0,0.0,1.0,23.95,6.84,3.5
+Monkey Glue,Hybrid,Aphria,Good Supply,5,16.0,22.0,0.0,1.0,86.25,5.75,15
+Monkey Glue,Hybrid,Aphria,Good Supply,5,16.0,22.0,0.0,1.0,147.25,5.26,28
+Jean Guy,Sativa Dominant,Aphria,Good Supply,5,18.0,25.0,0.0,1.0,7.20,7.20,1
+Jean Guy,Sativa Dominant,Aphria,Good Supply,5,18.0,25.0,0.0,1.0,23.95,6.84,3.5
+Jean Guy,Sativa Dominant,Aphria,Good Supply,5,18.0,25.0,0.0,1.0,44.55,6.36,7
+Jean Guy,Sativa Dominant,Aphria,Good Supply,5,18.0,25.0,0.0,1.0,86.25,5.75,15
+Jean Guy,Sativa Dominant,Aphria,Good Supply,5,18.0,25.0,0.0,1.0,147.25,5.26,28
+AAA Hybrid,Hybrid,7ACRES,Hiway,5,14.0,20.5,0.0,1.0,74.95,5.35,14
+Cold Creek Kush,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.5,7.50,7.50,1
+Cold Creek Kush,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.5,23.65,6.76,3.5
+Cold Creek Kush,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.5,43.75,6.25,7
+Cold Creek Kush,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.5,84.95,5.66,15
+Cold Creek Kush,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.5,149.95,5.36,28
+OS.Reserve Hybrid,Indica Dominant,Hexo Operations,Original Stash,5,20.0,27.0,0.0,1.0,49.95,7.14,7
+OS.Reserve Hybrid,Indica Dominant,Hexo Operations,Original Stash,5,20.0,27.0,0.0,1.0,87.95,6.28,14
+OS.Reserve Hybrid,Indica Dominant,Hexo Operations,Original Stash,5,20.0,27.0,0.0,1.0,149.95,5.36,28
+OS.Reserve Sativa,Sativa Dominant,Hexo Operations,Original Stash,5,20.0,27.0,0.0,1.0,49.95,7.14,7
+OS.Reserve Sativa,Sativa Dominant,Hexo Operations,Original Stash,5,20.0,27.0,0.0,1.0,87.95,6.28,14
+OS.Reserve Sativa,Sativa Dominant,Hexo Operations,Original Stash,5,20.0,27.0,0.0,1.0,149.95,5.36,28
+Rotterdam Indica,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,5,16.0,22.0,0.0,2.0,29.95,8.56,3.5
+Rotterdam Indica,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,5,16.0,22.0,0.0,2.0,99.95,6.66,15
+Rotterdam Indica,Indica Dominant,The Green Organic Dutchman,Highly Dutch Organic,5,16.0,22.0,0.0,2.0,149.95,5.36,28
+OS.Reserve Indica,Indica Dominant,Hexo Operations,Original Stash,5,20.0,26.0,0.0,1.0,49.95,7.14,7
+OS.Reserve Indica,Indica Dominant,Hexo Operations,Original Stash,5,20.0,26.0,0.0,1.0,87.95,6.28,14
+OS.Reserve Indica,Indica Dominant,Hexo Operations,Original Stash,5,20.0,26.0,0.0,1.0,149.95,5.36,28
+Afghan Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,22.0,0.0,0.5,22.95,6.56,3.5
+Afghan Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,22.0,0.0,0.5,42.70,6.10,7
+Afghan Kush,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,22.0,0.0,0.5,77.10,5.51,14
+D. Bubba,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,17.0,23.0,0.0,1.0,22.95,6.56,3.5
+D. Bubba,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,17.0,23.0,0.0,1.0,42.70,6.10,7
+D. Bubba,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,17.0,23.0,0.0,1.0,77.10,5.51,14
+Polar Kish,Indica Dominant,Northern Green Canada,Northern Green Canada,5,14.0,20.0,0.0,1.0,19.75,5.64,3.5
+Black Cherry Punch,Indica Dominant,Redecan,Redecan,5,20.0,26.0,0.0,1.0,7.50,7.50,1
+Black Cherry Punch,Indica Dominant,Redecan,Redecan,5,20.0,26.0,0.0,1.0,23.65,6.76,3.5
+Black Cherry Punch,Indica Dominant,Redecan,Redecan,5,20.0,26.0,0.0,1.0,79.30,5.66,14
+Lilac Diesel,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.0,7.50,7.50,1
+Lilac Diesel,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.0,23.65,6.76,3.5
+Lilac Diesel,Sativa Dominant,Redecan,Redecan,5,17.0,23.0,0.0,1.0,79.30,5.66,14
+Outlaw,Sativa Dominant,Redecan,Redecan,5,18.0,24.0,0.0,0.1,7.50,7.50,1
+Outlaw,Sativa Dominant,Redecan,Redecan,5,18.0,24.0,0.0,0.1,23.65,6.76,3.5
+Outlaw,Sativa Dominant,Redecan,Redecan,5,18.0,24.0,0.0,0.1,43.75,6.25,7
+Outlaw,Sativa Dominant,Redecan,Redecan,5,18.0,24.0,0.0,0.1,84.95,5.66,15
+Wappa,Indica Dominant,Redecan,Redecan,5,19.0,25.0,0.0,0.1,7.50,7.50,1
+Wappa,Indica Dominant,Redecan,Redecan,5,19.0,25.0,0.0,0.1,23.65,6.76,3.5
+Wappa,Indica Dominant,Redecan,Redecan,5,19.0,25.0,0.0,0.1,43.75,6.25,7
+Wappa,Indica Dominant,Redecan,Redecan,5,19.0,25.0,0.0,0.1,84.95,5.66,15
+Tsunami,Indica Dominant,Hexo Operations,Hexo,5,20.0,26.0,0.0,1.0,28.95,8.27,3.5
+Tsunami,Indica Dominant,Hexo Operations,Hexo,5,20.0,26.0,0.0,1.0,169.95,5.67,30
+Flo,Hybrid,Emblem Cannabis,Divvy,5,20.0,26.0,0.0,1.0,19.95,5.70,3.5
+The Adventurer,Indica Dominant,Natural MedCo,Eve & Co.,5,16.0,20.0,0.0,1.0,19.95,5.70,3.5
+Ghost Train Haze,Sativa Dominant,Sensi Brands,Station House,5,18.0,22.0,0.01,0.2,79.95,5.71,14
+Blue Dream,Sativa Dominant,Sensi Brands,Station House,5,18.0,22.0,0.0,0.5,79.95,5.71,14
+OG Kush,Indica Dominant,Sensi Brands,Station House,5,18.0,22.0,0.0,0.2,79.95,5.71,14
+Muskoka Kush,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,5,20.0,24.0,0.0,1.0,79.95,5.71,14
+Subway Scientist,Indica Dominant,Aphria,RIFF,5,19.0,25.0,0.0,1.0,8.95,8.95,1
+Subway Scientist,Indica Dominant,Aphria,RIFF,5,19.0,25.0,0.0,1.0,29.95,8.56,3.5
+Subway Scientist,Indica Dominant,Aphria,RIFF,5,19.0,25.0,0.0,1.0,55.70,7.96,7
+Subway Scientist,Indica Dominant,Aphria,RIFF,5,19.0,25.0,0.0,1.0,159.95,5.71,28
+Hell Cat 33,Hybrid,Aphria,RIFF,5,18.0,24.0,0.0,2.0,32.95,9.41,3.5
+Hell Cat 33,Hybrid,Aphria,RIFF,5,18.0,24.0,0.0,2.0,159.95,5.71,28
+White Rhino,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,22.0,0.0,1.0,22.95,6.56,3.5
+White Rhino,Indica Dominant,Pure Sunfarms,Pure Sunfarms,5,18.0,22.0,0.0,1.0,42.70,6.10,7
+Island Honey,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,4,16.0,19.0,0.0,1.99,22.95,6.56,3.5
+Island Honey,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,4,16.0,19.0,0.0,1.99,42.70,6.10,7
+Balanced,Hybrid,Canopy Growth,TWD.,3,7.0,13.0,5.0,11.0,21.50,6.14,3.5
+Balanced,Hybrid,Canopy Growth,TWD.,3,7.0,13.0,5.0,11.0,40.00,5.71,7
+Grower's Choice Hybrid,Hybrid,Aphria,Good Supply,5,16.0,23.0,0.0,2.0,21.50,6.14,3.5
+Sky Pilot,Indica Dominant,Tantalus Labs,Tantalus Labs,5,18.0,24.0,0.0,1.0,29.95,8.56,3.5
+Sky Pilot,Indica Dominant,Tantalus Labs,Tantalus Labs,5,18.0,24.0,0.0,1.0,92.95,6.20,15
+Flicker Buds,Indica Dominant,Organigram,Trailblazer,4,15.0,19.0,0.0,1.0,21.95,6.27,3.5
+Flicker Buds,Indica Dominant,Organigram,Trailblazer,4,15.0,19.0,0.0,1.0,40.80,5.83,7
+Flicker Buds,Indica Dominant,Organigram,Trailblazer,4,15.0,19.0,0.0,1.0,74.95,5.00,15
+Spark Buds,Sativa Dominant,Organigram,Trailblazer,4,15.0,19.0,0.0,1.0,21.95,6.27,3.5
+Spark Buds,Sativa Dominant,Organigram,Trailblazer,4,15.0,19.0,0.0,1.0,40.80,5.83,7
+Spark Buds,Sativa Dominant,Organigram,Trailblazer,4,15.0,19.0,0.0,1.0,74.95,5.00,15
+Pedro's Sweet Sativa Ready To Roll,Sativa Dominant,WeedMD,Color Cannabis,5,15.0,21.0,0.0,1.0,22.50,6.43,3.5
+Ghost Train Haze Ready To Roll,Sativa Dominant,WeedMD,Color Cannabis,5,18.0,24.0,0.0,1.0,22.50,6.43,3.5
+Platinum Cookies,Sativa Dominant,Sundial Growers,Palmetto,5,20.0,26.0,1.0,1.0,22.95,6.56,3.5
+Blue Dream,Sativa Dominant,Pure Sunfarms,Pure Sunfarms,4,16.0,19.0,0.0,1.0,22.95,6.56,3.5
+Pine Kush,Indica Dominant,Kolab Project,Back Forty,5,18.0,24.0,0.0,1.0,22.95,6.56,3.5
+Pine Kush,Indica Dominant,Kolab Project,Back Forty,5,18.0,24.0,0.0,1.0,124.95,4.46,28
+Headband,Sativa Dominant,Sundial Growers,Palmetto,5,17.0,22.0,0.0,1.0,22.95,6.56,3.5
+Nuken,Indica Dominant,Sundial Growers,Palmetto,5,17.0,22.0,0.0,1.0,22.95,6.56,3.5
+Headband,Hybrid,Pure Sunfarms,Pure Sunfarms,5,17.0,23.0,0.0,1.99,22.95,6.56,3.5
+Headband,Hybrid,Pure Sunfarms,Pure Sunfarms,5,17.0,23.0,0.0,1.99,42.70,6.10,7
+Pure Sun CBD,Hybrid,Pure Sunfarms,Pure Sunfarms,1,0.0,1.0,14.0,20.0,22.95,6.56,3.5
+Pure Sun CBD,Hybrid,Pure Sunfarms,Pure Sunfarms,1,0.0,1.0,14.0,20.0,42.70,6.10,7
+Mango Haze,Sativa Dominant,WeedMD,Color Cannabis,2,4.0,10.0,6.0,12.0,27.50,7.86,3.5
+Mango Haze,Sativa Dominant,WeedMD,Color Cannabis,2,4.0,10.0,6.0,12.0,98.95,6.60,15
+Black Sugar Rose,Indica Dominant,WeedMD,Color Cannabis,5,18.0,24.0,0.0,1.0,27.50,7.86,3.5
+Black Sugar Rose,Indica Dominant,WeedMD,Color Cannabis,5,18.0,24.0,0.0,1.0,98.95,6.60,15
+Pedro's Sweet Sativa,Sativa Dominant,WeedMD,Color Cannabis,5,16.0,22.0,0.0,1.0,27.50,7.86,3.5
+Pedro's Sweet Sativa,Sativa Dominant,WeedMD,Color Cannabis,5,16.0,22.0,0.0,1.0,98.95,6.60,15
+Ghost Train Haze,Sativa Dominant,WeedMD,Color Cannabis,5,17.0,23.0,0.0,1.0,27.50,7.86,3.5
+Ghost Train Haze,Sativa Dominant,WeedMD,Color Cannabis,5,17.0,23.0,0.0,1.0,98.95,6.60,15
+Sinaloa Gold,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,5,17.0,23.0,0.0,1.0,23.50,6.71,3.5
+White Out,Sativa Dominant,Delta 9 Bio-Tech,Delta 9,5,16.0,23.0,0.0,1.0,23.50,6.71,3.5
+Orange Monkey,Indica Dominant,Canntrust,Liiv,5,19.0,25.0,0.0,10.0,23.95,6.84,3.5
+Indica,Indica Dominant,Aphria,Papa's Herb,5,17.0,23.0,0.0,1.0,23.95,6.84,3.5
+Sativa,Sativa Dominant,Aphria,Papa's Herb,5,18.0,24.0,0.0,1.0,23.95,6.84,3.5
+Bali Kush,Indica Dominant,Canntrust,liiv,5,16.0,22.0,0.0,2.0,23.95,6.84,3.5
+Royal Highness,Hybrid,Aphria,Good Supply,5,17.0,24.0,0.0,1.0,7.20,7.20,1
+Royal Highness,Hybrid,Aphria,Good Supply,5,17.0,24.0,0.0,1.0,23.95,6.84,3.5
+Royal Highness,Hybrid,Aphria,Good Supply,5,17.0,24.0,0.0,1.0,44.55,6.36,7
+Royal Highness,Hybrid,Aphria,Good Supply,5,17.0,24.0,0.0,1.0,86.25,5.75,15
+Royal Highness,Hybrid,Aphria,Good Supply,5,17.0,24.0,0.0,1.0,147.25,5.26,28
+Free,Sativa Dominant,Aphria,Solei,1,0.3,1.0,11.0,17.0,7.20,7.20,1
+Free,Sativa Dominant,Aphria,Solei,1,0.3,1.0,11.0,17.0,23.95,6.84,3.5
+Free,Sativa Dominant,Aphria,Solei,1,0.3,1.0,11.0,17.0,44.55,6.36,7
+Granddaddy Purple,Indica Dominant,Delshen Therapeutics,48North,5,17.0,23.2,0.0,1.0,24.50,7.00,3.5
+Sense,Hybrid,Aphria,Solei,5,17.0,23.0,0.0,1.0,8.50,8.50,1
+Sense,Hybrid,Aphria,Solei,5,17.0,23.0,0.0,1.0,26.50,7.57,3.5
+Sense,Hybrid,Aphria,Solei,5,17.0,23.0,0.0,1.0,49.30,7.04,7
+Unplug,Hybrid,Aphria,Solei,5,15.0,21.0,0.0,1.0,8.50,8.50,1
+Unplug,Hybrid,Aphria,Solei,5,15.0,21.0,0.0,1.0,26.50,7.57,3.5
+Unplug,Hybrid,Aphria,Solei,5,15.0,21.0,0.0,1.0,49.30,7.04,7
+Green Cush,Sativa Dominant,High Park,Canaca,5,20.0,26.0,0.0,0.1,26.50,7.57,3.5
+Green Cush,Sativa Dominant,High Park,Canaca,5,20.0,26.0,0.0,0.1,49.40,7.06,7
+Strawberry Ice,Sativa Dominant,Maricann Group,Northern Harvest,5,15.0,21.0,0.0,4.0,7.50,7.50,1
+Strawberry Ice,Sativa Dominant,Maricann Group,Northern Harvest,5,15.0,21.0,0.0,4.0,24.90,7.11,3.5
+Mango Haze,Sativa Dominant,Maricann Group,Kiwi Cannabis,2,4.0,10.0,6.0,13.0,7.50,7.50,1
+Mango Haze,Sativa Dominant,Maricann Group,Kiwi Cannabis,2,4.0,10.0,6.0,13.0,24.90,7.11,3.5
+Cali-O,Hybrid,Maricann Group,Kiwi Cannabis,2,5.0,9.0,6.0,12.0,7.50,7.50,1
+Cali-O,Hybrid,Maricann Group,Kiwi Cannabis,2,5.0,9.0,6.0,12.0,24.90,7.11,3.5
+HiFi 4G,Hybrid,AB Laboratories,Steel City Green,5,18.0,23.0,0.0,1.0,24.95,7.13,3.5
+HiFi 4G,Hybrid,AB Laboratories,Steel City Green,5,18.0,23.0,0.0,1.0,61.30,8.76,7
+Glueberry OG,Hybrid,AB Laboratories,Steel City Green,5,17.0,22.0,0.0,1.0,24.95,7.13,3.5
+Glueberry OG,Hybrid,AB Laboratories,Steel City Green,5,17.0,22.0,0.0,1.0,61.30,8.76,7
+Lemon Ziddy,Hybrid,AB Laboratories,Steel City Green,5,18.0,23.0,0.0,1.0,24.95,7.13,3.5
+Lemon Ziddy,Hybrid,AB Laboratories,Steel City Green,5,18.0,23.0,0.0,1.0,61.30,8.76,7
+Rockstar,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,5,20.0,24.0,0.0,5.0,99.95,7.14,14
+Hindu Kush,Indica Dominant,Canopy Growth,Tweed,5,18.0,24.0,0.0,0.5,8.10,8.10,1
+Hindu Kush,Indica Dominant,Canopy Growth,Tweed,5,18.0,24.0,0.0,0.5,26.95,7.70,3.5
+Hindu Kush,Indica Dominant,Canopy Growth,Tweed,5,18.0,24.0,0.0,0.5,50.10,7.16,7
+Afghan Kush,Indica Dominant,Canopy Growth,Tweed,5,19.0,25.0,0.0,0.5,8.10,8.10,1
+Afghan Kush,Indica Dominant,Canopy Growth,Tweed,5,19.0,25.0,0.0,0.5,26.95,7.70,3.5
+Afghan Kush,Indica Dominant,Canopy Growth,Tweed,5,19.0,25.0,0.0,0.5,50.10,7.16,7
+The Edge,Sativa Dominant,Muskoka Grown Limited,Muskoka Grown,4,13.0,19.0,0.0,0.0,25.95,7.41,3.5
+Cold Creek Kush,Indica Dominant,AgMedica Bioscience,Vertical,5,20.0,26.0,0.0,1.0,52.00,7.43,7
+Charlees,Indica Dominant,Redecan,Redecan,5,14.0,20.0,0.0,1.0,7.50,7.50,1
+Charlees,Indica Dominant,Redecan,Redecan,5,14.0,20.0,0.0,1.0,23.65,6.76,3.5
+Charlees,Indica Dominant,Redecan,Redecan,5,14.0,20.0,0.0,1.0,43.75,6.25,7
+Charlees,Indica Dominant,Redecan,Redecan,5,14.0,20.0,0.0,1.0,84.95,5.66,15
+Super Lemon Haze,Sativa Dominant,Aphria,Solei,5,18.0,24.0,0.0,2.0,26.50,7.57,3.5
+Chocolate Cheesecake,Hybrid,Aphria,Solei,5,19.0,25.0,0.0,2.0,26.50,7.57,3.5
+Purps,Hybrid,High Park,Canaca,5,20.0,26.0,0.0,1.0,26.50,7.57,3.5
+Mango,Indica Dominant,High Park,CANACA,5,20.0,26.0,0.0,1.0,26.50,7.57,3.5
+Mango,Indica Dominant,High Park,CANACA,5,20.0,26.0,0.0,1.0,49.30,7.04,7
+Blue Nova,Sativa Dominant,Sundial Growers,Sundial,5,20.0,26.0,0.0,1.0,26.50,7.57,3.5
+Wappa,Indica Dominant,Zenabis,Namaste,5,14.0,20.0,0.0,1.0,7.95,7.95,1
+Wappa,Indica Dominant,Zenabis,Namaste,5,14.0,20.0,0.0,1.0,26.50,7.57,3.5
+Alien Dawg,Indica Dominant,High Park,CANACA,5,19.0,25.0,0.0,1.0,26.50,7.57,3.5
+Balance,Hybrid,Aphria,Solei,2,4.0,11.0,8.5,15.5,8.50,8.50,1
+Balance,Hybrid,Aphria,Solei,2,4.0,11.0,8.5,15.5,26.50,7.57,3.5
+Balance,Hybrid,Aphria,Solei,2,4.0,11.0,8.5,15.5,24.98,3.57,7
+Blueberry,Hybrid,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.99,28.95,8.27,3.5
+Blueberry,Hybrid,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.99,53.85,7.69,7
+Rockstar Kush,Indica Dominant,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,28.95,8.27,3.5
+Rockstar Kush,Indica Dominant,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,53.85,7.69,7
+Diesel,Hybrid,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,28.95,8.27,3.5
+Diesel,Hybrid,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,53.85,7.69,7
+Sensi Star,Indica Dominant,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,28.95,8.27,3.5
+Sensi Star,Indica Dominant,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,53.85,7.69,7
+UK Cheese,Hybrid,Canopy Growth,Tweed,5,20.0,26.0,0.0,0.5,8.10,8.10,1
+UK Cheese,Hybrid,Canopy Growth,Tweed,5,20.0,26.0,0.0,0.5,26.95,7.70,3.5
+Jelly Breath,Indica Dominant,Organigram,Indi Cannabis,5,17.0,23.0,0.0,0.15,26.95,7.70,3.5
+M’mosa,Sativa Dominant,Organigram,Edison Cannabis Co,5,17.0,23.0,0.0,0.15,26.95,7.70,3.5
+Purple Aya,Sativa Dominant,SESS Holdings,SELESTE,5,18.0,26.0,0.0,1.1,26.95,7.70,3.5
+King Tut,Hybrid,SESS Holdings,SELESTE,5,18.0,24.0,0.0,1.1,26.95,7.70,3.5
+Go Elevate Kali Mist,Sativa Dominant,Canada's Island Garden,FIGR,5,20.0,26.0,0.0,0.2,26.95,7.70,3.5
+Go Play Mandarin Cookies,Sativa Dominant,Canada's Island Garden,FIGR,5,19.0,25.0,0.0,1.0,26.95,7.70,3.5
+Go Steady Black Cherry Punch,Indica Dominant,Canada's Island Garden,FIGR,5,20.0,26.0,0.0,0.2,26.95,7.70,3.5
+Slurricane,Indica Dominant,Organigram,Edison Cannabis Co,5,17.0,23.0,0.0,0.15,26.95,7.70,3.5
+Ghost Train Haze UP20,Sativa Dominant,Hexo Operations,UP,5,20.0,26.0,0.0,1.0,26.95,7.70,3.5
+Northern Berry UP20,Indica Dominant,Hexo Operations,UP,5,20.0,26.0,0.0,1.0,26.95,7.70,3.5
+Cold Creek Kush UP20,Indica Dominant,Hexo Operations,UP,5,20.0,27.0,0.0,1.0,26.95,7.70,3.5
+Green Cush,Sativa Dominant,Canopy Growth,Tweed,5,17.0,23.0,0.0,0.5,8.10,8.10,1
+Green Cush,Sativa Dominant,Canopy Growth,Tweed,5,17.0,23.0,0.0,0.5,26.95,7.70,3.5
+Green Cush,Sativa Dominant,Canopy Growth,Tweed,5,17.0,23.0,0.0,0.5,50.10,7.16,7
+Green Cush,Sativa Dominant,Canopy Growth,Tweed,5,17.0,23.0,0.0,0.5,97.00,6.47,15
+Skunk Haze,Hybrid,Canopy Growth,Tweed,3,6.0,12.0,5.0,11.0,8.10,8.10,1
+Skunk Haze,Hybrid,Canopy Growth,Tweed,3,6.0,12.0,5.0,11.0,26.95,7.70,3.5
+White Shark,Sativa Dominant,WeedMD,Color Cannabis,4,15.0,19.0,0.0,2.0,27.50,7.86,3.5
+Blueberry Seagal,Indica Dominant,WeedMD,Color Cannabis,5,14.0,20.0,0.0,1.0,27.50,7.86,3.5
+Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,1.0,10.50,10.50,1
+Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,1.0,34.95,9.99,3.5
+Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,1.0,65.00,9.29,7
+Limelight,Sativa Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,1.0,111.95,8.00,14
+Black Cherry Punch,Indica Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,0.15,10.50,10.50,1
+Black Cherry Punch,Indica Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,0.15,34.95,9.99,3.5
+Black Cherry Punch,Indica Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,0.15,111.95,8.00,14
+C-LAND,Sativa Dominant,Canopy Growth,Tweed,5,17.0,23.0,0.0,0.5,8.10,8.10,1
+C-LAND,Sativa Dominant,Canopy Growth,Tweed,5,17.0,23.0,0.0,0.5,26.95,7.70,3.5
+Sage N Sour,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,5,21.0,27.0,0.0,1.0,35.45,10.13,3.5
+Sage N Sour,Sativa Dominant,The Green Organic Dutchman,MTL Cannabis,5,21.0,27.0,0.0,1.0,114.95,8.21,14
+Blue Dream,Sativa Dominant,Aurora Cannabis,Aurora,5,19.0,24.0,0.0,1.0,9.00,9.00,1
+Blue Dream,Sativa Dominant,Aurora Cannabis,Aurora,5,19.0,24.0,0.0,1.0,28.95,8.27,3.5
+Buns N Roses,Indica Dominant,BZAM Cannabis,SuperFlower,5,22.0,28.0,0.0,1.0,28.95,8.27,3.5
+Pink Krush,Indica Dominant,Pure Sunfarms,Favours,5,21.0,25.0,0.0,1.0,28.95,8.27,3.5
+Strawberry Cake,Indica Dominant,AgMedica Bioscience,Vertical Cannabis,5,20.0,26.0,0.0,1.0,28.95,8.27,3.5
+Wedding Cake,Hybrid,Peace Naturals Project,Spinach,5,20.0,29.7,0.0,1.0,28.95,8.27,3.5
+Slurri Crasher,Indica Dominant,Tantalus Labs,Tantalus Labs,5,18.0,22.0,0.0,1.0,28.95,8.27,3.5
+Blue Dream,Sativa Dominant,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,2.0,28.95,8.27,3.5
+Dancehall,Sativa Dominant,Peace Naturals Project,Spinach,2,4.0,10.0,6.0,12.0,28.95,8.27,3.5
+White Widow,Hybrid,Peace Naturals Project,Spinach,5,18.0,24.0,0.0,1.0,28.95,8.27,3.5
+French Macaron,Indica Dominant,JC Green Cannabis,Jonny Chronic,5,21.0,27.0,0.0,1.99,57.95,8.28,7
+Amsterdam Sativa,Sativa Dominant,The Green Organic Dutchman,Highly Dutch Organic,5,19.0,26.0,0.0,2.0,29.95,8.56,3.5
+Chocolate Mint OG,Indica Dominant,AB Laboratories,Steel City Green,5,19.0,25.0,0.0,1.0,29.95,8.56,3.5
+Pink Grapefruit Haze,Sativa Dominant,Canntrust,Synr.g,5,16.0,22.0,0.0,2.0,29.95,8.56,3.5
+Social (Mango),Sativa Dominant,Fleurish Cannabis,Fleurish,5,18.0,24.0,0.0,2.0,29.95,8.56,3.5
+Green Crush,Sativa Dominant,Delshen Therapeutics,48North,5,18.0,25.0,0.0,1.0,29.95,8.56,3.5
+Grapefruit GG1,Hybrid,Emerald Health Therapeutics,Emerald,5,17.0,23.0,0.0,1.0,29.95,8.56,3.5
+Chemdog,Sativa Dominant,Emerald Health Therapeutics,Emerald,5,18.0,23.0,0.0,1.0,29.95,8.56,3.5
+Blue Gorilla,Hybrid,Muskoka Grown Limited,Muskoka Grown,4,13.0,19.0,0.0,1.0,29.95,8.56,3.5
+Pacific OG,Sativa Dominant,Tantalus Labs,Tantalus Labs,5,22.0,28.0,0.0,1.0,29.95,8.56,3.5
+Kalifornia,Indica Dominant,Kolab Project,Kolab Project,5,23.0,28.0,0.0,1.0,39.95,11.41,3.5
+Kalifornia,Indica Dominant,Kolab Project,Kolab Project,5,23.0,28.0,0.0,1.0,119.95,8.57,14
+White Widow,Hybrid,7ACRES,7ACRES,5,16.0,22.0,0.0,1.0,32.95,9.41,3.5
+White Widow,Hybrid,7ACRES,7ACRES,5,16.0,22.0,0.0,1.0,61.30,8.76,7
+Jack Haze,Sativa Dominant,7ACRES,7ACRES,5,17.0,23.0,0.0,1.0,32.95,9.41,3.5
+Jack Haze,Sativa Dominant,7ACRES,7ACRES,5,17.0,23.0,0.0,1.0,61.30,8.76,7
+Sensi Star,Indica Dominant,7ACRES,7ACRES,5,19.0,25.0,0.0,2.0,32.95,9.41,3.5
+Sensi Star,Indica Dominant,7ACRES,7ACRES,5,19.0,25.0,0.0,2.0,61.30,8.76,7
+DT81,Sativa Dominant,Aphria,RIFF,5,18.0,24.0,0.0,1.0,9.90,9.90,1
+DT81,Sativa Dominant,Aphria,RIFF,5,18.0,24.0,0.0,1.0,32.95,9.41,3.5
+DT81,Sativa Dominant,Aphria,RIFF,5,18.0,24.0,0.0,1.0,61.30,8.76,7
+Raider Kush,Indica Dominant,Aphria,RIFF,5,17.0,25.0,0.0,0.99,9.90,9.90,1
+Raider Kush,Indica Dominant,Aphria,RIFF,5,17.0,25.0,0.0,0.99,32.95,9.41,3.5
+Raider Kush,Indica Dominant,Aphria,RIFF,5,17.0,25.0,0.0,0.99,61.30,8.76,7
+Hawaii Heartbreak,Indica Dominant,Aphria,RIFF,5,18.0,24.0,0.0,0.99,10.10,10.10,1
+Hawaii Heartbreak,Indica Dominant,Aphria,RIFF,5,18.0,24.0,0.0,0.99,33.45,9.56,3.5
+Hawaii Heartbreak,Indica Dominant,Aphria,RIFF,5,18.0,24.0,0.0,0.99,62.20,8.89,7
+Muskmelon OG (Saturna),Hybrid,Broken Coast Cannabis,Broken Coast,5,18.0,24.0,0.0,2.0,48.00,13.71,3.5
+Muskmelon OG (Saturna),Hybrid,Broken Coast Cannabis,Broken Coast,5,18.0,24.0,0.0,2.0,249.95,8.93,28
+Stargazer (Sonora),Indica Dominant,Broken Coast Cannabis,Broken Coast,5,18.0,24.0,0.0,2.0,48.00,13.71,3.5
+Stargazer (Sonora),Indica Dominant,Broken Coast Cannabis,Broken Coast,5,18.0,24.0,0.0,2.0,249.95,8.93,28
+Dark Helmet,Hybrid,Trichome JWC Acquisition,WAGNERS,5,21.0,26.0,0.0,1.0,31.95,9.13,3.5
+The Silverback #4,Hybrid,Trichome JWC Acquisition,WAGNERS,5,21.0,26.0,0.0,1.0,31.95,9.13,3.5
+Dark Helmet,Indica Dominant,Trichome JWC Acquisition,JWC,5,19.0,24.0,0.0,1.0,31.95,9.13,3.5
+BC Black Cherry,Indica Dominant,The Flowr Group,Flowr,5,20.0,25.0,0.0,1.0,39.95,11.41,3.5
+BC Black Cherry,Indica Dominant,The Flowr Group,Flowr,5,20.0,25.0,0.0,1.0,129.95,9.28,14
+8 Ball Kush,Indica Dominant,United Greeneries,18twelve,5,21.0,27.0,0.0,1.0,39.95,11.41,3.5
+8 Ball Kush,Indica Dominant,United Greeneries,18twelve,5,21.0,27.0,0.0,1.0,129.95,9.28,14
+24k Gold,Indica Dominant,Zenabis,Namaste,5,18.0,24.0,0.0,0.99,32.50,9.29,3.5
+Ultra Sour,Sativa Dominant,Zenabis,Namaste,5,17.0,23.0,0.0,1.0,9.75,9.75,1
+Ultra Sour,Sativa Dominant,Zenabis,Namaste,5,17.0,23.0,0.0,1.0,32.50,9.29,3.5
+Sunset,Indica Dominant,Canopy Growth,LBS,5,20.0,26.0,0.0,0.5,10.50,10.50,1
+Sunset,Indica Dominant,Canopy Growth,LBS,5,20.0,26.0,0.0,0.5,34.95,9.99,3.5
+Sunset,Indica Dominant,Canopy Growth,LBS,5,20.0,26.0,0.0,0.5,65.00,9.29,7
+Pink Vanilla OG,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,5,20.0,24.0,0.0,5.0,32.95,9.41,3.5
+Papaya,Indica Dominant,7ACRES,7ACRES,5,19.0,25.0,0.0,1.0,32.95,9.41,3.5
+Gilded Grams,Sativa Dominant,Aphria,RIFF,5,19.0,25.0,0.0,2.0,32.95,9.41,3.5
+Fruit Pie,Indica Dominant,Muskoka Grown Limited,Muskoka Grown,5,20.0,24.0,0.0,5.0,32.95,9.41,3.5
+Jean Guy,Hybrid,7ACRES,7ACRES,5,15.0,20.0,0.0,1.0,32.95,9.41,3.5
+Jean Guy,Hybrid,7ACRES,7ACRES,5,15.0,20.0,0.0,1.0,61.30,8.76,7
+Garlic Cookies,Indica Dominant,SESS Holdings,CALI,5,21.0,27.0,0.0,2.0,32.95,9.41,3.5
+Wappa 49,Indica Dominant,7ACRES,7ACRES,5,18.0,24.0,0.0,1.0,32.95,9.41,3.5
+RC Royal Goddess,Indica Dominant,CannTx Life Sciences,Royal City Cannabis Co.,5,17.0,23.0,0.0,1.0,32.95,9.41,3.5
+RC Orange Hill Special,Sativa Dominant,CannTx Life Sciences,Royal City Cannabis Co.,5,14.0,20.0,0.0,1.0,32.95,9.41,3.5
+Glueberry OG,Hybrid,Muskoka Grown Limited,Muskoka Grown,5,18.0,24.5,0.0,0.0,32.95,9.41,3.5
+Grandpa's Stash,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,5,18.0,24.0,0.0,2.0,66.50,9.50,7
+Raspberry Cough,Sativa Dominant,Canveda,Strain Rec,4,13.0,19.0,0.0,1.0,33.95,9.70,3.5
+Where's My Bike,Hybrid,Delshen Therapeutics,48North,5,19.0,23.0,0.0,2.0,33.95,9.70,3.5
+No. 428 Secret Address,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,5,22.0,27.0,0.0,1.0,33.95,9.70,3.5
+Solar Power,Hybrid,Emblem Cannabis,Symbl,5,19.0,25.0,0.0,1.0,10.25,10.25,1
+Solar Power,Hybrid,Emblem Cannabis,Symbl,5,19.0,25.0,0.0,1.0,34.10,9.74,3.5
+No. 417 Indigo Daze,Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,5,21.0,28.0,0.0,0.5,10.25,10.25,1
+No. 417 Indigo Daze,Indica Dominant,Terrascend Canada,Haven St. Premium Cannabis,5,21.0,28.0,0.0,0.5,34.15,9.76,3.5
+Sativa,Sativa Dominant,Canopy Growth,Houseplant,5,18.0,24.0,0.0,0.5,36.95,10.56,3.5
+Sativa,Sativa Dominant,Canopy Growth,Houseplant,5,18.0,24.0,0.0,0.5,68.75,9.82,7
+Watermelon Zktlz,Hybrid,Alberta Craft Cannabis,Tenzo,5,17.0,23.0,0.0,1.0,36.95,10.56,3.5
+Watermelon Zktlz,Hybrid,Alberta Craft Cannabis,Tenzo,5,17.0,23.0,0.0,1.0,68.95,9.85,7
+Wedding Crasher,Indica Dominant,Alberta Craft Cannabis,Tenzo,5,18.0,25.0,0.0,2.0,36.95,10.56,3.5
+Wedding Crasher,Indica Dominant,Alberta Craft Cannabis,Tenzo,5,18.0,25.0,0.0,2.0,68.95,9.85,7
+Amnesia x Super Haze,Sativa Dominant,Mera Cannabis,Thumbs Up Brand,5,20.0,26.0,0.0,1.0,34.50,9.86,3.5
+Dartmouth Kush,Hybrid,Breathing Green Solutions,SKOSHA,5,20.0,26.0,0.0,1.0,34.95,9.99,3.5
+Sour Kush,Indica Dominant,Canopy Growth,Doja,5,20.0,26.0,0.0,1.0,34.95,9.99,3.5
+Sour Kush,Hybrid,Emblem Cannabis,Nith & Grand,5,19.0,25.0,0.0,1.0,34.95,9.99,3.5
+Exotic Gas,Hybrid,Canadian Clinical Cannabinoids,The Loud Plug,5,20.0,28.0,0.0,1.0,34.95,9.99,3.5
+MAC-1,Hybrid,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,0.15,34.95,9.99,3.5
+Gorilla Berry,Indica Dominant,GreenSeal Cannabis Company,GreenSeal,5,22.0,28.0,0.0,1.0,34.95,9.99,3.5
+GSC Kush,Indica Dominant,Will Cannabis,Flint & Embers,5,22.0,28.0,0.0,1.0,34.95,9.99,3.5
+TANGERINE COOKIES,Sativa Dominant,Galaxie Brands Corporation,WINK,5,20.0,26.0,0.0,2.0,34.95,9.99,3.5
+Nut Butter,Indica Dominant,BZAM Cannabis,BZAM,5,20.0,26.0,0.0,1.0,34.95,9.99,3.5
+GMO Cookies,Indica Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,0.15,34.95,9.99,3.5
+Mother of Berries,Indica Dominant,Safariflower,Greenman Acres,5,18.0,24.0,0.0,2.0,34.95,9.99,3.5
+HPG13,Indica Dominant,Mernova Medicinal,Ritual Green,5,19.5,27.0,0.0,1.0,34.95,9.99,3.5
+Doja C99,Sativa Dominant,Canopy Growth,DOJA,5,20.0,26.0,0.0,1.0,34.95,9.99,3.5
+Pyramid,Indica Dominant,JC Green Cannabis,Jonny Chronic,5,20.0,24.0,0.0,1.0,34.95,9.99,3.5
+Marley Gold,Sativa Dominant,High Park,Marley Natural,5,20.5,26.5,0.0,1.0,34.95,9.99,3.5
+I.C.C.,Indica Dominant,Organigram,Edison Cannabis Co,5,20.0,26.0,0.0,0.15,34.95,9.99,3.5
+Organic LA Confidential,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,5,20.0,26.0,0.0,2.0,34.95,9.99,3.5
+Organic Fire,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,5,20.0,26.0,0.0,2.0,34.95,9.99,3.5
+Organic Rockstar Tuna,Indica Dominant,The Green Organic Dutchman,The Green Organic Dutchman,5,20.0,26.0,0.0,2.0,34.95,9.99,3.5
+Rally (Island Sweet Skunk),Sativa Dominant,Fleurish Cannabis,Fleurish,5,21.0,27.0,0.0,2.0,34.95,9.99,3.5
+Marley Green,Sativa Dominant,High Park,MARLEY NATURAL,5,19.0,27.0,0.0,1.0,34.95,9.99,3.5
+Sensi Star,Hybrid,ABcann Medicinals,Fireside,5,17.0,22.0,0.0,1.0,34.95,9.99,3.5
+Blue Dream,Sativa Dominant,Canna Farms,Canna Farms,5,19.5,25.5,0.0,1.0,34.95,9.99,3.5
+Tangerine Dream,Hybrid,Canna Farms,Canna Farms,3,10.0,16.0,0.0,1.0,34.95,9.99,3.5
+Wappa,Hybrid,ABcann Medicinals,Fireside,5,19.0,25.0,0.0,1.0,10.50,10.50,1
+Wappa,Hybrid,ABcann Medicinals,Fireside,5,19.0,25.0,0.0,1.0,34.95,9.99,3.5
+Garlic Z,Indica Dominant,Delshen Therapeutics,Thumbs Up Brand,5,20.0,26.0,0.0,2.0,35.75,10.21,3.5
+Reflect Reserve,Hybrid,Peace Naturals Project,COVE,5,19.5,25.5,0.0,1.0,35.95,10.27,3.5
+Reflect Reserve,Hybrid,Peace Naturals Project,COVE,5,19.5,25.5,0.0,1.0,66.90,9.56,7
+Rest Reserve,Indica Dominant,Peace Naturals Project,COVE,5,19.0,25.0,0.0,1.0,35.95,10.27,3.5
+Chocolate Fondue,Sativa Dominant,Canopy Growth,DNA Genetics,5,18.0,24.0,0.0,0.5,10.80,10.80,1
+Chocolate Fondue,Sativa Dominant,Canopy Growth,DNA Genetics,5,18.0,24.0,0.0,0.5,35.95,10.27,3.5
+Chocolate Fondue,Sativa Dominant,Canopy Growth,DNA Genetics,5,18.0,24.0,0.0,0.5,66.85,9.55,7
+Macslurry,Indica Dominant,BZAM Cannabis,Snackbar,5,21.0,27.0,0.0,1.0,36.95,10.56,3.5
+Pink Cookies x Kush Mints,Indica Dominant,Galaxie Brands Corporation,Thumbs Up Brand,5,20.0,26.0,0.0,2.0,36.95,10.56,3.5
+PURPLE PUG,Indica Dominant,Mediwanna,ELIOS RESERVE,4,14.0,17.0,0.0,1.0,36.95,10.56,3.5
+Apex,Sativa Dominant,Atlanticann Medical,Msiku,5,19.0,25.0,0.0,2.0,36.95,10.56,3.5
+Orangeade,Sativa Dominant,Alberta Craft Cannabis,TENZO,5,17.0,23.0,0.0,1.0,36.95,10.56,3.5
+Stonewall,Sativa Dominant,Experion Biotechnologies,Citizen Stash,5,20.0,26.0,0.0,1.0,36.95,10.56,3.5
+No. 516 Sonic Express,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,5,20.0,26.0,0.0,1.0,36.95,10.56,3.5
+No. 425 Midnight Jam,Hybrid,Terrascend Canada,Haven St. Premium Cannabis,5,20.0,27.0,0.0,1.0,36.95,10.56,3.5
+LA Kush Cake,Hybrid,Tantalus Labs,Tantalus Labs,5,20.0,26.0,0.0,1.0,36.95,10.56,3.5
+Sunset Sherbet,Indica Dominant,Experion Biotechnologies,Citizen Stash,5,20.5,26.5,0.0,1.0,36.95,10.56,3.5
+Peggy's Pride,Sativa Dominant,Atlanticann Medical,Msiku,5,19.0,24.0,0.0,1.0,36.95,10.56,3.5
+Indica,Indica Dominant,Canopy Growth,Houseplant,5,20.0,28.0,0.0,1.0,36.95,10.56,3.5
+Indica,Indica Dominant,Canopy Growth,Houseplant,5,20.0,28.0,0.0,1.0,68.75,9.82,7
+No. 515 Noisy Neighbour,Sativa Dominant,Terrascend Canada,Haven St. Premium Cannabis,5,20.0,27.5,0.0,1.0,36.95,10.56,3.5
+BC Pink Kush,Indica Dominant,The Flowr Group,Flowr,5,20.0,25.0,0.0,1.0,39.95,11.41,3.5
+BC Pink Kush,Indica Dominant,The Flowr Group,Flowr,5,20.0,25.0,0.0,1.0,73.95,10.56,7
+Organic Sugar Bush,Sativa Dominant,The Green Organic Dutchman,The Green Organic Dutchman,5,20.0,25.0,0.0,2.0,37.95,10.84,3.5
+French Macaron,Indica Dominant,JC Green Cannabis,Jonny Chronic,5,15.0,24.0,0.0,1.0,38.50,11.00,3.5
+Big Dip Indica - Limited Edition,Indica Dominant,Galaxie Brands Corporation,Cruuzy,5,20.0,26.0,0.0,1.99,39.95,11.41,3.5
+Driftwood Diesel,Indica Dominant,Aurora Cannabis,San Rafael '71,5,21.0,27.0,0.0,10.0,39.95,11.41,3.5
+Lemon Rocket,Hybrid,Aurora Cannabis,San Rafael '71,5,20.0,26.0,0.0,10.0,39.95,11.41,3.5
+Stonefruit Sunset,Hybrid,Aurora Cannabis,San Rafael '71,5,19.0,25.0,0.0,10.0,39.95,11.41,3.5
+Krypto Chronic #2,Hybrid,Sugarbud,Sugarbud,5,20.0,26.0,0.0,5.0,39.95,11.41,3.5
+Mule Fuel,Hybrid,Sugarbud,Sugarbud,5,20.0,26.0,0.0,5.0,39.95,11.41,3.5
+B Banner,Hybrid,Bold Growth,BOLD Growth,5,20.0,26.0,0.0,1.0,39.95,11.41,3.5
+Sky Cuddler Double Kush,Indica Dominant,Aqualitas,Reef Organic,5,20.0,26.0,0.0,1.0,39.95,11.41,3.5
+Growers Stash #002 - Crystal Kush,Hybrid,Aurora Cannabis,San Rafael '71,5,21.0,27.0,0.0,10.0,39.95,11.41,3.5
+The Vision,Hybrid,Bold Growth,BOLD Growth,5,20.0,26.0,0.0,1.0,39.95,11.41,3.5
+Mendo Breath,Sativa Dominant,Northern Green Canada,Coterie,5,21.0,27.0,0.0,1.0,39.95,11.41,3.5
+Crescendo,Indica Dominant,Atlas Growers,Natural History,5,20.0,25.0,0.0,2.0,39.95,11.41,3.5
+Zour Apples,Sativa Dominant,Atlas Growers,Natural History,5,18.0,24.0,0.0,2.0,39.95,11.41,3.5
+PreNup,Sativa Dominant,Sugarbud,Sugarbud,5,18.0,24.0,0.0,5.0,39.95,11.41,3.5
+Freshly Baked #76,Sativa Dominant,OGEN,OGEN,5,20.0,26.0,0.0,1.0,39.95,11.41,3.5
+Coastal Kush,Indica Dominant,Aqualitas,Reef Organic,5,21.5,27.5,0.0,1.0,39.95,11.41,3.5
+Organnicraft Cherry Punch,Hybrid,Agro-Greens Natural Products,Organnicraft,5,22.0,27.0,0.0,1.99,39.95,11.41,3.5
+Wedding Cake,Indica Dominant,Weed Me,Weed Me,5,20.0,26.0,0.0,2.0,39.95,11.41,3.5
+Ice Cream Cake,Indica Dominant,Weed Me,Weed Me,5,20.0,25.0,0.0,2.0,39.95,11.41,3.5
+Dank Rainbow,Indica Dominant,Boaz Pharmaceuticals,BOAZ,5,18.5,25.0,0.0,1.0,39.95,11.41,3.5
+Mandarin Cookie,Sativa Dominant,Weed Me,Weed Me,5,21.0,26.0,0.0,2.0,39.95,11.41,3.5
+Lemon Z,Sativa Dominant,OGEN,OGEN,5,19.0,25.0,0.0,2.0,39.95,11.41,3.5
+Lemon Z,Sativa Dominant,OGEN,OGEN,5,19.0,25.0,0.0,2.0,224.95,8.03,28
+Early Glue RBx1 #15,Indica Dominant,OGEN,OGEN,5,18.0,24.5,0.0,2.0,39.95,11.41,3.5
+Early Glue RBx1 #15,Indica Dominant,OGEN,OGEN,5,18.0,24.5,0.0,2.0,224.95,8.03,28
+Mirage Plus,Indica Dominant,Breathing Green Solutions,SKOSHA,5,20.0,28.0,0.0,1.0,39.95,11.41,3.5
+Nova Glue,Hybrid,Atlanticann Medical,Msiku,5,20.0,26.0,0.0,1.0,39.95,11.41,3.5
+Gelatti,Indica Dominant,Atlanticann Medical,Msiku,5,20.0,25.0,0.0,1.0,39.95,11.41,3.5
+Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,3,11.0,15.0,0.0,1.0,12.00,12.00,1
+Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,3,11.0,15.0,0.0,1.0,39.95,11.41,3.5
+Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,3,11.0,15.0,0.0,1.0,74.30,10.61,7
+Tangerine Dream,Sativa Dominant,MedReleaf,San Rafael '71,3,11.0,15.0,0.0,1.0,139.95,9.33,15
+Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,5,19.0,24.0,0.0,1.0,12.00,12.00,1
+Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,5,19.0,24.0,0.0,1.0,39.95,11.41,3.5
+Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,5,19.0,24.0,0.0,1.0,74.30,10.61,7
+Pink Kush,Indica Dominant,MedReleaf,San Rafael '71,5,19.0,24.0,0.0,1.0,139.95,9.33,15
+Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,5,20.0,25.0,0.0,1.0,12.00,12.00,1
+Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,5,20.0,25.0,0.0,1.0,39.95,11.41,3.5
+Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,5,20.0,25.0,0.0,1.0,74.30,10.61,7
+Delahaze,Sativa Dominant,MedReleaf,San Rafael '71,5,20.0,25.0,0.0,1.0,139.95,9.33,15
+Wedding Poop,Indica Dominant,Castle Rock Farms .,BC Green,5,20.0,26.0,0.0,2.0,41.95,11.99,3.5
+Garlic Jelly,Indica Dominant,Weed Me,Weed Me Limited Batch,5,21.0,27.0,0.0,2.0,41.95,11.99,3.5
