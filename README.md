@@ -3,7 +3,7 @@
 - Scraped over 300 strains from the OCS website using Python and Selenium.
 - Created graphs and extracted statistics to explore relationships among price, grams, and THC/CBD amounts.
 
-## Code and Resources
+## Code
 __Python:__ 3.7
 
 __Packages:__ pandas, numpy, sklearn, matplotlib, seaborn, selenium
