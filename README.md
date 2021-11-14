@@ -33,5 +33,5 @@ The following changes were made:
 - Transformed potency levels into numerical values (1-5)
 
 ## Exploratory Data Analysis
-![alt text](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/1.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/1.png)
 ![alt text](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/2.png)
