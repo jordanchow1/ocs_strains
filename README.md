@@ -36,9 +36,9 @@ The following changes were made:
 Explored the distribution of each variable and correlations among the variables. Below are some highlights:
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/1.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/2.png)
-![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/3.png)
-![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/4.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/5.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/6.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/7.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/3.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/4.png)
 
