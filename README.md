@@ -9,6 +9,11 @@ __Packages:__ pandas, numpy, sklearn, matplotlib, seaborn, selenium
 
 ## Webscraping
 Scraped over 300 flowers sold on the OCS website. The information obtained for each flower is as follows:
+- Name
+- Type (Blend, indica, sativa, hybrid)
+- Producer
+- Brand
+- Potency
 - Price
 - Price per gram
 - Grams
@@ -18,3 +23,10 @@ Scraped over 300 flowers sold on the OCS website. The information obtained for e
 - Maximum amount of CBD
 
 ## Data Cleaning
+The following changes were made:
+- Removed duplicates
+- Removed '$' sign from price_per_gram
+- Parsed prices into separate rows
+- Parsed THC range into separate columns
+- Parsed CBD range into separate columns
+- Transformed potency levels into numerical values (1-5)
