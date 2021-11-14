@@ -41,4 +41,10 @@ Explored the distribution of each variable and correlations among the variables.
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/7.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/3.png)
 
+## Model Building
+The categotical variables (i.e. Producer, Brand, Type) were first transformed into dummy variables. Then, the data were split into train and test sets with a test size of 30%.
 
+Linear, Lasso, and Random Forest Regressors were implemented. To compare model performance, K-Fold Cross Validation was used to compare the average R-squared over all 5 folds (i.e. CV=5). Mean Absolute Error (MAE) was also computed to quantify how well each model performed with the test set.
+
+## Model Performance
+- __Linear Regression:__ MAE:
