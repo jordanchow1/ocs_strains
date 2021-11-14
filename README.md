@@ -4,7 +4,7 @@
 - Created graphs and extracted statistics to explore relationships among price, grams, and THC/CBD amounts.
 
 ## Code and Resources
-__Python:__ 3.7
+__Python:__ 3.7\n
 __Packages:__ pandas, numpy, sklearn, matplotlib, seaborn, selenium
 
 ## Webscraping
