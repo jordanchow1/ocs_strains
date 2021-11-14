@@ -34,4 +34,10 @@ The following changes were made:
 
 ## Exploratory Data Analysis
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/1.png)
-![alt text](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/2.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/2.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/3.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/4.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/5.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/6.png)
+![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/7.png)
+
