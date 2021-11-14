@@ -31,3 +31,5 @@ The following changes were made:
 - Parsed THC range into separate columns
 - Parsed CBD range into separate columns
 - Transformed potency levels into numerical values (1-5)
+
+## Exploratory Data Analysis
