@@ -40,5 +40,5 @@ Explored the distribution of each variable and correlations among the variables.
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/6.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/7.png)
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/3.png)
-![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/4.png)
+
 
