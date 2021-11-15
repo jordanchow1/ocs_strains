@@ -31,6 +31,7 @@ The following changes were made:
 - Parsed THC range into separate columns
 - Parsed CBD range into separate columns
 - Transformed potency levels into numerical values (1-5)
+- Converted data type of non-numerical columns to "category"
 
 ## Exploratory Data Analysis
 Explored the distribution of each variable and correlations among the variables. Below are some highlights:
@@ -42,9 +43,11 @@ Explored the distribution of each variable and correlations among the variables.
 ![](https://github.com/jordanchow1/ocs_strains/blob/main/graphs/3.png)
 
 ## Model Building
-The categotical variables (i.e. Producer, Brand, Type) were first transformed into dummy variables. Then, the data were split into train and test sets with a test size of 30%.
+The non-numerical variables (i.e. Producer, Brand, Type) were first converted to "category" data type. Then, the data were split into train and test sets with a test size of 20%.
 
-Linear, Lasso, and Random Forest Regressors were implemented. To compare model performance, K-Fold Cross Validation was used to compare the average R-squared over all 5 folds (i.e. CV=5). Mean Absolute Error (MAE) was also computed to quantify how well each model performed with the test set.
+Linear, Lasso, and Random Forest Regressors were implemented. To compare model performance, K-Fold Cross Validation was used to compare the average R-squared over all 3 fold (i.e. CV=3). Mean Absolute Error (MAE) was computed to quantify how well each model performed given the test set. Scatterplots of the predicted y values and true y values were created to visualize the discrepancy, where a 45-degree straight would mean the model could predict price with perfect accuracy.
 
 ## Model Performance
-- __Linear Regression:__ MAE:
+- __Linear Regression:__ MAE: 8.15
+- __Lasso Regression:__ MAE: 7.57
+- __Random Forest:__ MAE: 0.85
